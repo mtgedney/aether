@@ -1,0 +1,49 @@
+{
+  "id": "1w2p8dc_mpa79xnf",
+  "name": "Gryon, Talon-Lord",
+  "short": "Gryon",
+  "epithet": "Talon-Lord",
+  "description": "Avian-based lifeforms. Talon-Lord.",
+  "biology": "Avian",
+  "race": "Avian",
+  "seed": 4116236448,
+  "visualPrompt": "Cinema-grade macro portrait of a Avian alien species. covered in thick plumage, hard keratin beak, hollow bone structure, raptor features. HEAD: Beaked. EYES: 4 Single-Large eyes. SURFACE: Flowing Circuitry. GARB: Scrap-Metal Armor. FEATURES: Feathery Antennae. Style: cinematic Sci-Fi, photorealistic, dramatic rim lighting, 4k.",
+  "headShape": "Beaked",
+  "eyeStyle": "Single-Large",
+  "eyeCount": 4,
+  "clothing": "Scrap-Metal Armor",
+  "markingPattern": "Flowing Circuitry",
+  "morphology": "Feathery Antennae",
+  "color": "#ffff00",
+  "glyph": "⊕",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Lush Forest",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Lush Forest",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 7,
+    "devotion": 5,
+    "expansionism": 2,
+    "isolationism": 1,
+    "mercantilism": 7
+  },
+  "aggression": 7,
+  "devotion": 5,
+  "expansionism": 2,
+  "isolationism": 1,
+  "mercantilism": 7,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Merchant Guild",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20avian%20face%20portrait%2C%20flowing%20circuitry%2C%20beaked%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=4116236448",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1w2p8dc_mpa79xnf.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1w2p8dc_mpa79xnf.jpg",
+  "generatedAt": "2026-05-17T20:01:45.646Z",
+  "botVersion": "1.0"
+}
