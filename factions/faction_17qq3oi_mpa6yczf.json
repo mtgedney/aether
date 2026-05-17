@@ -1,0 +1,49 @@
+{
+  "id": "17qq3oi_mpa6yczf",
+  "name": "Fenar, Slime-King",
+  "short": "Fenar",
+  "epithet": "Slime-King",
+  "description": "Amorphous-based lifeforms. Slime-King.",
+  "biology": "Amorphous",
+  "race": "Amorphous",
+  "seed": 2644933410,
+  "visualPrompt": "Cinema-grade macro portrait of a Amorphous alien species. viscous translucent slime, protoplasmic mass, no symmetry, gelatinous undulating surface. HEAD: Tusked. EYES: 5 Diamond eyes. SURFACE: Corroded Etchings. GARB: Tattered Nomad Cloak. FEATURES: Floating Shards. Style: cinematic Sci-Fi, photorealistic, dramatic rim lighting, 4k.",
+  "headShape": "Tusked",
+  "eyeStyle": "Diamond",
+  "eyeCount": 5,
+  "clothing": "Tattered Nomad Cloak",
+  "markingPattern": "Corroded Etchings",
+  "morphology": "Floating Shards",
+  "color": "#44ffbb",
+  "glyph": "⟁",
+  "primaryBiome": "Sub-Surface Ocean Sphere",
+  "secondaryBiome": "Water-World",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Sub-Surface Ocean Sphere",
+    "secondary": "Water-World",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 10,
+    "devotion": 8,
+    "expansionism": 9,
+    "isolationism": 8,
+    "mercantilism": 1
+  },
+  "aggression": 10,
+  "devotion": 8,
+  "expansionism": 9,
+  "isolationism": 8,
+  "mercantilism": 1,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Merchant Guild",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20amorphous%20face%20portrait%2C%20corroded%20etchings%2C%20tusked%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2644933410",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_17qq3oi_mpa6yczf.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_17qq3oi_mpa6yczf.jpg",
+  "generatedAt": "2026-05-17T19:52:45.710Z",
+  "botVersion": "1.0"
+}
