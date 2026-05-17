@@ -1,0 +1,49 @@
+{
+  "id": "87l6ha_mpaffl3j",
+  "name": "Mynen, The Obsidian",
+  "short": "Mynen",
+  "epithet": "The Obsidian",
+  "description": "Lithoid-based lifeforms. The Obsidian.",
+  "biology": "Lithoid",
+  "race": "Lithoid",
+  "seed": 496474894,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Lithoid alien species. composed of jagged rock and tectonic plates, crystalline geodic inclusions for eyes, mossy stony texture, mountain-like ruggedness, zero soft tissue. HEAD: Tusked structure with unique silhouette. EYES: 2 Single-Large eyes that look completely non-human. SURFACE: Runic Carvings texture with a #ff8800 primary hue. GARB: Wearing Pressure Suit. UNIQUE: Features Extra sensory bristles. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Tusked",
+  "eyeStyle": "Single-Large",
+  "eyeCount": 2,
+  "clothing": "Pressure Suit",
+  "markingPattern": "Runic Carvings",
+  "morphology": "Extra sensory bristles",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Volcanic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Volcanic",
+    "secondary": "Barren",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 10,
+    "devotion": 1,
+    "expansionism": 8,
+    "isolationism": 2,
+    "mercantilism": 8
+  },
+  "aggression": 10,
+  "devotion": 1,
+  "expansionism": 8,
+  "isolationism": 2,
+  "mercantilism": 8,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Hive-mind",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20lithoid%20face%20portrait%2C%20runic%20carvings%2C%20tusked%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=496474894",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_87l6ha_mpaffl3j.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_87l6ha_mpaffl3j.jpg",
+  "generatedAt": "2026-05-17T23:50:30.857Z",
+  "botVersion": "1.0"
+}
