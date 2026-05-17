@@ -1,0 +1,49 @@
+{
+  "id": "1i32ejm_mpafhn6m",
+  "name": "Xylvox, Ooze-Oracle",
+  "short": "Xylvox",
+  "epithet": "Ooze-Oracle",
+  "description": "Amorphous-based lifeforms. Ooze-Oracle.",
+  "biology": "Amorphous",
+  "race": "Amorphous",
+  "seed": 3270324514,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Amorphous alien species. viscous translucent slime, shifting protoplasmic mass, lack of symmetry, gelatinous undulating surface, multiple small erratic nuclei. HEAD: Tusked structure with unique silhouette. EYES: 3 Slit eyes that look completely non-human. SURFACE: Tiger-like banding texture with a #ffff00 primary hue. GARB: Wearing Heavy Industrial Gear. UNIQUE: Features Hollow Wing-Spans. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Tusked",
+  "eyeStyle": "Slit",
+  "eyeCount": 3,
+  "clothing": "Heavy Industrial Gear",
+  "markingPattern": "Tiger-like banding",
+  "morphology": "Hollow Wing-Spans",
+  "color": "#ffff00",
+  "glyph": "⊕",
+  "primaryBiome": "Sub-Surface Ocean Sphere",
+  "secondaryBiome": "Water-World",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Sub-Surface Ocean Sphere",
+    "secondary": "Water-World",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 5,
+    "devotion": 3,
+    "expansionism": 6,
+    "isolationism": 4,
+    "mercantilism": 5
+  },
+  "aggression": 5,
+  "devotion": 3,
+  "expansionism": 6,
+  "isolationism": 4,
+  "mercantilism": 5,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Hive-mind",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20amorphous%20face%20portrait%2C%20tiger-like%20banding%2C%20tusked%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3270324514",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1i32ejm_mpafhn6m.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1i32ejm_mpafhn6m.jpg",
+  "generatedAt": "2026-05-17T23:51:59.882Z",
+  "botVersion": "1.0"
+}
