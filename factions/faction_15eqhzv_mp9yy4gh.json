@@ -1,0 +1,49 @@
+{
+  "id": "15eqhzv_mp9yy4gh",
+  "name": "Xylus Unity, The Current-Walker",
+  "short": "Xylus",
+  "epithet": "The Current-Walker",
+  "description": "Aquatic-based lifeforms. The Current-Walker.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 2503864219,
+  "visualPrompt": "Cinema-grade macro portrait of a Aquatic alien species. thick rubbery skin, translucent fins, wet glistening texture, deep-sea alien, NO human features. HEAD: Featureless. EYES: 2 Single-Large eyes. SURFACE: Flowing Circuitry. GARB: Bio-Organic Wrap. FEATURES: Metallic Spikes. Style: cinematic Sci-Fi, photorealistic, dramatic rim lighting, 4k.",
+  "headShape": "Featureless",
+  "eyeStyle": "Single-Large",
+  "eyeCount": 2,
+  "clothing": "Bio-Organic Wrap",
+  "markingPattern": "Flowing Circuitry",
+  "morphology": "Metallic Spikes",
+  "color": "#44ffbb",
+  "glyph": "⟁",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 5,
+    "devotion": 6,
+    "expansionism": 10,
+    "isolationism": 7,
+    "mercantilism": 8
+  },
+  "aggression": 5,
+  "devotion": 6,
+  "expansionism": 10,
+  "isolationism": 7,
+  "mercantilism": 8,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Merchant Guild",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20flowing%20circuitry%2C%20featureless%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2503864219",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_15eqhzv_mp9yy4gh.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_15eqhzv_mp9yy4gh.jpg",
+  "generatedAt": "2026-05-17T16:08:34.214Z",
+  "botVersion": "1.0"
+}
