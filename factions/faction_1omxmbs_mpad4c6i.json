@@ -1,0 +1,49 @@
+{
+  "id": "1omxmbs_mpad4c6i",
+  "name": "Bocheth, Tide-Caller",
+  "short": "Bocheth",
+  "epithet": "Tide-Caller",
+  "description": "Aquatic-based lifeforms. Tide-Caller.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 3666490696,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Aquatic alien species. thick rubbery skin like a whale or shark, translucent fins, wet glistening texture, deep-sea monstrous scales, absolutely NO human features. HEAD: Faceted structure with unique silhouette. EYES: 1 Glow-Visor eyes that look completely non-human. SURFACE: Bioluminescent Veins texture with a #00ff88 primary hue. GARB: Wearing Phase-Shift Harness. UNIQUE: Features Hollow Wing-Spans. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Faceted",
+  "eyeStyle": "Glow-Visor",
+  "eyeCount": 1,
+  "clothing": "Phase-Shift Harness",
+  "markingPattern": "Bioluminescent Veins",
+  "morphology": "Hollow Wing-Spans",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 10,
+    "devotion": 5,
+    "expansionism": 6,
+    "isolationism": 6,
+    "mercantilism": 7
+  },
+  "aggression": 10,
+  "devotion": 5,
+  "expansionism": 6,
+  "isolationism": 6,
+  "mercantilism": 7,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Warlord Council",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20bioluminescent%20veins%2C%20faceted%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3666490696",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1omxmbs_mpad4c6i.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1omxmbs_mpad4c6i.jpg",
+  "generatedAt": "2026-05-17T22:45:39.184Z",
+  "botVersion": "1.0"
+}
