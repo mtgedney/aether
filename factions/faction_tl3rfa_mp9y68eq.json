@@ -1,0 +1,49 @@
+{
+  "id": "tl3rfa_mp9y68eq",
+  "name": "Pylar, Chitin-Lord",
+  "short": "Pylar",
+  "epithet": "Chitin-Lord",
+  "description": "Insectoid-based lifeforms. Chitin-Lord.",
+  "biology": "Insectoid",
+  "race": "Insectoid",
+  "seed": 1788966550,
+  "visualPrompt": "Cinema-grade macro portrait of a Insectoid alien species. hard chitinous exoskeleton, segmented thorax, compound predatory insect features. HEAD: Tusked. EYES: 5 Diamond eyes. SURFACE: Corroded Etchings. GARB: Ornate Silk Robes. FEATURES: Floating Shards. Style: cinematic Sci-Fi, photorealistic, dramatic rim lighting, 4k.",
+  "headShape": "Tusked",
+  "eyeStyle": "Diamond",
+  "eyeCount": 5,
+  "clothing": "Ornate Silk Robes",
+  "markingPattern": "Corroded Etchings",
+  "morphology": "Floating Shards",
+  "color": "#00f2ff",
+  "glyph": "✦",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 5,
+    "devotion": 5,
+    "expansionism": 9,
+    "isolationism": 1,
+    "mercantilism": 4
+  },
+  "aggression": 5,
+  "devotion": 5,
+  "expansionism": 9,
+  "isolationism": 1,
+  "mercantilism": 4,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Merchant Guild",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20insectoid%20face%20portrait%2C%20corroded%20etchings%2C%20tusked%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1788966550",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_tl3rfa_mp9y68eq.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_tl3rfa_mp9y68eq.jpg",
+  "generatedAt": "2026-05-17T15:46:04.379Z",
+  "botVersion": "1.0"
+}
