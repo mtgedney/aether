@@ -1,0 +1,49 @@
+{
+  "id": "1ti7hdf_mp9z5rx8",
+  "name": "Zulius, Cloud-Surfer",
+  "short": "Zulius",
+  "epithet": "Cloud-Surfer",
+  "description": "Avian-based lifeforms. Cloud-Surfer.",
+  "biology": "Avian",
+  "race": "Avian",
+  "seed": 3960883635,
+  "visualPrompt": "Cinema-grade macro portrait of a Avian alien species. covered in thick plumage, hard keratin beak, hollow bone structure, raptor features. HEAD: Beaked. EYES: 2 Holographic eyes. SURFACE: Flowing Circuitry. GARB: Scrap-Metal Armor. FEATURES: Multi-layered Crest. Style: cinematic Sci-Fi, photorealistic, dramatic rim lighting, 4k.",
+  "headShape": "Beaked",
+  "eyeStyle": "Holographic",
+  "eyeCount": 2,
+  "clothing": "Scrap-Metal Armor",
+  "markingPattern": "Flowing Circuitry",
+  "morphology": "Multi-layered Crest",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Lush Forest",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Lush Forest",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 1,
+    "devotion": 5,
+    "expansionism": 10,
+    "isolationism": 1,
+    "mercantilism": 8
+  },
+  "aggression": 1,
+  "devotion": 5,
+  "expansionism": 10,
+  "isolationism": 1,
+  "mercantilism": 8,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Hive-mind",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20avian%20face%20portrait%2C%20flowing%20circuitry%2C%20beaked%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3960883635",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1ti7hdf_mp9z5rx8.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1ti7hdf_mp9z5rx8.jpg",
+  "generatedAt": "2026-05-17T16:14:34.118Z",
+  "botVersion": "1.0"
+}
