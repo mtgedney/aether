@@ -1,0 +1,49 @@
+{
+  "id": "1sd5lk1_mpad81o1",
+  "name": "Zyrar Consortium, Sky-Watcher",
+  "short": "Zyrar",
+  "epithet": "Sky-Watcher",
+  "description": "Avian-based lifeforms. Sky-Watcher.",
+  "biology": "Avian",
+  "race": "Avian",
+  "seed": 3891931489,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Avian alien species. covered in thick plumage or downy feathers, a hard keratin beak, hollow bone structure visible in neck, bird-like anatomy, predatory raptor features. HEAD: Tusked structure with unique silhouette. EYES: 5 Bioluminescent eyes that look completely non-human. SURFACE: Mossy patches texture with a #ffff00 primary hue. GARB: Wearing Tattered Nomad Cloak. UNIQUE: Features Multi-layered Crest. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Tusked",
+  "eyeStyle": "Bioluminescent",
+  "eyeCount": 5,
+  "clothing": "Tattered Nomad Cloak",
+  "markingPattern": "Mossy patches",
+  "morphology": "Multi-layered Crest",
+  "color": "#ffff00",
+  "glyph": "⊕",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Lush Forest",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Lush Forest",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 2,
+    "devotion": 9,
+    "expansionism": 8,
+    "isolationism": 1,
+    "mercantilism": 8
+  },
+  "aggression": 2,
+  "devotion": 9,
+  "expansionism": 8,
+  "isolationism": 1,
+  "mercantilism": 8,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Hive-mind",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20avian%20face%20portrait%2C%20mossy%20patches%2C%20tusked%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3891931489",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1sd5lk1_mpad81o1.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1sd5lk1_mpad81o1.jpg",
+  "generatedAt": "2026-05-17T22:48:39.187Z",
+  "botVersion": "1.0"
+}
