@@ -1,0 +1,49 @@
+{
+  "id": "15hh0ss_mpad019v",
+  "name": "Gry-an, The Luminous",
+  "short": "Gry-an",
+  "epithet": "The Luminous",
+  "description": "Ethereal-based lifeforms. The Luminous.",
+  "biology": "Ethereal",
+  "race": "Ethereal",
+  "seed": 2508460876,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Ethereal alien species. body made of shifting nebulous gas and electrical arcs, held together by a magnetic harness, glowing semi-transparent forms, no solid skin. HEAD: Tusked structure with unique silhouette. EYES: 5 Telescopic eyes that look completely non-human. SURFACE: Tiger-like banding texture with a #00f2ff primary hue. GARB: Wearing Phase-Shift Harness. UNIQUE: Features Pressure-Resistant Fins. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Tusked",
+  "eyeStyle": "Telescopic",
+  "eyeCount": 5,
+  "clothing": "Phase-Shift Harness",
+  "markingPattern": "Tiger-like banding",
+  "morphology": "Pressure-Resistant Fins",
+  "color": "#00f2ff",
+  "glyph": "✦",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Lush Forest",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Barren",
+    "hostile": "Lush Forest"
+  },
+  "disposition": {
+    "aggression": 1,
+    "devotion": 1,
+    "expansionism": 9,
+    "isolationism": 5,
+    "mercantilism": 8
+  },
+  "aggression": 1,
+  "devotion": 1,
+  "expansionism": 9,
+  "isolationism": 5,
+  "mercantilism": 8,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Theocracy",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20ethereal%20face%20portrait%2C%20tiger-like%20banding%2C%20tusked%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2508460876",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_15hh0ss_mpad019v.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_15hh0ss_mpad019v.jpg",
+  "generatedAt": "2026-05-17T22:41:09.234Z",
+  "botVersion": "1.0"
+}
