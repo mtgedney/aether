@@ -1,0 +1,49 @@
+{
+  "id": "15o8bb2_mpafrcpd",
+  "name": "Gorkis, Shift-Walker",
+  "short": "Gorkis",
+  "epithet": "Shift-Walker",
+  "description": "Ethereal-based lifeforms. Shift-Walker.",
+  "biology": "Ethereal",
+  "race": "Ethereal",
+  "seed": 2519811902,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Ethereal alien species. body made of shifting nebulous gas and electrical arcs, held together by a magnetic harness, glowing semi-transparent forms, no solid skin. HEAD: Angular structure with unique silhouette. EYES: 6 Clouded eyes that look completely non-human. SURFACE: Corroded Etchings texture with a #ff8800 primary hue. GARB: Wearing Pragmatic Tech-Suit. UNIQUE: Features Webbed Extremities. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Angular",
+  "eyeStyle": "Clouded",
+  "eyeCount": 6,
+  "clothing": "Pragmatic Tech-Suit",
+  "markingPattern": "Corroded Etchings",
+  "morphology": "Webbed Extremities",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Lush Forest",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Barren",
+    "hostile": "Lush Forest"
+  },
+  "disposition": {
+    "aggression": 2,
+    "devotion": 6,
+    "expansionism": 4,
+    "isolationism": 6,
+    "mercantilism": 10
+  },
+  "aggression": 2,
+  "devotion": 6,
+  "expansionism": 4,
+  "isolationism": 6,
+  "mercantilism": 10,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Theocracy",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20ethereal%20face%20portrait%2C%20corroded%20etchings%2C%20angular%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2519811902",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_15o8bb2_mpafrcpd.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_15o8bb2_mpafrcpd.jpg",
+  "generatedAt": "2026-05-17T23:59:30.019Z",
+  "botVersion": "1.0"
+}
