@@ -1,0 +1,49 @@
+{
+  "id": "1us5z24_mpa6skne",
+  "name": "Grykis, Truth-Bringer",
+  "short": "Grykis",
+  "epithet": "Truth-Bringer",
+  "description": "Humanoid-based lifeforms. Truth-Bringer.",
+  "biology": "Humanoid",
+  "race": "Humanoid",
+  "seed": 4038075580,
+  "visualPrompt": "Cinema-grade macro portrait of a Humanoid alien species. diverse non-human facial features, unusual proportions, exotic skin textures. HEAD: Angular. EYES: 6 Diamond eyes. SURFACE: Geometric Tattoos. GARB: Ceremonial Plate. FEATURES: Feathery Antennae. Style: cinematic Sci-Fi, photorealistic, dramatic rim lighting, 4k.",
+  "headShape": "Angular",
+  "eyeStyle": "Diamond",
+  "eyeCount": 6,
+  "clothing": "Ceremonial Plate",
+  "markingPattern": "Geometric Tattoos",
+  "morphology": "Feathery Antennae",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 6,
+    "devotion": 6,
+    "expansionism": 9,
+    "isolationism": 6,
+    "mercantilism": 1
+  },
+  "aggression": 6,
+  "devotion": 6,
+  "expansionism": 9,
+  "isolationism": 6,
+  "mercantilism": 1,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Hive-mind",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20humanoid%20face%20portrait%2C%20geometric%20tattoos%2C%20angular%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=4038075580",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1us5z24_mpa6skne.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1us5z24_mpa6skne.jpg",
+  "generatedAt": "2026-05-17T19:48:15.242Z",
+  "botVersion": "1.0"
+}
