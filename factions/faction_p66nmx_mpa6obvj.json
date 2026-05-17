@@ -1,0 +1,49 @@
+{
+  "id": "p66nmx_mpa6obvj",
+  "name": "Xyltor Republic, Truth-Bringer",
+  "short": "Xyltor",
+  "epithet": "Truth-Bringer",
+  "description": "Humanoid-based lifeforms. Truth-Bringer.",
+  "biology": "Humanoid",
+  "race": "Humanoid",
+  "seed": 1522042665,
+  "visualPrompt": "Cinema-grade macro portrait of a Humanoid alien species. diverse non-human facial features, unusual proportions, exotic skin textures. HEAD: Rectangular. EYES: 6 Multiple-Small eyes. SURFACE: Corroded Etchings. GARB: Tattered Nomad Cloak. FEATURES: Feathery Antennae. Style: cinematic Sci-Fi, photorealistic, dramatic rim lighting, 4k.",
+  "headShape": "Rectangular",
+  "eyeStyle": "Multiple-Small",
+  "eyeCount": 6,
+  "clothing": "Tattered Nomad Cloak",
+  "markingPattern": "Corroded Etchings",
+  "morphology": "Feathery Antennae",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 10,
+    "devotion": 6,
+    "expansionism": 8,
+    "isolationism": 7,
+    "mercantilism": 9
+  },
+  "aggression": 10,
+  "devotion": 6,
+  "expansionism": 8,
+  "isolationism": 7,
+  "mercantilism": 9,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Theocracy",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20humanoid%20face%20portrait%2C%20corroded%20etchings%2C%20rectangular%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1522042665",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_p66nmx_mpa6obvj.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_p66nmx_mpa6obvj.jpg",
+  "generatedAt": "2026-05-17T19:45:15.286Z",
+  "botVersion": "1.0"
+}
