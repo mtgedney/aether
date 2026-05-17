@@ -1,0 +1,49 @@
+{
+  "id": "e9yw2l_mp9yawp6",
+  "name": "Gorvox Unity, Coral-Guard",
+  "short": "Gorvox",
+  "epithet": "Coral-Guard",
+  "description": "Aquatic-based lifeforms. Coral-Guard.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 863270877,
+  "visualPrompt": "Cinema-grade macro portrait of a Aquatic alien species. thick rubbery skin, translucent fins, wet glistening texture, deep-sea alien, NO human features. HEAD: Angular. EYES: 2 Holographic eyes. SURFACE: Geometric Tattoos. GARB: Ceremonial Plate. FEATURES: Multi-layered Crest. Style: cinematic Sci-Fi, photorealistic, dramatic rim lighting, 4k.",
+  "headShape": "Angular",
+  "eyeStyle": "Holographic",
+  "eyeCount": 2,
+  "clothing": "Ceremonial Plate",
+  "markingPattern": "Geometric Tattoos",
+  "morphology": "Multi-layered Crest",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 6,
+    "devotion": 7,
+    "expansionism": 10,
+    "isolationism": 5,
+    "mercantilism": 4
+  },
+  "aggression": 6,
+  "devotion": 7,
+  "expansionism": 10,
+  "isolationism": 5,
+  "mercantilism": 4,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Theocracy",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20geometric%20tattoos%2C%20angular%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=863270877",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_e9yw2l_mp9yawp6.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_e9yw2l_mp9yawp6.jpg",
+  "generatedAt": "2026-05-17T15:50:34.877Z",
+  "botVersion": "1.0"
+}
