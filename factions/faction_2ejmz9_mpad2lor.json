@@ -1,0 +1,49 @@
+{
+  "id": "2ejmz9_mpad2lor",
+  "name": "Zyrvox Sovereignty, The Adaptable",
+  "short": "Zyrvox",
+  "epithet": "The Adaptable",
+  "description": "Humanoid-based lifeforms. The Adaptable.",
+  "biology": "Humanoid",
+  "race": "Humanoid",
+  "seed": 145363221,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Humanoid alien species. diverse non-human facial features, unusual proportions, exotic skin textures, unique ridge structures, avoid stereotypical grey alien look. HEAD: Crested structure with unique silhouette. EYES: 1 Slit eyes that look completely non-human. SURFACE: Leopard-like spots texture with a #9d00ff primary hue. GARB: Wearing Pragmatic Tech-Suit. UNIQUE: Features Metallic Spikes. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Crested",
+  "eyeStyle": "Slit",
+  "eyeCount": 1,
+  "clothing": "Pragmatic Tech-Suit",
+  "markingPattern": "Leopard-like spots",
+  "morphology": "Metallic Spikes",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 8,
+    "devotion": 5,
+    "expansionism": 9,
+    "isolationism": 1,
+    "mercantilism": 3
+  },
+  "aggression": 8,
+  "devotion": 5,
+  "expansionism": 9,
+  "isolationism": 1,
+  "mercantilism": 3,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Hive-mind",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20humanoid%20face%20portrait%2C%20leopard-like%20spots%2C%20crested%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=145363221",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_2ejmz9_mpad2lor.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_2ejmz9_mpad2lor.jpg",
+  "generatedAt": "2026-05-17T22:44:09.215Z",
+  "botVersion": "1.0"
+}
