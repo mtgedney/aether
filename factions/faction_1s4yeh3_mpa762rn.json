@@ -1,0 +1,49 @@
+{
+  "id": "1s4yeh3_mpa762rn",
+  "name": "Zulok Hegemony, Bio-Mass",
+  "short": "Zulok",
+  "epithet": "Bio-Mass",
+  "description": "Amorphous-based lifeforms. Bio-Mass.",
+  "biology": "Amorphous",
+  "race": "Amorphous",
+  "seed": 3878158791,
+  "visualPrompt": "Cinema-grade macro portrait of a Amorphous alien species. viscous translucent slime, protoplasmic mass, no symmetry, gelatinous undulating surface. HEAD: Faceted. EYES: 4 Bioluminescent eyes. SURFACE: Corroded Etchings. GARB: Ornate Silk Robes. FEATURES: Bioluminescent Halos. Style: cinematic Sci-Fi, photorealistic, dramatic rim lighting, 4k.",
+  "headShape": "Faceted",
+  "eyeStyle": "Bioluminescent",
+  "eyeCount": 4,
+  "clothing": "Ornate Silk Robes",
+  "markingPattern": "Corroded Etchings",
+  "morphology": "Bioluminescent Halos",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Sub-Surface Ocean Sphere",
+  "secondaryBiome": "Water-World",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Sub-Surface Ocean Sphere",
+    "secondary": "Water-World",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 8,
+    "devotion": 8,
+    "expansionism": 5,
+    "isolationism": 3,
+    "mercantilism": 10
+  },
+  "aggression": 8,
+  "devotion": 8,
+  "expansionism": 5,
+  "isolationism": 3,
+  "mercantilism": 10,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Warlord Council",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20amorphous%20face%20portrait%2C%20corroded%20etchings%2C%20faceted%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3878158791",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1s4yeh3_mpa762rn.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1s4yeh3_mpa762rn.jpg",
+  "generatedAt": "2026-05-17T19:58:45.363Z",
+  "botVersion": "1.0"
+}
