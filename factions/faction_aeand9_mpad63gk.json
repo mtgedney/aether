@@ -1,0 +1,49 @@
+{
+  "id": "aeand9_mpad63gk",
+  "name": "Zyrix, The Eternal",
+  "short": "Zyrix",
+  "epithet": "The Eternal",
+  "description": "Ethereal-based lifeforms. The Eternal.",
+  "biology": "Ethereal",
+  "race": "Ethereal",
+  "seed": 628673229,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Ethereal alien species. body made of shifting nebulous gas and electrical arcs, held together by a magnetic harness, glowing semi-transparent forms, no solid skin. HEAD: Flat structure with unique silhouette. EYES: 4 Diamond eyes that look completely non-human. SURFACE: Tiger-like banding texture with a #ff8800 primary hue. GARB: Wearing Pressure Suit. UNIQUE: Features Bioluminescent Halos. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Flat",
+  "eyeStyle": "Diamond",
+  "eyeCount": 4,
+  "clothing": "Pressure Suit",
+  "markingPattern": "Tiger-like banding",
+  "morphology": "Bioluminescent Halos",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Lush Forest",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Barren",
+    "hostile": "Lush Forest"
+  },
+  "disposition": {
+    "aggression": 10,
+    "devotion": 6,
+    "expansionism": 5,
+    "isolationism": 5,
+    "mercantilism": 8
+  },
+  "aggression": 10,
+  "devotion": 6,
+  "expansionism": 5,
+  "isolationism": 5,
+  "mercantilism": 8,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Hive-mind",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20ethereal%20face%20portrait%2C%20tiger-like%20banding%2C%20flat%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=628673229",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_aeand9_mpad63gk.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_aeand9_mpad63gk.jpg",
+  "generatedAt": "2026-05-17T22:47:09.155Z",
+  "botVersion": "1.0"
+}
