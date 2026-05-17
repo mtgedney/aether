@@ -1,0 +1,1 @@
+window.AETHER_FACTION_INDEX = [];
