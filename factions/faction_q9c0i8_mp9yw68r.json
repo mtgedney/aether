@@ -1,0 +1,49 @@
+{
+  "id": "q9c0i8_mp9yw68r",
+  "name": "Oulius Skywatchers, Abyssal-Ghost",
+  "short": "Oulius",
+  "epithet": "Abyssal-Ghost",
+  "description": "Aquatic-based lifeforms. Abyssal-Ghost.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 1587797648,
+  "visualPrompt": "Cinema-grade macro portrait of a Aquatic alien species. thick rubbery skin, translucent fins, wet glistening texture, deep-sea alien, NO human features. HEAD: Tapered. EYES: 1 Diamond eyes. SURFACE: Flowing Circuitry. GARB: Holographic Shroud. FEATURES: Bioluminescent Halos. Style: cinematic Sci-Fi, photorealistic, dramatic rim lighting, 4k.",
+  "headShape": "Tapered",
+  "eyeStyle": "Diamond",
+  "eyeCount": 1,
+  "clothing": "Holographic Shroud",
+  "markingPattern": "Flowing Circuitry",
+  "morphology": "Bioluminescent Halos",
+  "color": "#ff66cc",
+  "glyph": "◎",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 4,
+    "devotion": 10,
+    "expansionism": 1,
+    "isolationism": 6,
+    "mercantilism": 2
+  },
+  "aggression": 4,
+  "devotion": 10,
+  "expansionism": 1,
+  "isolationism": 6,
+  "mercantilism": 2,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Merchant Guild",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20flowing%20circuitry%2C%20tapered%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1587797648",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_q9c0i8_mp9yw68r.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_q9c0i8_mp9yw68r.jpg",
+  "generatedAt": "2026-05-17T16:07:06.489Z",
+  "botVersion": "1.0"
+}
