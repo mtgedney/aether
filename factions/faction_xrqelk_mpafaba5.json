@@ -1,0 +1,49 @@
+{
+  "id": "xrqelk_mpafaba5",
+  "name": "Teren, The Hive-Speaker",
+  "short": "Teren",
+  "epithet": "The Hive-Speaker",
+  "description": "Insectoid-based lifeforms. The Hive-Speaker.",
+  "biology": "Insectoid",
+  "race": "Insectoid",
+  "seed": 2041965416,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Insectoid alien species. hard chitinous exoskeleton, segmented thorax, chitin plating, bristly hairs, compound predatory insect features, no human nose or mouth. HEAD: Multi-lobed structure with unique silhouette. EYES: 4 Holographic eyes that look completely non-human. SURFACE: Asymmetrical Splatter texture with a #ff0055 primary hue. GARB: Wearing Pressure Suit. UNIQUE: Features Feathery Antennae. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Multi-lobed",
+  "eyeStyle": "Holographic",
+  "eyeCount": 4,
+  "clothing": "Pressure Suit",
+  "markingPattern": "Asymmetrical Splatter",
+  "morphology": "Feathery Antennae",
+  "color": "#ff0055",
+  "glyph": "△",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 2,
+    "devotion": 9,
+    "expansionism": 6,
+    "isolationism": 5,
+    "mercantilism": 3
+  },
+  "aggression": 2,
+  "devotion": 9,
+  "expansionism": 6,
+  "isolationism": 5,
+  "mercantilism": 3,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Merchant Guild",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20insectoid%20face%20portrait%2C%20asymmetrical%20splatter%2C%20multi-lobed%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2041965416",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_xrqelk_mpafaba5.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_xrqelk_mpafaba5.jpg",
+  "generatedAt": "2026-05-17T23:46:00.051Z",
+  "botVersion": "1.0"
+}
