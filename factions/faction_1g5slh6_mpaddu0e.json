@@ -1,0 +1,49 @@
+{
+  "id": "1g5slh6_mpaddu0e",
+  "name": "Zyr-an, The Obsidian",
+  "short": "Zyr-an",
+  "epithet": "The Obsidian",
+  "description": "Lithoid-based lifeforms. The Obsidian.",
+  "biology": "Lithoid",
+  "race": "Lithoid",
+  "seed": 3153973434,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Lithoid alien species. composed of jagged rock and tectonic plates, crystalline geodic inclusions for eyes, mossy stony texture, mountain-like ruggedness, zero soft tissue. HEAD: Faceted structure with unique silhouette. EYES: 3 Vertical-pupils eyes that look completely non-human. SURFACE: Flowing Circuitry texture with a #9d00ff primary hue. GARB: Wearing Minimalist Tunic. UNIQUE: Features Multiple chins. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Faceted",
+  "eyeStyle": "Vertical-pupils",
+  "eyeCount": 3,
+  "clothing": "Minimalist Tunic",
+  "markingPattern": "Flowing Circuitry",
+  "morphology": "Multiple chins",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Volcanic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Volcanic",
+    "secondary": "Barren",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 8,
+    "devotion": 6,
+    "expansionism": 9,
+    "isolationism": 10,
+    "mercantilism": 7
+  },
+  "aggression": 8,
+  "devotion": 6,
+  "expansionism": 9,
+  "isolationism": 10,
+  "mercantilism": 7,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Democracy",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20lithoid%20face%20portrait%2C%20flowing%20circuitry%2C%20faceted%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3153973434",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1g5slh6_mpaddu0e.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1g5slh6_mpaddu0e.jpg",
+  "generatedAt": "2026-05-17T22:53:09.324Z",
+  "botVersion": "1.0"
+}
