@@ -1,0 +1,49 @@
+{
+  "id": "1a7e3kr_mpa728n3",
+  "name": "Zyron League, Talon-Lord",
+  "short": "Zyron",
+  "epithet": "Talon-Lord",
+  "description": "Avian-based lifeforms. Talon-Lord.",
+  "biology": "Avian",
+  "race": "Avian",
+  "seed": 2793859227,
+  "visualPrompt": "Cinema-grade macro portrait of a Avian alien species. covered in thick plumage, hard keratin beak, hollow bone structure, raptor features. HEAD: Dome. EYES: 2 Telescopic eyes. SURFACE: Runic Carvings. GARB: Bio-Organic Wrap. FEATURES: Writhing Tentacles. Style: cinematic Sci-Fi, photorealistic, dramatic rim lighting, 4k.",
+  "headShape": "Dome",
+  "eyeStyle": "Telescopic",
+  "eyeCount": 2,
+  "clothing": "Bio-Organic Wrap",
+  "markingPattern": "Runic Carvings",
+  "morphology": "Writhing Tentacles",
+  "color": "#ff0055",
+  "glyph": "△",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Lush Forest",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Lush Forest",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 1,
+    "devotion": 7,
+    "expansionism": 8,
+    "isolationism": 5,
+    "mercantilism": 9
+  },
+  "aggression": 1,
+  "devotion": 7,
+  "expansionism": 8,
+  "isolationism": 5,
+  "mercantilism": 9,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Democracy",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20avian%20face%20portrait%2C%20runic%20carvings%2C%20dome%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2793859227",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1a7e3kr_mpa728n3.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1a7e3kr_mpa728n3.jpg",
+  "generatedAt": "2026-05-17T19:55:45.100Z",
+  "botVersion": "1.0"
+}
