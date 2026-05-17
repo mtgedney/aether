@@ -1,0 +1,49 @@
+{
+  "id": "6p9qtl_mpad0v6n",
+  "name": "Xylvox, Mycelium-Mind",
+  "short": "Xylvox",
+  "epithet": "Mycelium-Mind",
+  "description": "Fungoid-based lifeforms. Mycelium-Mind.",
+  "biology": "Fungoid",
+  "race": "Fungoid",
+  "seed": 405242121,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Fungoid alien species. thick mycelial stalks, mushroom-cap head structures, spore-emitting pits, damp moldy textures, organic fungal growth patterns. HEAD: Rectangular structure with unique silhouette. EYES: 6 Glow-Visor eyes that look completely non-human. SURFACE: Flowing Circuitry texture with a #ff0055 primary hue. GARB: Wearing Ancient monk robes. UNIQUE: Features Multi-layered Crest. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Rectangular",
+  "eyeStyle": "Glow-Visor",
+  "eyeCount": 6,
+  "clothing": "Ancient monk robes",
+  "markingPattern": "Flowing Circuitry",
+  "morphology": "Multi-layered Crest",
+  "color": "#ff0055",
+  "glyph": "△",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 8,
+    "devotion": 5,
+    "expansionism": 2,
+    "isolationism": 4,
+    "mercantilism": 4
+  },
+  "aggression": 8,
+  "devotion": 5,
+  "expansionism": 2,
+  "isolationism": 4,
+  "mercantilism": 4,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Merchant Guild",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20fungoid%20face%20portrait%2C%20flowing%20circuitry%2C%20rectangular%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=405242121",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_6p9qtl_mpad0v6n.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_6p9qtl_mpad0v6n.jpg",
+  "generatedAt": "2026-05-17T22:42:39.326Z",
+  "botVersion": "1.0"
+}
