@@ -1,0 +1,49 @@
+{
+  "id": "1wbqc9k_mpa6glky",
+  "name": "Zyrius League, Void-Shadow",
+  "short": "Zyrius",
+  "epithet": "Void-Shadow",
+  "description": "Ethereal-based lifeforms. Void-Shadow.",
+  "biology": "Ethereal",
+  "race": "Ethereal",
+  "seed": 4131404696,
+  "visualPrompt": "Cinema-grade macro portrait of a Ethereal alien species. body of shifting nebulous gas and electrical arcs, magnetic harness, glowing semi-transparent. HEAD: Rectangular. EYES: 1 Multiple-Small eyes. SURFACE: Runic Carvings. GARB: Ceremonial Plate. FEATURES: Feathery Antennae. Style: cinematic Sci-Fi, photorealistic, dramatic rim lighting, 4k.",
+  "headShape": "Rectangular",
+  "eyeStyle": "Multiple-Small",
+  "eyeCount": 1,
+  "clothing": "Ceremonial Plate",
+  "markingPattern": "Runic Carvings",
+  "morphology": "Feathery Antennae",
+  "color": "#ffff00",
+  "glyph": "⊕",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Lush Forest",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Barren",
+    "hostile": "Lush Forest"
+  },
+  "disposition": {
+    "aggression": 2,
+    "devotion": 3,
+    "expansionism": 9,
+    "isolationism": 1,
+    "mercantilism": 1
+  },
+  "aggression": 2,
+  "devotion": 3,
+  "expansionism": 9,
+  "isolationism": 1,
+  "mercantilism": 1,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Merchant Guild",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20ethereal%20face%20portrait%2C%20runic%20carvings%2C%20rectangular%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=4131404696",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1wbqc9k_mpa6glky.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1wbqc9k_mpa6glky.jpg",
+  "generatedAt": "2026-05-17T19:39:15.209Z",
+  "botVersion": "1.0"
+}
