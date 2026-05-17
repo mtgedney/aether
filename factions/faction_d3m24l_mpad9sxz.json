@@ -1,0 +1,49 @@
+{
+  "id": "d3m24l_mpad9sxz",
+  "name": "Zyrok Sovereignty, Abyssal-Ghost",
+  "short": "Zyrok",
+  "epithet": "Abyssal-Ghost",
+  "description": "Aquatic-based lifeforms. Abyssal-Ghost.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 792128325,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Aquatic alien species. thick rubbery skin like a whale or shark, translucent fins, wet glistening texture, deep-sea monstrous scales, absolutely NO human features. HEAD: Snouted structure with unique silhouette. EYES: 6 Telescopic eyes that look completely non-human. SURFACE: Star-Map Freckles texture with a #00f2ff primary hue. GARB: Wearing Ancient monk robes. UNIQUE: Features Pressure-Resistant Fins. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Snouted",
+  "eyeStyle": "Telescopic",
+  "eyeCount": 6,
+  "clothing": "Ancient monk robes",
+  "markingPattern": "Star-Map Freckles",
+  "morphology": "Pressure-Resistant Fins",
+  "color": "#00f2ff",
+  "glyph": "✦",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 2,
+    "devotion": 2,
+    "expansionism": 1,
+    "isolationism": 7,
+    "mercantilism": 7
+  },
+  "aggression": 2,
+  "devotion": 2,
+  "expansionism": 1,
+  "isolationism": 7,
+  "mercantilism": 7,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Democracy",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20star-map%20freckles%2C%20snouted%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=792128325",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_d3m24l_mpad9sxz.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_d3m24l_mpad9sxz.jpg",
+  "generatedAt": "2026-05-17T22:50:09.329Z",
+  "botVersion": "1.0"
+}
