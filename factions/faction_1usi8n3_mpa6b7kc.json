@@ -1,0 +1,49 @@
+{
+  "id": "1usi8n3_mpa6b7kc",
+  "name": "Pyltor Directorate, Swarmer",
+  "short": "Pyltor",
+  "epithet": "Swarmer",
+  "description": "Insectoid-based lifeforms. Swarmer.",
+  "biology": "Insectoid",
+  "race": "Insectoid",
+  "seed": 4038647871,
+  "visualPrompt": "Cinema-grade macro portrait of a Insectoid alien species. hard chitinous exoskeleton, segmented thorax, compound predatory insect features. HEAD: Flat. EYES: 5 Compound eyes. SURFACE: Flowing Circuitry. GARB: Ceremonial Plate. FEATURES: Metallic Spikes. Style: cinematic Sci-Fi, photorealistic, dramatic rim lighting, 4k.",
+  "headShape": "Flat",
+  "eyeStyle": "Compound",
+  "eyeCount": 5,
+  "clothing": "Ceremonial Plate",
+  "markingPattern": "Flowing Circuitry",
+  "morphology": "Metallic Spikes",
+  "color": "#ff0055",
+  "glyph": "△",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 10,
+    "devotion": 2,
+    "expansionism": 1,
+    "isolationism": 8,
+    "mercantilism": 3
+  },
+  "aggression": 10,
+  "devotion": 2,
+  "expansionism": 1,
+  "isolationism": 8,
+  "mercantilism": 3,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Warlord Council",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20insectoid%20face%20portrait%2C%20flowing%20circuitry%2C%20flat%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=4038647871",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1usi8n3_mpa6b7kc.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1usi8n3_mpa6b7kc.jpg",
+  "generatedAt": "2026-05-17T19:34:45.204Z",
+  "botVersion": "1.0"
+}
