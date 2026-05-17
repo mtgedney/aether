@@ -1,0 +1,49 @@
+{
+  "id": "2al25a_mpafm0kq",
+  "name": "Zyrix Syndicate, The Explorer",
+  "short": "Zyrix",
+  "epithet": "The Explorer",
+  "description": "Humanoid-based lifeforms. The Explorer.",
+  "biology": "Humanoid",
+  "race": "Humanoid",
+  "seed": 138711070,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Humanoid alien species. diverse non-human facial features, unusual proportions, exotic skin textures, unique ridge structures, avoid stereotypical grey alien look. HEAD: Rectangular structure with unique silhouette. EYES: 6 Clouded eyes that look completely non-human. SURFACE: Bioluminescent Veins texture with a #ff0055 primary hue. GARB: Wearing Bio-Organic Wrap. UNIQUE: Features Large Curved Horns. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Rectangular",
+  "eyeStyle": "Clouded",
+  "eyeCount": 6,
+  "clothing": "Bio-Organic Wrap",
+  "markingPattern": "Bioluminescent Veins",
+  "morphology": "Large Curved Horns",
+  "color": "#ff0055",
+  "glyph": "△",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 8,
+    "devotion": 8,
+    "expansionism": 9,
+    "isolationism": 7,
+    "mercantilism": 9
+  },
+  "aggression": 8,
+  "devotion": 8,
+  "expansionism": 9,
+  "isolationism": 7,
+  "mercantilism": 9,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Warlord Council",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20humanoid%20face%20portrait%2C%20bioluminescent%20veins%2C%20rectangular%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=138711070",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_2al25a_mpafm0kq.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_2al25a_mpafm0kq.jpg",
+  "generatedAt": "2026-05-17T23:55:00.506Z",
+  "botVersion": "1.0"
+}
