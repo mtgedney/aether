@@ -1,0 +1,49 @@
+{
+  "id": "9exc94_mpafplfr",
+  "name": "Fenkis, Nectar-Thief",
+  "short": "Fenkis",
+  "epithet": "Nectar-Thief",
+  "description": "Insectoid-based lifeforms. Nectar-Thief.",
+  "biology": "Insectoid",
+  "race": "Insectoid",
+  "seed": 569265736,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Insectoid alien species. hard chitinous exoskeleton, segmented thorax, chitin plating, bristly hairs, compound predatory insect features, no human nose or mouth. HEAD: Dome structure with unique silhouette. EYES: 5 Glow-Visor eyes that look completely non-human. SURFACE: Leopard-like spots texture with a #00ff88 primary hue. GARB: Wearing Ornate Silk Robes. UNIQUE: Features Pressure-Resistant Fins. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Dome",
+  "eyeStyle": "Glow-Visor",
+  "eyeCount": 5,
+  "clothing": "Ornate Silk Robes",
+  "markingPattern": "Leopard-like spots",
+  "morphology": "Pressure-Resistant Fins",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 9,
+    "devotion": 8,
+    "expansionism": 9,
+    "isolationism": 9,
+    "mercantilism": 5
+  },
+  "aggression": 9,
+  "devotion": 8,
+  "expansionism": 9,
+  "isolationism": 9,
+  "mercantilism": 5,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Democracy",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20insectoid%20face%20portrait%2C%20leopard-like%20spots%2C%20dome%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=569265736",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_9exc94_mpafplfr.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_9exc94_mpafplfr.jpg",
+  "generatedAt": "2026-05-17T23:57:59.862Z",
+  "botVersion": "1.0"
+}
