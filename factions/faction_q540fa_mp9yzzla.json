@@ -1,0 +1,49 @@
+{
+  "id": "q540fa_mp9yzzla",
+  "name": "Vaxius, The Radiant",
+  "short": "Vaxius",
+  "epithet": "The Radiant",
+  "description": "Crystalline-based lifeforms. The Radiant.",
+  "biology": "Crystalline",
+  "race": "Crystalline",
+  "seed": 1580705830,
+  "visualPrompt": "Cinema-grade macro portrait of a Crystalline alien species. jagged translucent quartz body, internal light refraction, sharp geometric planes. HEAD: Hammerhead. EYES: 3 Compound eyes. SURFACE: Iridescent Scales. GARB: Bio-Organic Wrap. FEATURES: Large Curved Horns. Style: cinematic Sci-Fi, photorealistic, dramatic rim lighting, 4k.",
+  "headShape": "Hammerhead",
+  "eyeStyle": "Compound",
+  "eyeCount": 3,
+  "clothing": "Bio-Organic Wrap",
+  "markingPattern": "Iridescent Scales",
+  "morphology": "Large Curved Horns",
+  "color": "#00f2ff",
+  "glyph": "✦",
+  "primaryBiome": "Barren",
+  "secondaryBiome": "Arctic Tundra",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Barren",
+    "secondary": "Arctic Tundra",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 2,
+    "devotion": 5,
+    "expansionism": 5,
+    "isolationism": 10,
+    "mercantilism": 4
+  },
+  "aggression": 2,
+  "devotion": 5,
+  "expansionism": 5,
+  "isolationism": 10,
+  "mercantilism": 4,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Warlord Council",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20crystalline%20face%20portrait%2C%20iridescent%20scales%2C%20hammerhead%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1580705830",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_q540fa_mp9yzzla.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_q540fa_mp9yzzla.jpg",
+  "generatedAt": "2026-05-17T16:10:04.236Z",
+  "botVersion": "1.0"
+}
