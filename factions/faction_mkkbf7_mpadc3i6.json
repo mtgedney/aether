@@ -1,0 +1,49 @@
+{
+  "id": "mkkbf7_mpadc3i6",
+  "name": "Pylok, Spore-Whisper",
+  "short": "Pylok",
+  "epithet": "Spore-Whisper",
+  "description": "Fungoid-based lifeforms. Spore-Whisper.",
+  "biology": "Fungoid",
+  "race": "Fungoid",
+  "seed": 1364796115,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Fungoid alien species. thick mycelial stalks, mushroom-cap head structures, spore-emitting pits, damp moldy textures, organic fungal growth patterns. HEAD: Dome structure with unique silhouette. EYES: 5 Diamond eyes that look completely non-human. SURFACE: Symmetrical Stripes texture with a #ff0055 primary hue. GARB: Wearing Ornate Silk Robes. UNIQUE: Features Feathery Antennae. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Dome",
+  "eyeStyle": "Diamond",
+  "eyeCount": 5,
+  "clothing": "Ornate Silk Robes",
+  "markingPattern": "Symmetrical Stripes",
+  "morphology": "Feathery Antennae",
+  "color": "#ff0055",
+  "glyph": "△",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 10,
+    "devotion": 2,
+    "expansionism": 4,
+    "isolationism": 8,
+    "mercantilism": 2
+  },
+  "aggression": 10,
+  "devotion": 2,
+  "expansionism": 4,
+  "isolationism": 8,
+  "mercantilism": 2,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Democracy",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20fungoid%20face%20portrait%2C%20symmetrical%20stripes%2C%20dome%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1364796115",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_mkkbf7_mpadc3i6.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_mkkbf7_mpadc3i6.jpg",
+  "generatedAt": "2026-05-17T22:51:39.282Z",
+  "botVersion": "1.0"
+}
