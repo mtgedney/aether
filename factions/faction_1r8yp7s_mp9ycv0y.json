@@ -1,0 +1,49 @@
+{
+  "id": "1r8yp7s_mp9ycv0y",
+  "name": "Gorvox Consortium, The Decay-King",
+  "short": "Gorvox",
+  "epithet": "The Decay-King",
+  "description": "Fungoid-based lifeforms. The Decay-King.",
+  "biology": "Fungoid",
+  "race": "Fungoid",
+  "seed": 3824425000,
+  "visualPrompt": "Cinema-grade macro portrait of a Fungoid alien species. thick mycelial stalks, mushroom-cap head, spore-emitting pits, damp moldy textures. HEAD: Flat. EYES: 6 Multiple-Small eyes. SURFACE: Bioluminescent Veins. GARB: Ceremonial Plate. FEATURES: Floating Shards. Style: cinematic Sci-Fi, photorealistic, dramatic rim lighting, 4k.",
+  "headShape": "Flat",
+  "eyeStyle": "Multiple-Small",
+  "eyeCount": 6,
+  "clothing": "Ceremonial Plate",
+  "markingPattern": "Bioluminescent Veins",
+  "morphology": "Floating Shards",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 3,
+    "devotion": 3,
+    "expansionism": 10,
+    "isolationism": 7,
+    "mercantilism": 4
+  },
+  "aggression": 3,
+  "devotion": 3,
+  "expansionism": 10,
+  "isolationism": 7,
+  "mercantilism": 4,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Merchant Guild",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20fungoid%20face%20portrait%2C%20bioluminescent%20veins%2C%20flat%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3824425000",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1r8yp7s_mp9ycv0y.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1r8yp7s_mp9ycv0y.jpg",
+  "generatedAt": "2026-05-17T15:52:04.198Z",
+  "botVersion": "1.0"
+}
