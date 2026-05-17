@@ -1,0 +1,49 @@
+{
+  "id": "1jd33wb_mpadfyed",
+  "name": "Xylok, The Unmoving",
+  "short": "Xylok",
+  "epithet": "The Unmoving",
+  "description": "Lithoid-based lifeforms. The Unmoving.",
+  "biology": "Lithoid",
+  "race": "Lithoid",
+  "seed": 3347619707,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Lithoid alien species. composed of jagged rock and tectonic plates, crystalline geodic inclusions for eyes, mossy stony texture, mountain-like ruggedness, zero soft tissue. HEAD: Tapered structure with unique silhouette. EYES: 1 Multiple-Small eyes that look completely non-human. SURFACE: Asymmetrical Splatter texture with a #00ff88 primary hue. GARB: Wearing Minimalist Tunic. UNIQUE: Features Retractable Gills. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Tapered",
+  "eyeStyle": "Multiple-Small",
+  "eyeCount": 1,
+  "clothing": "Minimalist Tunic",
+  "markingPattern": "Asymmetrical Splatter",
+  "morphology": "Retractable Gills",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Volcanic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Volcanic",
+    "secondary": "Barren",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 5,
+    "devotion": 5,
+    "expansionism": 5,
+    "isolationism": 6,
+    "mercantilism": 3
+  },
+  "aggression": 5,
+  "devotion": 5,
+  "expansionism": 5,
+  "isolationism": 6,
+  "mercantilism": 3,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Democracy",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20lithoid%20face%20portrait%2C%20asymmetrical%20splatter%2C%20tapered%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3347619707",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1jd33wb_mpadfyed.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1jd33wb_mpadfyed.jpg",
+  "generatedAt": "2026-05-17T22:54:39.134Z",
+  "botVersion": "1.0"
+}
