@@ -1,0 +1,49 @@
+{
+  "id": "1r1cfgk_mpa7du39",
+  "name": "Gryon, The Sun-Basker",
+  "short": "Gryon",
+  "epithet": "The Sun-Basker",
+  "description": "Reptilian-based lifeforms. The Sun-Basker.",
+  "biology": "Reptilian",
+  "race": "Reptilian",
+  "seed": 3811628612,
+  "visualPrompt": "Cinema-grade macro portrait of a Reptilian alien species. thick crocodilian scales, leathery skin, heavy brow ridges, cold-blooded predatory gaze. HEAD: Hammerhead. EYES: 3 Milky-White eyes. SURFACE: Bioluminescent Veins. GARB: Tattered Nomad Cloak. FEATURES: Floating Shards. Style: cinematic Sci-Fi, photorealistic, dramatic rim lighting, 4k.",
+  "headShape": "Hammerhead",
+  "eyeStyle": "Milky-White",
+  "eyeCount": 3,
+  "clothing": "Tattered Nomad Cloak",
+  "markingPattern": "Bioluminescent Veins",
+  "morphology": "Floating Shards",
+  "color": "#44ffbb",
+  "glyph": "⟁",
+  "primaryBiome": "Arid Desert",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Arid Desert",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 9,
+    "devotion": 4,
+    "expansionism": 7,
+    "isolationism": 7,
+    "mercantilism": 5
+  },
+  "aggression": 9,
+  "devotion": 4,
+  "expansionism": 7,
+  "isolationism": 7,
+  "mercantilism": 5,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Merchant Guild",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20reptilian%20face%20portrait%2C%20bioluminescent%20veins%2C%20hammerhead%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3811628612",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1r1cfgk_mpa7du39.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1r1cfgk_mpa7du39.jpg",
+  "generatedAt": "2026-05-17T20:04:45.601Z",
+  "botVersion": "1.0"
+}
