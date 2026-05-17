@@ -1,0 +1,49 @@
+{
+  "id": "1j30tg2_mpafnu67",
+  "name": "Zyrar, The Ancient",
+  "short": "Zyrar",
+  "epithet": "The Ancient",
+  "description": "Reptilian-based lifeforms. The Ancient.",
+  "biology": "Reptilian",
+  "race": "Reptilian",
+  "seed": 3330716690,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Reptilian alien species. thick crocodilian scales, leathery skin, heavy brow ridges, cold-blooded predatory gaze, dinosaur-like textures. HEAD: Angular structure with unique silhouette. EYES: 5 Cybernetic-monocle eyes that look completely non-human. SURFACE: Star-Map Freckles texture with a #9d00ff primary hue. GARB: Wearing Scrap-Metal Armor. UNIQUE: Features Multi-layered Crest. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Angular",
+  "eyeStyle": "Cybernetic-monocle",
+  "eyeCount": 5,
+  "clothing": "Scrap-Metal Armor",
+  "markingPattern": "Star-Map Freckles",
+  "morphology": "Multi-layered Crest",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Arid Desert",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Arid Desert",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 10,
+    "devotion": 2,
+    "expansionism": 1,
+    "isolationism": 5,
+    "mercantilism": 7
+  },
+  "aggression": 10,
+  "devotion": 2,
+  "expansionism": 1,
+  "isolationism": 5,
+  "mercantilism": 7,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Merchant Guild",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20reptilian%20face%20portrait%2C%20star-map%20freckles%2C%20angular%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3330716690",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1j30tg2_mpafnu67.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1j30tg2_mpafnu67.jpg",
+  "generatedAt": "2026-05-17T23:56:29.988Z",
+  "botVersion": "1.0"
+}
