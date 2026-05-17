@@ -1,0 +1,49 @@
+{
+  "id": "q0bbac_mpafdttl",
+  "name": "Vaken Union, The Ancient",
+  "short": "Vaken",
+  "epithet": "The Ancient",
+  "description": "Reptilian-based lifeforms. The Ancient.",
+  "biology": "Reptilian",
+  "race": "Reptilian",
+  "seed": 1572648420,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Reptilian alien species. thick crocodilian scales, leathery skin, heavy brow ridges, cold-blooded predatory gaze, dinosaur-like textures. HEAD: Hammerhead structure with unique silhouette. EYES: 2 Slit eyes that look completely non-human. SURFACE: Tiger-like banding texture with a #00ff88 primary hue. GARB: Wearing Tattered Nomad Cloak. UNIQUE: Features Pressure-Resistant Fins. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Hammerhead",
+  "eyeStyle": "Slit",
+  "eyeCount": 2,
+  "clothing": "Tattered Nomad Cloak",
+  "markingPattern": "Tiger-like banding",
+  "morphology": "Pressure-Resistant Fins",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Arid Desert",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Arid Desert",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 10,
+    "devotion": 10,
+    "expansionism": 1,
+    "isolationism": 9,
+    "mercantilism": 8
+  },
+  "aggression": 10,
+  "devotion": 10,
+  "expansionism": 1,
+  "isolationism": 9,
+  "mercantilism": 8,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Merchant Guild",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20reptilian%20face%20portrait%2C%20tiger-like%20banding%2C%20hammerhead%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1572648420",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_q0bbac_mpafdttl.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_q0bbac_mpafdttl.jpg",
+  "generatedAt": "2026-05-17T23:48:59.912Z",
+  "botVersion": "1.0"
+}
