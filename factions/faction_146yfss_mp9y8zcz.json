@@ -1,0 +1,49 @@
+{
+  "id": "146yfss_mp9y8zcz",
+  "name": "Zultor Dominion, The Plumaged",
+  "short": "Zultor",
+  "epithet": "The Plumaged",
+  "description": "Avian-based lifeforms. The Plumaged.",
+  "biology": "Avian",
+  "race": "Avian",
+  "seed": 2430331516,
+  "visualPrompt": "Cinema-grade macro portrait of a Avian alien species. covered in thick plumage, hard keratin beak, hollow bone structure, raptor features. HEAD: Beaked. EYES: 6 Single-Large eyes. SURFACE: Bioluminescent Veins. GARB: Tattered Nomad Cloak. FEATURES: Metallic Spikes. Style: cinematic Sci-Fi, photorealistic, dramatic rim lighting, 4k.",
+  "headShape": "Beaked",
+  "eyeStyle": "Single-Large",
+  "eyeCount": 6,
+  "clothing": "Tattered Nomad Cloak",
+  "markingPattern": "Bioluminescent Veins",
+  "morphology": "Metallic Spikes",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Lush Forest",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Lush Forest",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 9,
+    "devotion": 8,
+    "expansionism": 10,
+    "isolationism": 8,
+    "mercantilism": 10
+  },
+  "aggression": 9,
+  "devotion": 8,
+  "expansionism": 10,
+  "isolationism": 8,
+  "mercantilism": 10,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Merchant Guild",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20avian%20face%20portrait%2C%20bioluminescent%20veins%2C%20beaked%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2430331516",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_146yfss_mp9y8zcz.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_146yfss_mp9y8zcz.jpg",
+  "generatedAt": "2026-05-17T15:49:04.144Z",
+  "botVersion": "1.0"
+}
