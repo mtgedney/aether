@@ -1,0 +1,49 @@
+{
+  "id": "1pmzqbh_mpafc2k0",
+  "name": "Fenar Sovereignty, The Plumaged",
+  "short": "Fenar",
+  "epithet": "The Plumaged",
+  "description": "Avian-based lifeforms. The Plumaged.",
+  "biology": "Avian",
+  "race": "Avian",
+  "seed": 3727055357,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Avian alien species. covered in thick plumage or downy feathers, a hard keratin beak, hollow bone structure visible in neck, bird-like anatomy, predatory raptor features. HEAD: Spherical structure with unique silhouette. EYES: 1 Diamond eyes that look completely non-human. SURFACE: Tiger-like banding texture with a #9d00ff primary hue. GARB: Wearing Pilot's flight jacket. UNIQUE: Features Floating Shards. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Spherical",
+  "eyeStyle": "Diamond",
+  "eyeCount": 1,
+  "clothing": "Pilot's flight jacket",
+  "markingPattern": "Tiger-like banding",
+  "morphology": "Floating Shards",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Lush Forest",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Lush Forest",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 1,
+    "devotion": 3,
+    "expansionism": 6,
+    "isolationism": 10,
+    "mercantilism": 1
+  },
+  "aggression": 1,
+  "devotion": 3,
+  "expansionism": 6,
+  "isolationism": 10,
+  "mercantilism": 1,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Warlord Council",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20avian%20face%20portrait%2C%20tiger-like%20banding%2C%20spherical%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3727055357",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1pmzqbh_mpafc2k0.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1pmzqbh_mpafc2k0.jpg",
+  "generatedAt": "2026-05-17T23:47:29.901Z",
+  "botVersion": "1.0"
+}
