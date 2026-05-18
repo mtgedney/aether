@@ -1,0 +1,49 @@
+{
+  "id": "a6x3xk_mpam1jpf",
+  "name": "Zyren Zulon, The Luminous",
+  "short": "Zyren",
+  "epithet": "The Luminous",
+  "description": "Vaporous energy-based beings that exist within magnetic containment fields.",
+  "biology": "Ethereal",
+  "race": "Ethereal",
+  "seed": 616284200,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Ethereal alien species. body made of shifting nebulous gas and electrical arcs, held together by a magnetic harness, glowing semi-transparent forms, no solid skin. HEAD: Hooded structure with unique silhouette. EYES: 3 Holographic eyes that look completely non-human. SURFACE: Runic Carvings texture with a #00ff88 primary hue. GARB: Wearing Tribal leather wraps. UNIQUE: Features Retractable Gills. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Hooded",
+  "eyeStyle": "Holographic",
+  "eyeCount": 3,
+  "clothing": "Tribal leather wraps",
+  "markingPattern": "Runic Carvings",
+  "morphology": "Retractable Gills",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Lush Forest",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Barren",
+    "hostile": "Lush Forest"
+  },
+  "disposition": {
+    "aggression": 7,
+    "devotion": 7,
+    "expansionism": 8,
+    "isolationism": 1,
+    "mercantilism": 8
+  },
+  "aggression": 7,
+  "devotion": 7,
+  "expansionism": 8,
+  "isolationism": 1,
+  "mercantilism": 8,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Warlord Council",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20ethereal%20face%20portrait%2C%20runic%20carvings%2C%20hooded%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=616284200",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_a6x3xk_mpam1jpf.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_a6x3xk_mpam1jpf.jpg",
+  "generatedAt": "2026-05-18T02:55:13.980Z",
+  "botVersion": "1.0"
+}
