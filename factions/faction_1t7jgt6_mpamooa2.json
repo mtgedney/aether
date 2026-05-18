@@ -1,0 +1,49 @@
+{
+  "id": "1t7jgt6_mpamooa2",
+  "name": "Mynkis, Deep-Diver",
+  "short": "Mynkis",
+  "epithet": "Deep-Diver",
+  "description": "Hydrodynamic lifeforms with pressure-resistant plating and sonar-based neural communication.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 3942967002,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Aquatic alien species. thick rubbery skin like a whale or shark, translucent fins, wet glistening texture, deep-sea monstrous scales, absolutely NO human features. HEAD: Hooded structure with unique silhouette. EYES: 8 Single-Large eyes that look completely non-human. SURFACE: Asymmetrical Splatter texture with a #00ff88 primary hue. GARB: Wearing Ceremonial Plate. UNIQUE: Features Extra sensory bristles. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Hooded",
+  "eyeStyle": "Single-Large",
+  "eyeCount": 8,
+  "clothing": "Ceremonial Plate",
+  "markingPattern": "Asymmetrical Splatter",
+  "morphology": "Extra sensory bristles",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 2,
+    "devotion": 10,
+    "expansionism": 1,
+    "isolationism": 7,
+    "mercantilism": 5
+  },
+  "aggression": 2,
+  "devotion": 10,
+  "expansionism": 1,
+  "isolationism": 7,
+  "mercantilism": 5,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Merchant Guild",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20asymmetrical%20splatter%2C%20hooded%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3942967002",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1t7jgt6_mpamooa2.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1t7jgt6_mpamooa2.jpg",
+  "generatedAt": "2026-05-18T03:13:14.094Z",
+  "botVersion": "1.0"
+}
