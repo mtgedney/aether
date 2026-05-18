@@ -1,0 +1,49 @@
+{
+  "id": "iguj0k_mpajao6n",
+  "name": "Vaxtor Dominion, Stone-Singer",
+  "short": "Vaxtor",
+  "epithet": "Stone-Singer",
+  "description": "Lithoid-based lifeforms. Stone-Singer.",
+  "biology": "Lithoid",
+  "race": "Lithoid",
+  "seed": 1116689348,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Lithoid alien species. composed of jagged rock and tectonic plates, crystalline geodic inclusions for eyes, mossy stony texture, mountain-like ruggedness, zero soft tissue. HEAD: Flat structure with unique silhouette. EYES: 5 Bioluminescent eyes that look completely non-human. SURFACE: Leopard-like spots texture with a #ff8800 primary hue. GARB: Wearing Pragmatic Tech-Suit. UNIQUE: Features Crystalline Spines. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Flat",
+  "eyeStyle": "Bioluminescent",
+  "eyeCount": 5,
+  "clothing": "Pragmatic Tech-Suit",
+  "markingPattern": "Leopard-like spots",
+  "morphology": "Crystalline Spines",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Volcanic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Volcanic",
+    "secondary": "Barren",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 1,
+    "devotion": 8,
+    "expansionism": 2,
+    "isolationism": 9,
+    "mercantilism": 7
+  },
+  "aggression": 1,
+  "devotion": 8,
+  "expansionism": 2,
+  "isolationism": 9,
+  "mercantilism": 7,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Democracy",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20lithoid%20face%20portrait%2C%20leopard-like%20spots%2C%20flat%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1116689348",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_iguj0k_mpajao6n.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_iguj0k_mpajao6n.jpg",
+  "generatedAt": "2026-05-18T01:38:30.355Z",
+  "botVersion": "1.0"
+}
