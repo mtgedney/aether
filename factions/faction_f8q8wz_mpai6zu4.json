@@ -1,0 +1,49 @@
+{
+  "id": "f8q8wz_mpai6zu4",
+  "name": "Feneth Dominion, Void-Shadow",
+  "short": "Feneth",
+  "epithet": "Void-Shadow",
+  "description": "Ethereal-based lifeforms. Void-Shadow.",
+  "biology": "Ethereal",
+  "race": "Ethereal",
+  "seed": 921654179,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Ethereal alien species. body made of shifting nebulous gas and electrical arcs, held together by a magnetic harness, glowing semi-transparent forms, no solid skin. HEAD: Flat structure with unique silhouette. EYES: 3 Bioluminescent eyes that look completely non-human. SURFACE: Thick Warts texture with a #ff0055 primary hue. GARB: Wearing Pragmatic Tech-Suit. UNIQUE: Features Pressure-Resistant Fins. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Flat",
+  "eyeStyle": "Bioluminescent",
+  "eyeCount": 3,
+  "clothing": "Pragmatic Tech-Suit",
+  "markingPattern": "Thick Warts",
+  "morphology": "Pressure-Resistant Fins",
+  "color": "#ff0055",
+  "glyph": "△",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Lush Forest",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Barren",
+    "hostile": "Lush Forest"
+  },
+  "disposition": {
+    "aggression": 9,
+    "devotion": 2,
+    "expansionism": 1,
+    "isolationism": 6,
+    "mercantilism": 9
+  },
+  "aggression": 9,
+  "devotion": 2,
+  "expansionism": 1,
+  "isolationism": 6,
+  "mercantilism": 9,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Warlord Council",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20ethereal%20face%20portrait%2C%20thick%20warts%2C%20flat%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=921654179",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_f8q8wz_mpai6zu4.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_f8q8wz_mpai6zu4.jpg",
+  "generatedAt": "2026-05-18T01:07:00.027Z",
+  "botVersion": "1.0"
+}
