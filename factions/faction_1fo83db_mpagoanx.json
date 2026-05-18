@@ -1,0 +1,49 @@
+{
+  "id": "1fo83db_mpagoanx",
+  "name": "Fenus, Fluid-Mind",
+  "short": "Fenus",
+  "epithet": "Fluid-Mind",
+  "description": "Amorphous-based lifeforms. Fluid-Mind.",
+  "biology": "Amorphous",
+  "race": "Amorphous",
+  "seed": 3124463375,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Amorphous alien species. viscous translucent slime, shifting protoplasmic mass, lack of symmetry, gelatinous undulating surface, multiple small erratic nuclei. HEAD: Faceted structure with unique silhouette. EYES: 6 Single-Large eyes that look completely non-human. SURFACE: Corroded Etchings texture with a #00ff88 primary hue. GARB: Wearing Phase-Shift Harness. UNIQUE: Features Large Curved Horns. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Faceted",
+  "eyeStyle": "Single-Large",
+  "eyeCount": 6,
+  "clothing": "Phase-Shift Harness",
+  "markingPattern": "Corroded Etchings",
+  "morphology": "Large Curved Horns",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Sub-Surface Ocean Sphere",
+  "secondaryBiome": "Water-World",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Sub-Surface Ocean Sphere",
+    "secondary": "Water-World",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 6,
+    "devotion": 6,
+    "expansionism": 2,
+    "isolationism": 4,
+    "mercantilism": 9
+  },
+  "aggression": 6,
+  "devotion": 6,
+  "expansionism": 2,
+  "isolationism": 4,
+  "mercantilism": 9,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Hive-mind",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20amorphous%20face%20portrait%2C%20corroded%20etchings%2C%20faceted%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3124463375",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1fo83db_mpagoanx.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1fo83db_mpagoanx.jpg",
+  "generatedAt": "2026-05-18T00:24:59.797Z",
+  "botVersion": "1.0"
+}
