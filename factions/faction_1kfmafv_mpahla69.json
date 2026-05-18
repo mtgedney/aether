@@ -1,0 +1,49 @@
+{
+  "id": "1kfmafv_mpahla69",
+  "name": "Kraix Coalition, Venom-Tongue",
+  "short": "Kraix",
+  "epithet": "Venom-Tongue",
+  "description": "Reptilian-based lifeforms. Venom-Tongue.",
+  "biology": "Reptilian",
+  "race": "Reptilian",
+  "seed": 3412340059,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Reptilian alien species. thick crocodilian scales, leathery skin, heavy brow ridges, cold-blooded predatory gaze, dinosaur-like textures. HEAD: Dome structure with unique silhouette. EYES: 2 Pupil-less eyes that look completely non-human. SURFACE: Geodic Growths texture with a #9d00ff primary hue. GARB: Wearing Ceremonial Plate. UNIQUE: Features Prehensile trunks. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Dome",
+  "eyeStyle": "Pupil-less",
+  "eyeCount": 2,
+  "clothing": "Ceremonial Plate",
+  "markingPattern": "Geodic Growths",
+  "morphology": "Prehensile trunks",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Arid Desert",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Arid Desert",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 1,
+    "devotion": 2,
+    "expansionism": 6,
+    "isolationism": 8,
+    "mercantilism": 5
+  },
+  "aggression": 1,
+  "devotion": 2,
+  "expansionism": 6,
+  "isolationism": 8,
+  "mercantilism": 5,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Warlord Council",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20reptilian%20face%20portrait%2C%20geodic%20growths%2C%20dome%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3412340059",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1kfmafv_mpahla69.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1kfmafv_mpahla69.jpg",
+  "generatedAt": "2026-05-18T00:50:29.880Z",
+  "botVersion": "1.0"
+}
