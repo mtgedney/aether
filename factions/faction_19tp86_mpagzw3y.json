@@ -1,0 +1,49 @@
+{
+  "id": "19tp86_mpagzw3y",
+  "name": "Krator Hegemony, Crag-Giant",
+  "short": "Krator",
+  "epithet": "Crag-Giant",
+  "description": "Lithoid-based lifeforms. Crag-Giant.",
+  "biology": "Lithoid",
+  "race": "Lithoid",
+  "seed": 76968438,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Lithoid alien species. composed of jagged rock and tectonic plates, crystalline geodic inclusions for eyes, mossy stony texture, mountain-like ruggedness, zero soft tissue. HEAD: Fin-Tipped structure with unique silhouette. EYES: 2 Clouded eyes that look completely non-human. SURFACE: Runic Carvings texture with a #00ff88 primary hue. GARB: Wearing Minimalist Tunic. UNIQUE: Features Large Curved Horns. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Fin-Tipped",
+  "eyeStyle": "Clouded",
+  "eyeCount": 2,
+  "clothing": "Minimalist Tunic",
+  "markingPattern": "Runic Carvings",
+  "morphology": "Large Curved Horns",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Volcanic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Volcanic",
+    "secondary": "Barren",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 4,
+    "devotion": 2,
+    "expansionism": 4,
+    "isolationism": 8,
+    "mercantilism": 3
+  },
+  "aggression": 4,
+  "devotion": 2,
+  "expansionism": 4,
+  "isolationism": 8,
+  "mercantilism": 3,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Hive-mind",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20lithoid%20face%20portrait%2C%20runic%20carvings%2C%20fin-tipped%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=76968438",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_19tp86_mpagzw3y.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_19tp86_mpagzw3y.jpg",
+  "generatedAt": "2026-05-18T00:34:00.701Z",
+  "botVersion": "1.0"
+}
