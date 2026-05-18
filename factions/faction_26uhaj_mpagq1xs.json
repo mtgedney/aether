@@ -1,0 +1,49 @@
+{
+  "id": "26uhaj_mpagq1xs",
+  "name": "Mynkis, The Luminous",
+  "short": "Mynkis",
+  "epithet": "The Luminous",
+  "description": "Ethereal-based lifeforms. The Luminous.",
+  "biology": "Ethereal",
+  "race": "Ethereal",
+  "seed": 132432139,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Ethereal alien species. body made of shifting nebulous gas and electrical arcs, held together by a magnetic harness, glowing semi-transparent forms, no solid skin. HEAD: Dome structure with unique silhouette. EYES: 6 Telescopic eyes that look completely non-human. SURFACE: Geometric Tattoos texture with a #ff8800 primary hue. GARB: Wearing Phase-Shift Harness. UNIQUE: Features Large Curved Horns. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Dome",
+  "eyeStyle": "Telescopic",
+  "eyeCount": 6,
+  "clothing": "Phase-Shift Harness",
+  "markingPattern": "Geometric Tattoos",
+  "morphology": "Large Curved Horns",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Lush Forest",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Barren",
+    "hostile": "Lush Forest"
+  },
+  "disposition": {
+    "aggression": 5,
+    "devotion": 5,
+    "expansionism": 7,
+    "isolationism": 3,
+    "mercantilism": 3
+  },
+  "aggression": 5,
+  "devotion": 5,
+  "expansionism": 7,
+  "isolationism": 3,
+  "mercantilism": 3,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Warlord Council",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20ethereal%20face%20portrait%2C%20geometric%20tattoos%2C%20dome%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=132432139",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_26uhaj_mpagq1xs.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_26uhaj_mpagq1xs.jpg",
+  "generatedAt": "2026-05-18T00:26:29.784Z",
+  "botVersion": "1.0"
+}
