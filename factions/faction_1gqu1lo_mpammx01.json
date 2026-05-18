@@ -1,0 +1,49 @@
+{
+  "id": "1gqu1lo_mpammx01",
+  "name": "Ter-an Vakus, The Adaptable",
+  "short": "Ter-an",
+  "epithet": "The Adaptable",
+  "description": "Endoskeletal bipeds with high neuro-plasticity and a propensity for rapid tool adaptation.",
+  "biology": "Humanoid",
+  "race": "Humanoid",
+  "seed": 3189312924,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Humanoid alien species. diverse non-human facial features, unusual proportions, exotic skin textures, unique ridge structures, avoid stereotypical grey alien look. HEAD: Angular structure with unique silhouette. EYES: 8 Milky-White eyes that look completely non-human. SURFACE: Iridescent Scales texture with a #9d00ff primary hue. GARB: Wearing Tattered Nomad Cloak. UNIQUE: Features Prehensile trunks. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Angular",
+  "eyeStyle": "Milky-White",
+  "eyeCount": 8,
+  "clothing": "Tattered Nomad Cloak",
+  "markingPattern": "Iridescent Scales",
+  "morphology": "Prehensile trunks",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 5,
+    "devotion": 7,
+    "expansionism": 7,
+    "isolationism": 9,
+    "mercantilism": 10
+  },
+  "aggression": 5,
+  "devotion": 7,
+  "expansionism": 7,
+  "isolationism": 9,
+  "mercantilism": 10,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Theocracy",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20humanoid%20face%20portrait%2C%20iridescent%20scales%2C%20angular%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3189312924",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1gqu1lo_mpammx01.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1gqu1lo_mpammx01.jpg",
+  "generatedAt": "2026-05-18T03:11:44.187Z",
+  "botVersion": "1.0"
+}
