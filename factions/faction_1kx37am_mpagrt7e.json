@@ -1,0 +1,49 @@
+{
+  "id": "1kx37am_mpagrt7e",
+  "name": "Zul-an, Deep-Diver",
+  "short": "Zul-an",
+  "epithet": "Deep-Diver",
+  "description": "Aquatic-based lifeforms. Deep-Diver.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 3441682606,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Aquatic alien species. thick rubbery skin like a whale or shark, translucent fins, wet glistening texture, deep-sea monstrous scales, absolutely NO human features. HEAD: Crested structure with unique silhouette. EYES: 3 Vertical-pupils eyes that look completely non-human. SURFACE: Leopard-like spots texture with a #ffff00 primary hue. GARB: Wearing Bio-Organic Wrap. UNIQUE: Features Multi-layered Crest. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Crested",
+  "eyeStyle": "Vertical-pupils",
+  "eyeCount": 3,
+  "clothing": "Bio-Organic Wrap",
+  "markingPattern": "Leopard-like spots",
+  "morphology": "Multi-layered Crest",
+  "color": "#ffff00",
+  "glyph": "⊕",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 9,
+    "devotion": 10,
+    "expansionism": 4,
+    "isolationism": 7,
+    "mercantilism": 5
+  },
+  "aggression": 9,
+  "devotion": 10,
+  "expansionism": 4,
+  "isolationism": 7,
+  "mercantilism": 5,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Merchant Guild",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20leopard-like%20spots%2C%20crested%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3441682606",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1kx37am_mpagrt7e.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1kx37am_mpagrt7e.jpg",
+  "generatedAt": "2026-05-18T00:28:00.297Z",
+  "botVersion": "1.0"
+}
