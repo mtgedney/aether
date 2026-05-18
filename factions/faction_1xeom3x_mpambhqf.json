@@ -1,0 +1,49 @@
+{
+  "id": "1xeom3x_mpambhqf",
+  "name": "Zyron Kraok, Void-Shadow",
+  "short": "Zyron",
+  "epithet": "Void-Shadow",
+  "description": "Vaporous energy-based beings that exist within magnetic containment fields.",
+  "biology": "Ethereal",
+  "race": "Ethereal",
+  "seed": 4196829165,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Ethereal alien species. body made of shifting nebulous gas and electrical arcs, held together by a magnetic harness, glowing semi-transparent forms, no solid skin. HEAD: Spherical structure with unique silhouette. EYES: 2 Multiple-Small eyes that look completely non-human. SURFACE: Geodic Growths texture with a #9d00ff primary hue. GARB: Wearing Phase-Shift Harness. UNIQUE: Features Multiple chins. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Spherical",
+  "eyeStyle": "Multiple-Small",
+  "eyeCount": 2,
+  "clothing": "Phase-Shift Harness",
+  "markingPattern": "Geodic Growths",
+  "morphology": "Multiple chins",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Lush Forest",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Barren",
+    "hostile": "Lush Forest"
+  },
+  "disposition": {
+    "aggression": 5,
+    "devotion": 6,
+    "expansionism": 4,
+    "isolationism": 1,
+    "mercantilism": 6
+  },
+  "aggression": 5,
+  "devotion": 6,
+  "expansionism": 4,
+  "isolationism": 1,
+  "mercantilism": 6,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Warlord Council",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20ethereal%20face%20portrait%2C%20geodic%20growths%2C%20spherical%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=4196829165",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1xeom3x_mpambhqf.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1xeom3x_mpambhqf.jpg",
+  "generatedAt": "2026-05-18T03:02:43.856Z",
+  "botVersion": "1.0"
+}
