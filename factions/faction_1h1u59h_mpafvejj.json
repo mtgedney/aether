@@ -1,0 +1,49 @@
+{
+  "id": "1h1u59h_mpafvejj",
+  "name": "Terok Republic, Chitin-Lord",
+  "short": "Terok",
+  "epithet": "Chitin-Lord",
+  "description": "Insectoid-based lifeforms. Chitin-Lord.",
+  "biology": "Insectoid",
+  "race": "Insectoid",
+  "seed": 3207793445,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Insectoid alien species. hard chitinous exoskeleton, segmented thorax, chitin plating, bristly hairs, compound predatory insect features, no human nose or mouth. HEAD: Beaked structure with unique silhouette. EYES: 3 Heat-vision-pits eyes that look completely non-human. SURFACE: Iridescent Scales texture with a #00f2ff primary hue. GARB: Wearing Minimalist Tunic. UNIQUE: Features Bioluminescent Halos. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Beaked",
+  "eyeStyle": "Heat-vision-pits",
+  "eyeCount": 3,
+  "clothing": "Minimalist Tunic",
+  "markingPattern": "Iridescent Scales",
+  "morphology": "Bioluminescent Halos",
+  "color": "#00f2ff",
+  "glyph": "✦",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 2,
+    "devotion": 5,
+    "expansionism": 7,
+    "isolationism": 5,
+    "mercantilism": 6
+  },
+  "aggression": 2,
+  "devotion": 5,
+  "expansionism": 7,
+  "isolationism": 5,
+  "mercantilism": 6,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Warlord Council",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20insectoid%20face%20portrait%2C%20iridescent%20scales%2C%20beaked%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3207793445",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1h1u59h_mpafvejj.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1h1u59h_mpafvejj.jpg",
+  "generatedAt": "2026-05-18T00:02:29.893Z",
+  "botVersion": "1.0"
+}
