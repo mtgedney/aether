@@ -1,0 +1,49 @@
+{
+  "id": "kxprpk_mpalu17m",
+  "name": "Vaxar Dominion, Energy-Burst",
+  "short": "Vaxar",
+  "epithet": "Energy-Burst",
+  "description": "Vaporous energy-based beings that exist within magnetic containment fields.",
+  "biology": "Ethereal",
+  "race": "Ethereal",
+  "seed": 1265953160,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Ethereal alien species. body made of shifting nebulous gas and electrical arcs, held together by a magnetic harness, glowing semi-transparent forms, no solid skin. HEAD: Hammerhead structure with unique silhouette. EYES: 6 Pupil-less eyes that look completely non-human. SURFACE: Iridescent Scales texture with a #ffff00 primary hue. GARB: Wearing Scrap-Metal Armor. UNIQUE: Features Ossified plates. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Hammerhead",
+  "eyeStyle": "Pupil-less",
+  "eyeCount": 6,
+  "clothing": "Scrap-Metal Armor",
+  "markingPattern": "Iridescent Scales",
+  "morphology": "Ossified plates",
+  "color": "#ffff00",
+  "glyph": "⊕",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Lush Forest",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Barren",
+    "hostile": "Lush Forest"
+  },
+  "disposition": {
+    "aggression": 10,
+    "devotion": 6,
+    "expansionism": 7,
+    "isolationism": 4,
+    "mercantilism": 6
+  },
+  "aggression": 10,
+  "devotion": 6,
+  "expansionism": 7,
+  "isolationism": 4,
+  "mercantilism": 6,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Merchant Guild",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20ethereal%20face%20portrait%2C%20iridescent%20scales%2C%20hammerhead%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1265953160",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_kxprpk_mpalu17m.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_kxprpk_mpalu17m.jpg",
+  "generatedAt": "2026-05-18T02:49:14.137Z",
+  "botVersion": "1.0"
+}
