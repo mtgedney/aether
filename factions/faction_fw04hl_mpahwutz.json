@@ -1,0 +1,49 @@
+{
+  "id": "fw04hl_mpahwutz",
+  "name": "Vaxus, Chitin-Lord",
+  "short": "Vaxus",
+  "epithet": "Chitin-Lord",
+  "description": "Insectoid-based lifeforms. Chitin-Lord.",
+  "biology": "Insectoid",
+  "race": "Insectoid",
+  "seed": 960746169,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Insectoid alien species. hard chitinous exoskeleton, segmented thorax, chitin plating, bristly hairs, compound predatory insect features, no human nose or mouth. HEAD: Beaked structure with unique silhouette. EYES: 2 Multiple-Small eyes that look completely non-human. SURFACE: Tiger-like banding texture with a #9d00ff primary hue. GARB: Wearing Pressure Suit. UNIQUE: Features Extra sensory bristles. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Beaked",
+  "eyeStyle": "Multiple-Small",
+  "eyeCount": 2,
+  "clothing": "Pressure Suit",
+  "markingPattern": "Tiger-like banding",
+  "morphology": "Extra sensory bristles",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 1,
+    "devotion": 4,
+    "expansionism": 10,
+    "isolationism": 2,
+    "mercantilism": 1
+  },
+  "aggression": 1,
+  "devotion": 4,
+  "expansionism": 10,
+  "isolationism": 2,
+  "mercantilism": 1,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Warlord Council",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20insectoid%20face%20portrait%2C%20tiger-like%20banding%2C%20beaked%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=960746169",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_fw04hl_mpahwutz.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_fw04hl_mpahwutz.jpg",
+  "generatedAt": "2026-05-18T00:59:30.058Z",
+  "botVersion": "1.0"
+}
