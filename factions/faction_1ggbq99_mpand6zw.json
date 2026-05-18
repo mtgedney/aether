@@ -1,0 +1,49 @@
+{
+  "id": "1ggbq99_mpand6zw",
+  "name": "Vaxtor Tertor, Tide-Caller",
+  "short": "Vaxtor",
+  "epithet": "Tide-Caller",
+  "description": "Hydrodynamic lifeforms with pressure-resistant plating and sonar-based neural communication.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 3171662253,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Aquatic alien species. thick rubbery skin like a whale or shark, translucent fins, wet glistening texture, deep-sea monstrous scales, absolutely NO human features. HEAD: Elephantine structure with unique silhouette. EYES: 5 Milky-White eyes that look completely non-human. SURFACE: Runic Carvings texture with a #ff8800 primary hue. GARB: Wearing Tattered Nomad Cloak. UNIQUE: Features Floating Shards. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Elephantine",
+  "eyeStyle": "Milky-White",
+  "eyeCount": 5,
+  "clothing": "Tattered Nomad Cloak",
+  "markingPattern": "Runic Carvings",
+  "morphology": "Floating Shards",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 1,
+    "devotion": 10,
+    "expansionism": 6,
+    "isolationism": 4,
+    "mercantilism": 1
+  },
+  "aggression": 1,
+  "devotion": 10,
+  "expansionism": 6,
+  "isolationism": 4,
+  "mercantilism": 1,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Warlord Council",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20runic%20carvings%2C%20elephantine%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3171662253",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1ggbq99_mpand6zw.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1ggbq99_mpand6zw.jpg",
+  "generatedAt": "2026-05-18T03:32:44.577Z",
+  "botVersion": "1.0"
+}
