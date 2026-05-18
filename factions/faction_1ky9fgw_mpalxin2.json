@@ -1,0 +1,49 @@
+{
+  "id": "1ky9fgw_mpalxin2",
+  "name": "Zyrtor Order, Crystal-Heart",
+  "short": "Zyrtor",
+  "epithet": "Crystal-Heart",
+  "description": "Mineral-based organisms with geodic internal organs and extreme longevity.",
+  "biology": "Lithoid",
+  "race": "Lithoid",
+  "seed": 3443652752,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Lithoid alien species. composed of jagged rock and tectonic plates, crystalline geodic inclusions for eyes, mossy stony texture, mountain-like ruggedness, zero soft tissue. HEAD: Featureless structure with unique silhouette. EYES: 6 Clouded eyes that look completely non-human. SURFACE: Flowing Circuitry texture with a #ff0055 primary hue. GARB: Wearing Pragmatic Tech-Suit. UNIQUE: Features Retractable Gills. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Featureless",
+  "eyeStyle": "Clouded",
+  "eyeCount": 6,
+  "clothing": "Pragmatic Tech-Suit",
+  "markingPattern": "Flowing Circuitry",
+  "morphology": "Retractable Gills",
+  "color": "#ff0055",
+  "glyph": "△",
+  "primaryBiome": "Volcanic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Volcanic",
+    "secondary": "Barren",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 5,
+    "devotion": 5,
+    "expansionism": 8,
+    "isolationism": 8,
+    "mercantilism": 1
+  },
+  "aggression": 5,
+  "devotion": 5,
+  "expansionism": 8,
+  "isolationism": 8,
+  "mercantilism": 1,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Democracy",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20lithoid%20face%20portrait%2C%20flowing%20circuitry%2C%20featureless%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3443652752",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1ky9fgw_mpalxin2.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1ky9fgw_mpalxin2.jpg",
+  "generatedAt": "2026-05-18T02:52:14.061Z",
+  "botVersion": "1.0"
+}
