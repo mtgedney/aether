@@ -1,0 +1,49 @@
+{
+  "id": "7nt7qk_mpagei1k",
+  "name": "Kradar Directorate, Gear-Warden",
+  "short": "Kradar",
+  "epithet": "Gear-Warden",
+  "description": "Mechanical-based lifeforms. Gear-Warden.",
+  "biology": "Mechanical",
+  "race": "Mechanical",
+  "seed": 463257452,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Mechanical alien species. exposed wiring and hydraulic pistons, weathered industrial metal casing, worn plating, antique robotics, oil-stained machinery. HEAD: Fin-Tipped structure with unique silhouette. EYES: 5 Slit eyes that look completely non-human. SURFACE: Iridescent Scales texture with a #ff8800 primary hue. GARB: Wearing Pressure Suit. UNIQUE: Features Pressure-Resistant Fins. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Fin-Tipped",
+  "eyeStyle": "Slit",
+  "eyeCount": 5,
+  "clothing": "Pressure Suit",
+  "markingPattern": "Iridescent Scales",
+  "morphology": "Pressure-Resistant Fins",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Barren",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Barren",
+    "secondary": "Volcanic",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 6,
+    "devotion": 1,
+    "expansionism": 2,
+    "isolationism": 3,
+    "mercantilism": 10
+  },
+  "aggression": 6,
+  "devotion": 1,
+  "expansionism": 2,
+  "isolationism": 3,
+  "mercantilism": 10,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Theocracy",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20mechanical%20face%20portrait%2C%20iridescent%20scales%2C%20fin-tipped%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=463257452",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_7nt7qk_mpagei1k.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_7nt7qk_mpagei1k.jpg",
+  "generatedAt": "2026-05-18T00:17:29.930Z",
+  "botVersion": "1.0"
+}
