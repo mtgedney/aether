@@ -1,0 +1,49 @@
+{
+  "id": "bcqlsc_mpah5p7i",
+  "name": "Fenix, The Plumaged",
+  "short": "Fenix",
+  "epithet": "The Plumaged",
+  "description": "Avian-based lifeforms. The Plumaged.",
+  "biology": "Avian",
+  "race": "Avian",
+  "seed": 686524620,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Avian alien species. covered in thick plumage or downy feathers, a hard keratin beak, hollow bone structure visible in neck, bird-like anatomy, predatory raptor features. HEAD: Spherical structure with unique silhouette. EYES: 5 Slit eyes that look completely non-human. SURFACE: Star-Map Freckles texture with a #00f2ff primary hue. GARB: Wearing Minimalist Tunic. UNIQUE: Features Extra sensory bristles. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Spherical",
+  "eyeStyle": "Slit",
+  "eyeCount": 5,
+  "clothing": "Minimalist Tunic",
+  "markingPattern": "Star-Map Freckles",
+  "morphology": "Extra sensory bristles",
+  "color": "#00f2ff",
+  "glyph": "✦",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Lush Forest",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Lush Forest",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 9,
+    "devotion": 6,
+    "expansionism": 10,
+    "isolationism": 7,
+    "mercantilism": 10
+  },
+  "aggression": 9,
+  "devotion": 6,
+  "expansionism": 10,
+  "isolationism": 7,
+  "mercantilism": 10,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Hive-mind",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20avian%20face%20portrait%2C%20star-map%20freckles%2C%20spherical%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=686524620",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_bcqlsc_mpah5p7i.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_bcqlsc_mpah5p7i.jpg",
+  "generatedAt": "2026-05-18T00:38:29.971Z",
+  "botVersion": "1.0"
+}
