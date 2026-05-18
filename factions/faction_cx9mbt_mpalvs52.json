@@ -1,0 +1,49 @@
+{
+  "id": "cx9mbt_mpalvs52",
+  "name": "Bochen Zular, Legacy-Bearer",
+  "short": "Bochen",
+  "epithet": "Legacy-Bearer",
+  "description": "Endoskeletal bipeds with high neuro-plasticity and a propensity for rapid tool adaptation.",
+  "biology": "Humanoid",
+  "race": "Humanoid",
+  "seed": 781470281,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Humanoid alien species. diverse non-human facial features, unusual proportions, exotic skin textures, unique ridge structures, avoid stereotypical grey alien look. HEAD: Fin-Tipped structure with unique silhouette. EYES: 4 Clouded eyes that look completely non-human. SURFACE: Geometric Tattoos texture with a #00f2ff primary hue. GARB: Wearing Bio-Organic Wrap. UNIQUE: Features Webbed Extremities. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Fin-Tipped",
+  "eyeStyle": "Clouded",
+  "eyeCount": 4,
+  "clothing": "Bio-Organic Wrap",
+  "markingPattern": "Geometric Tattoos",
+  "morphology": "Webbed Extremities",
+  "color": "#00f2ff",
+  "glyph": "✦",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 9,
+    "devotion": 5,
+    "expansionism": 5,
+    "isolationism": 9,
+    "mercantilism": 1
+  },
+  "aggression": 9,
+  "devotion": 5,
+  "expansionism": 5,
+  "isolationism": 9,
+  "mercantilism": 1,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Merchant Guild",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20humanoid%20face%20portrait%2C%20geometric%20tattoos%2C%20fin-tipped%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=781470281",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_cx9mbt_mpalvs52.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_cx9mbt_mpalvs52.jpg",
+  "generatedAt": "2026-05-18T02:50:43.901Z",
+  "botVersion": "1.0"
+}
