@@ -1,0 +1,49 @@
+{
+  "id": "1qi7bwt_mpak6acr",
+  "name": "Terok, The Obsidian",
+  "short": "Terok",
+  "epithet": "The Obsidian",
+  "description": "Lithoid-based lifeforms. The Obsidian.",
+  "biology": "Lithoid",
+  "race": "Lithoid",
+  "seed": 3779478029,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Lithoid alien species. composed of jagged rock and tectonic plates, crystalline geodic inclusions for eyes, mossy stony texture, mountain-like ruggedness, zero soft tissue. HEAD: Fin-Tipped structure with unique silhouette. EYES: 3 Milky-White eyes that look completely non-human. SURFACE: Geodic Growths texture with a #9d00ff primary hue. GARB: Wearing Pressure Suit. UNIQUE: Features Multiple chins. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Fin-Tipped",
+  "eyeStyle": "Milky-White",
+  "eyeCount": 3,
+  "clothing": "Pressure Suit",
+  "markingPattern": "Geodic Growths",
+  "morphology": "Multiple chins",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Volcanic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Volcanic",
+    "secondary": "Barren",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 6,
+    "devotion": 4,
+    "expansionism": 2,
+    "isolationism": 9,
+    "mercantilism": 10
+  },
+  "aggression": 6,
+  "devotion": 4,
+  "expansionism": 2,
+  "isolationism": 9,
+  "mercantilism": 10,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Hive-mind",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20lithoid%20face%20portrait%2C%20geodic%20growths%2C%20fin-tipped%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3779478029",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1qi7bwt_mpak6acr.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1qi7bwt_mpak6acr.jpg",
+  "generatedAt": "2026-05-18T02:02:30.353Z",
+  "botVersion": "1.0"
+}
