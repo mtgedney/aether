@@ -1,0 +1,49 @@
+{
+  "id": "v0tz78_mpanbfqs",
+  "name": "Vaxtor Unity, Void-Shadow",
+  "short": "Vaxtor",
+  "epithet": "Void-Shadow",
+  "description": "Vaporous energy-based beings that exist within magnetic containment fields.",
+  "biology": "Ethereal",
+  "race": "Ethereal",
+  "seed": 1875850100,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Ethereal alien species. body made of shifting nebulous gas and electrical arcs, held together by a magnetic harness, glowing semi-transparent forms, no solid skin. HEAD: Angular structure with unique silhouette. EYES: 4 Holographic eyes that look completely non-human. SURFACE: Iridescent Scales texture with a #00ff88 primary hue. GARB: Wearing Ornate Silk Robes. UNIQUE: Features Hollow Wing-Spans. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Angular",
+  "eyeStyle": "Holographic",
+  "eyeCount": 4,
+  "clothing": "Ornate Silk Robes",
+  "markingPattern": "Iridescent Scales",
+  "morphology": "Hollow Wing-Spans",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Lush Forest",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Barren",
+    "hostile": "Lush Forest"
+  },
+  "disposition": {
+    "aggression": 6,
+    "devotion": 7,
+    "expansionism": 3,
+    "isolationism": 8,
+    "mercantilism": 10
+  },
+  "aggression": 6,
+  "devotion": 7,
+  "expansionism": 3,
+  "isolationism": 8,
+  "mercantilism": 10,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Democracy",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20ethereal%20face%20portrait%2C%20iridescent%20scales%2C%20angular%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1875850100",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_v0tz78_mpanbfqs.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_v0tz78_mpanbfqs.jpg",
+  "generatedAt": "2026-05-18T03:31:13.937Z",
+  "botVersion": "1.0"
+}
