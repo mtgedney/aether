@@ -1,0 +1,49 @@
+{
+  "id": "1i3e0b0_mpaj35cg",
+  "name": "Vaktor, Wind-Seeker",
+  "short": "Vaktor",
+  "epithet": "Wind-Seeker",
+  "description": "Avian-based lifeforms. Wind-Seeker.",
+  "biology": "Avian",
+  "race": "Avian",
+  "seed": 3270865932,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Avian alien species. covered in thick plumage or downy feathers, a hard keratin beak, hollow bone structure visible in neck, bird-like anatomy, predatory raptor features. HEAD: Fin-Tipped structure with unique silhouette. EYES: 6 Stalk-eyes eyes that look completely non-human. SURFACE: Symmetrical Stripes texture with a #00f2ff primary hue. GARB: Wearing Phase-Shift Harness. UNIQUE: Features Metallic Spikes. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Fin-Tipped",
+  "eyeStyle": "Stalk-eyes",
+  "eyeCount": 6,
+  "clothing": "Phase-Shift Harness",
+  "markingPattern": "Symmetrical Stripes",
+  "morphology": "Metallic Spikes",
+  "color": "#00f2ff",
+  "glyph": "✦",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Lush Forest",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Lush Forest",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 9,
+    "devotion": 8,
+    "expansionism": 10,
+    "isolationism": 5,
+    "mercantilism": 4
+  },
+  "aggression": 9,
+  "devotion": 8,
+  "expansionism": 10,
+  "isolationism": 5,
+  "mercantilism": 4,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Hive-mind",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20avian%20face%20portrait%2C%20symmetrical%20stripes%2C%20fin-tipped%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3270865932",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1i3e0b0_mpaj35cg.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1i3e0b0_mpaj35cg.jpg",
+  "generatedAt": "2026-05-18T01:32:30.282Z",
+  "botVersion": "1.0"
+}
