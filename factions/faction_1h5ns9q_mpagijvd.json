@@ -1,0 +1,49 @@
+{
+  "id": "1h5ns9q_mpagijvd",
+  "name": "Vakdar Directorate, Cloud-Surfer",
+  "short": "Vakdar",
+  "epithet": "Cloud-Surfer",
+  "description": "Avian-based lifeforms. Cloud-Surfer.",
+  "biology": "Avian",
+  "race": "Avian",
+  "seed": 3214215134,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Avian alien species. covered in thick plumage or downy feathers, a hard keratin beak, hollow bone structure visible in neck, bird-like anatomy, predatory raptor features. HEAD: Hammerhead structure with unique silhouette. EYES: 1 Slit eyes that look completely non-human. SURFACE: Leopard-like spots texture with a #00f2ff primary hue. GARB: Wearing Pilot's flight jacket. UNIQUE: Features Multiple chins. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Hammerhead",
+  "eyeStyle": "Slit",
+  "eyeCount": 1,
+  "clothing": "Pilot's flight jacket",
+  "markingPattern": "Leopard-like spots",
+  "morphology": "Multiple chins",
+  "color": "#00f2ff",
+  "glyph": "✦",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Lush Forest",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Lush Forest",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 10,
+    "devotion": 5,
+    "expansionism": 10,
+    "isolationism": 3,
+    "mercantilism": 7
+  },
+  "aggression": 10,
+  "devotion": 5,
+  "expansionism": 10,
+  "isolationism": 3,
+  "mercantilism": 7,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Hive-mind",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20avian%20face%20portrait%2C%20leopard-like%20spots%2C%20hammerhead%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3214215134",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1h5ns9q_mpagijvd.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1h5ns9q_mpagijvd.jpg",
+  "generatedAt": "2026-05-18T00:20:30.027Z",
+  "botVersion": "1.0"
+}
