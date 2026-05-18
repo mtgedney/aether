@@ -1,0 +1,49 @@
+{
+  "id": "11q0sj7_mpag2xfk",
+  "name": "Mynix, The Reconfigurable",
+  "short": "Mynix",
+  "epithet": "The Reconfigurable",
+  "description": "Amorphous-based lifeforms. The Reconfigurable.",
+  "biology": "Amorphous",
+  "race": "Amorphous",
+  "seed": 2280955507,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Amorphous alien species. viscous translucent slime, shifting protoplasmic mass, lack of symmetry, gelatinous undulating surface, multiple small erratic nuclei. HEAD: Angular structure with unique silhouette. EYES: 6 Pupil-less eyes that look completely non-human. SURFACE: Star-Map Freckles texture with a #ff8800 primary hue. GARB: Wearing Tribal leather wraps. UNIQUE: Features Multiple chins. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Angular",
+  "eyeStyle": "Pupil-less",
+  "eyeCount": 6,
+  "clothing": "Tribal leather wraps",
+  "markingPattern": "Star-Map Freckles",
+  "morphology": "Multiple chins",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Sub-Surface Ocean Sphere",
+  "secondaryBiome": "Water-World",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Sub-Surface Ocean Sphere",
+    "secondary": "Water-World",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 1,
+    "devotion": 10,
+    "expansionism": 6,
+    "isolationism": 4,
+    "mercantilism": 6
+  },
+  "aggression": 1,
+  "devotion": 10,
+  "expansionism": 6,
+  "isolationism": 4,
+  "mercantilism": 6,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Theocracy",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20amorphous%20face%20portrait%2C%20star-map%20freckles%2C%20angular%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2280955507",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_11q0sj7_mpag2xfk.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_11q0sj7_mpag2xfk.jpg",
+  "generatedAt": "2026-05-18T00:08:29.861Z",
+  "botVersion": "1.0"
+}
