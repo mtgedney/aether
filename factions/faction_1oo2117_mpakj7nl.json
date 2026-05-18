@@ -1,0 +1,49 @@
+{
+  "id": "1oo2117_mpakj7nl",
+  "name": "Fenvox, Binary-Saint",
+  "short": "Fenvox",
+  "epithet": "Binary-Saint",
+  "description": "Mechanical-based lifeforms. Binary-Saint.",
+  "biology": "Mechanical",
+  "race": "Mechanical",
+  "seed": 3668375995,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Mechanical alien species. exposed wiring and hydraulic pistons, weathered industrial metal casing, worn plating, antique robotics, oil-stained machinery. HEAD: Tubular structure with unique silhouette. EYES: 2 Cybernetic-monocle eyes that look completely non-human. SURFACE: Thick Warts texture with a #00ff88 primary hue. GARB: Wearing Pilot's flight jacket. UNIQUE: Features Multi-layered Crest. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Tubular",
+  "eyeStyle": "Cybernetic-monocle",
+  "eyeCount": 2,
+  "clothing": "Pilot's flight jacket",
+  "markingPattern": "Thick Warts",
+  "morphology": "Multi-layered Crest",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Barren",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Barren",
+    "secondary": "Volcanic",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 1,
+    "devotion": 7,
+    "expansionism": 2,
+    "isolationism": 5,
+    "mercantilism": 2
+  },
+  "aggression": 1,
+  "devotion": 7,
+  "expansionism": 2,
+  "isolationism": 5,
+  "mercantilism": 2,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Democracy",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20mechanical%20face%20portrait%2C%20thick%20warts%2C%20tubular%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3668375995",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1oo2117_mpakj7nl.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1oo2117_mpakj7nl.jpg",
+  "generatedAt": "2026-05-18T02:13:00.082Z",
+  "botVersion": "1.0"
+}
