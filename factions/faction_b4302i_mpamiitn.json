@@ -1,0 +1,49 @@
+{
+  "id": "b4302i_mpamiitn",
+  "name": "Zyrdar Vaxen, Coral-Guard",
+  "short": "Zyrdar",
+  "epithet": "Coral-Guard",
+  "description": "Hydrodynamic lifeforms with pressure-resistant plating and sonar-based neural communication.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 671986458,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Aquatic alien species. thick rubbery skin like a whale or shark, translucent fins, wet glistening texture, deep-sea monstrous scales, absolutely NO human features. HEAD: Crustacean-like structure with unique silhouette. EYES: 5 Compound eyes that look completely non-human. SURFACE: Mossy patches texture with a #00f2ff primary hue. GARB: Wearing Bio-Organic Wrap. UNIQUE: Features Writhing Tentacles. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Crustacean-like",
+  "eyeStyle": "Compound",
+  "eyeCount": 5,
+  "clothing": "Bio-Organic Wrap",
+  "markingPattern": "Mossy patches",
+  "morphology": "Writhing Tentacles",
+  "color": "#00f2ff",
+  "glyph": "✦",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 6,
+    "devotion": 7,
+    "expansionism": 2,
+    "isolationism": 5,
+    "mercantilism": 1
+  },
+  "aggression": 6,
+  "devotion": 7,
+  "expansionism": 2,
+  "isolationism": 5,
+  "mercantilism": 1,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Theocracy",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20mossy%20patches%2C%20crustacean-like%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=671986458",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_b4302i_mpamiitn.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_b4302i_mpamiitn.jpg",
+  "generatedAt": "2026-05-18T03:08:44.040Z",
+  "botVersion": "1.0"
+}
