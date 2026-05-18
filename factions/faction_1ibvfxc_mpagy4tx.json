@@ -1,0 +1,49 @@
+{
+  "id": "1ibvfxc_mpagy4tx",
+  "name": "Myndar, The Spreader",
+  "short": "Myndar",
+  "epithet": "The Spreader",
+  "description": "Fungoid-based lifeforms. The Spreader.",
+  "biology": "Fungoid",
+  "race": "Fungoid",
+  "seed": 3285116256,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Fungoid alien species. thick mycelial stalks, mushroom-cap head structures, spore-emitting pits, damp moldy textures, organic fungal growth patterns. HEAD: Beaked structure with unique silhouette. EYES: 4 Diamond eyes that look completely non-human. SURFACE: Star-Map Freckles texture with a #9d00ff primary hue. GARB: Wearing Scrap-Metal Armor. UNIQUE: Features Massive tusks. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Beaked",
+  "eyeStyle": "Diamond",
+  "eyeCount": 4,
+  "clothing": "Scrap-Metal Armor",
+  "markingPattern": "Star-Map Freckles",
+  "morphology": "Massive tusks",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 2,
+    "devotion": 1,
+    "expansionism": 10,
+    "isolationism": 4,
+    "mercantilism": 3
+  },
+  "aggression": 2,
+  "devotion": 1,
+  "expansionism": 10,
+  "isolationism": 4,
+  "mercantilism": 3,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Warlord Council",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20fungoid%20face%20portrait%2C%20star-map%20freckles%2C%20beaked%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3285116256",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1ibvfxc_mpagy4tx.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1ibvfxc_mpagy4tx.jpg",
+  "generatedAt": "2026-05-18T00:32:29.968Z",
+  "botVersion": "1.0"
+}
