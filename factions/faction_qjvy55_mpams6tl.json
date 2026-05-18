@@ -1,0 +1,49 @@
+{
+  "id": "qjvy55_mpams6tl",
+  "name": "Zyrar, Venom-Tongue",
+  "short": "Zyrar",
+  "epithet": "Venom-Tongue",
+  "description": "Cold-blooded saurians with reinforced dermal plating and acute predatory instincts.",
+  "biology": "Reptilian",
+  "race": "Reptilian",
+  "seed": 1605523865,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Reptilian alien species. thick crocodilian scales, leathery skin, heavy brow ridges, cold-blooded predatory gaze, dinosaur-like textures. HEAD: Hooded structure with unique silhouette. EYES: 2 Slit eyes that look completely non-human. SURFACE: Bioluminescent Veins texture with a #ffff00 primary hue. GARB: Wearing Ancient monk robes. UNIQUE: Features Webbed Extremities. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Hooded",
+  "eyeStyle": "Slit",
+  "eyeCount": 2,
+  "clothing": "Ancient monk robes",
+  "markingPattern": "Bioluminescent Veins",
+  "morphology": "Webbed Extremities",
+  "color": "#ffff00",
+  "glyph": "⊕",
+  "primaryBiome": "Arid Desert",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Arid Desert",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 5,
+    "devotion": 7,
+    "expansionism": 8,
+    "isolationism": 6,
+    "mercantilism": 2
+  },
+  "aggression": 5,
+  "devotion": 7,
+  "expansionism": 8,
+  "isolationism": 6,
+  "mercantilism": 2,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Democracy",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20reptilian%20face%20portrait%2C%20bioluminescent%20veins%2C%20hooded%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1605523865",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_qjvy55_mpams6tl.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_qjvy55_mpams6tl.jpg",
+  "generatedAt": "2026-05-18T03:16:13.848Z",
+  "botVersion": "1.0"
+}
