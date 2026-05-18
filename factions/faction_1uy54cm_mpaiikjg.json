@@ -1,0 +1,49 @@
+{
+  "id": "1uy54cm_mpaiikjg",
+  "name": "Oulvox Union, The Hydrophile",
+  "short": "Oulvox",
+  "epithet": "The Hydrophile",
+  "description": "Aquatic-based lifeforms. The Hydrophile.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 4048113478,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Aquatic alien species. thick rubbery skin like a whale or shark, translucent fins, wet glistening texture, deep-sea monstrous scales, absolutely NO human features. HEAD: Spherical structure with unique silhouette. EYES: 6 Multiple-Small eyes that look completely non-human. SURFACE: Tiger-like banding texture with a #ff0055 primary hue. GARB: Wearing Holographic Shroud. UNIQUE: Features Retractable Gills. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Spherical",
+  "eyeStyle": "Multiple-Small",
+  "eyeCount": 6,
+  "clothing": "Holographic Shroud",
+  "markingPattern": "Tiger-like banding",
+  "morphology": "Retractable Gills",
+  "color": "#ff0055",
+  "glyph": "△",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 10,
+    "devotion": 2,
+    "expansionism": 9,
+    "isolationism": 9,
+    "mercantilism": 9
+  },
+  "aggression": 10,
+  "devotion": 2,
+  "expansionism": 9,
+  "isolationism": 9,
+  "mercantilism": 9,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Democracy",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20tiger-like%20banding%2C%20spherical%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=4048113478",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1uy54cm_mpaiikjg.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1uy54cm_mpaiikjg.jpg",
+  "generatedAt": "2026-05-18T01:16:00.240Z",
+  "botVersion": "1.0"
+}
