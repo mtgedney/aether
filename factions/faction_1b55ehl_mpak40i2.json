@@ -1,0 +1,49 @@
+{
+  "id": "1b55ehl_mpak40i2",
+  "name": "Goren Consortium, Nectar-Thief",
+  "short": "Goren",
+  "epithet": "Nectar-Thief",
+  "description": "Insectoid-based lifeforms. Nectar-Thief.",
+  "biology": "Insectoid",
+  "race": "Insectoid",
+  "seed": 2850560409,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Insectoid alien species. hard chitinous exoskeleton, segmented thorax, chitin plating, bristly hairs, compound predatory insect features, no human nose or mouth. HEAD: Flat structure with unique silhouette. EYES: 2 Clouded eyes that look completely non-human. SURFACE: Leopard-like spots texture with a #ff0055 primary hue. GARB: Wearing Tattered Nomad Cloak. UNIQUE: Features Crystalline Spines. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Flat",
+  "eyeStyle": "Clouded",
+  "eyeCount": 2,
+  "clothing": "Tattered Nomad Cloak",
+  "markingPattern": "Leopard-like spots",
+  "morphology": "Crystalline Spines",
+  "color": "#ff0055",
+  "glyph": "△",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 8,
+    "devotion": 3,
+    "expansionism": 6,
+    "isolationism": 1,
+    "mercantilism": 6
+  },
+  "aggression": 8,
+  "devotion": 3,
+  "expansionism": 6,
+  "isolationism": 1,
+  "mercantilism": 6,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Democracy",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20insectoid%20face%20portrait%2C%20leopard-like%20spots%2C%20flat%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2850560409",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1b55ehl_mpak40i2.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1b55ehl_mpak40i2.jpg",
+  "generatedAt": "2026-05-18T02:01:00.270Z",
+  "botVersion": "1.0"
+}
