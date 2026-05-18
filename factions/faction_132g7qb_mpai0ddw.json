@@ -1,0 +1,49 @@
+{
+  "id": "132g7qb_mpai0ddw",
+  "name": "Terius, The Gale-Bringer",
+  "short": "Terius",
+  "epithet": "The Gale-Bringer",
+  "description": "Avian-based lifeforms. The Gale-Bringer.",
+  "biology": "Avian",
+  "race": "Avian",
+  "seed": 2362296611,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Avian alien species. covered in thick plumage or downy feathers, a hard keratin beak, hollow bone structure visible in neck, bird-like anatomy, predatory raptor features. HEAD: Featureless structure with unique silhouette. EYES: 2 Holographic eyes that look completely non-human. SURFACE: Iridescent Scales texture with a #ff8800 primary hue. GARB: Wearing Ornate Silk Robes. UNIQUE: Features Floating Shards. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Featureless",
+  "eyeStyle": "Holographic",
+  "eyeCount": 2,
+  "clothing": "Ornate Silk Robes",
+  "markingPattern": "Iridescent Scales",
+  "morphology": "Floating Shards",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Lush Forest",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Lush Forest",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 2,
+    "devotion": 5,
+    "expansionism": 7,
+    "isolationism": 8,
+    "mercantilism": 3
+  },
+  "aggression": 2,
+  "devotion": 5,
+  "expansionism": 7,
+  "isolationism": 8,
+  "mercantilism": 3,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Merchant Guild",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20avian%20face%20portrait%2C%20iridescent%20scales%2C%20featureless%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2362296611",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_132g7qb_mpai0ddw.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_132g7qb_mpai0ddw.jpg",
+  "generatedAt": "2026-05-18T01:02:30.314Z",
+  "botVersion": "1.0"
+}
