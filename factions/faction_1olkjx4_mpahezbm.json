@@ -1,0 +1,49 @@
+{
+  "id": "1olkjx4_mpahezbm",
+  "name": "Fenius, Earth-Warden",
+  "short": "Fenius",
+  "epithet": "Earth-Warden",
+  "description": "Lithoid-based lifeforms. Earth-Warden.",
+  "biology": "Lithoid",
+  "race": "Lithoid",
+  "seed": 3664201432,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Lithoid alien species. composed of jagged rock and tectonic plates, crystalline geodic inclusions for eyes, mossy stony texture, mountain-like ruggedness, zero soft tissue. HEAD: Rectangular structure with unique silhouette. EYES: 3 Clouded eyes that look completely non-human. SURFACE: Thick Warts texture with a #ffff00 primary hue. GARB: Wearing Bio-Organic Wrap. UNIQUE: Features Prehensile trunks. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Rectangular",
+  "eyeStyle": "Clouded",
+  "eyeCount": 3,
+  "clothing": "Bio-Organic Wrap",
+  "markingPattern": "Thick Warts",
+  "morphology": "Prehensile trunks",
+  "color": "#ffff00",
+  "glyph": "⊕",
+  "primaryBiome": "Volcanic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Volcanic",
+    "secondary": "Barren",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 9,
+    "devotion": 6,
+    "expansionism": 1,
+    "isolationism": 6,
+    "mercantilism": 2
+  },
+  "aggression": 9,
+  "devotion": 6,
+  "expansionism": 1,
+  "isolationism": 6,
+  "mercantilism": 2,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Merchant Guild",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20lithoid%20face%20portrait%2C%20thick%20warts%2C%20rectangular%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3664201432",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1olkjx4_mpahezbm.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1olkjx4_mpahezbm.jpg",
+  "generatedAt": "2026-05-18T00:46:00.194Z",
+  "botVersion": "1.0"
+}
