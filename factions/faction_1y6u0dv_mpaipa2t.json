@@ -1,0 +1,49 @@
+{
+  "id": "1y6u0dv_mpaipa2t",
+  "name": "Vak-an Consortium, Truth-Bringer",
+  "short": "Vak-an",
+  "epithet": "Truth-Bringer",
+  "description": "Humanoid-based lifeforms. Truth-Bringer.",
+  "biology": "Humanoid",
+  "race": "Humanoid",
+  "seed": 4244110195,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Humanoid alien species. diverse non-human facial features, unusual proportions, exotic skin textures, unique ridge structures, avoid stereotypical grey alien look. HEAD: Faceted structure with unique silhouette. EYES: 4 Clouded eyes that look completely non-human. SURFACE: Bioluminescent Veins texture with a #ffff00 primary hue. GARB: Wearing Pilot's flight jacket. UNIQUE: Features Large Curved Horns. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Faceted",
+  "eyeStyle": "Clouded",
+  "eyeCount": 4,
+  "clothing": "Pilot's flight jacket",
+  "markingPattern": "Bioluminescent Veins",
+  "morphology": "Large Curved Horns",
+  "color": "#ffff00",
+  "glyph": "⊕",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 10,
+    "devotion": 8,
+    "expansionism": 7,
+    "isolationism": 8,
+    "mercantilism": 9
+  },
+  "aggression": 10,
+  "devotion": 8,
+  "expansionism": 7,
+  "isolationism": 8,
+  "mercantilism": 9,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Democracy",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20humanoid%20face%20portrait%2C%20bioluminescent%20veins%2C%20faceted%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=4244110195",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1y6u0dv_mpaipa2t.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1y6u0dv_mpaipa2t.jpg",
+  "generatedAt": "2026-05-18T01:22:00.056Z",
+  "botVersion": "1.0"
+}
