@@ -1,0 +1,49 @@
+{
+  "id": "142zwmp_mpajxssd",
+  "name": "Vaxok, Talon-Lord",
+  "short": "Vaxok",
+  "epithet": "Talon-Lord",
+  "description": "Avian-based lifeforms. Talon-Lord.",
+  "biology": "Avian",
+  "race": "Avian",
+  "seed": 2423681521,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Avian alien species. covered in thick plumage or downy feathers, a hard keratin beak, hollow bone structure visible in neck, bird-like anatomy, predatory raptor features. HEAD: Elongated structure with unique silhouette. EYES: 1 Pupil-less eyes that look completely non-human. SURFACE: Star-Map Freckles texture with a #ff8800 primary hue. GARB: Wearing Bio-Organic Wrap. UNIQUE: Features Secondary set of arms. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Elongated",
+  "eyeStyle": "Pupil-less",
+  "eyeCount": 1,
+  "clothing": "Bio-Organic Wrap",
+  "markingPattern": "Star-Map Freckles",
+  "morphology": "Secondary set of arms",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Lush Forest",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Lush Forest",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 6,
+    "devotion": 3,
+    "expansionism": 8,
+    "isolationism": 5,
+    "mercantilism": 4
+  },
+  "aggression": 6,
+  "devotion": 3,
+  "expansionism": 8,
+  "isolationism": 5,
+  "mercantilism": 4,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Merchant Guild",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20avian%20face%20portrait%2C%20star-map%20freckles%2C%20elongated%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2423681521",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_142zwmp_mpajxssd.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_142zwmp_mpajxssd.jpg",
+  "generatedAt": "2026-05-18T01:56:30.442Z",
+  "botVersion": "1.0"
+}
