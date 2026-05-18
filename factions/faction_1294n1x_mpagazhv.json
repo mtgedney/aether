@@ -1,0 +1,49 @@
+{
+  "id": "1294n1x_mpagazhv",
+  "name": "Oul-an, Scale-Breaker",
+  "short": "Oul-an",
+  "epithet": "Scale-Breaker",
+  "description": "Reptilian-based lifeforms. Scale-Breaker.",
+  "biology": "Reptilian",
+  "race": "Reptilian",
+  "seed": 2313047733,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Reptilian alien species. thick crocodilian scales, leathery skin, heavy brow ridges, cold-blooded predatory gaze, dinosaur-like textures. HEAD: Elephantine structure with unique silhouette. EYES: 1 Heat-vision-pits eyes that look completely non-human. SURFACE: Star-Map Freckles texture with a #9d00ff primary hue. GARB: Wearing Ceremonial Plate. UNIQUE: Features Extra sensory bristles. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Elephantine",
+  "eyeStyle": "Heat-vision-pits",
+  "eyeCount": 1,
+  "clothing": "Ceremonial Plate",
+  "markingPattern": "Star-Map Freckles",
+  "morphology": "Extra sensory bristles",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Arid Desert",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Arid Desert",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 2,
+    "devotion": 4,
+    "expansionism": 4,
+    "isolationism": 6,
+    "mercantilism": 3
+  },
+  "aggression": 2,
+  "devotion": 4,
+  "expansionism": 4,
+  "isolationism": 6,
+  "mercantilism": 3,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Warlord Council",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20reptilian%20face%20portrait%2C%20star-map%20freckles%2C%20elephantine%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2313047733",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1294n1x_mpagazhv.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1294n1x_mpagazhv.jpg",
+  "generatedAt": "2026-05-18T00:14:30.113Z",
+  "botVersion": "1.0"
+}
