@@ -1,0 +1,49 @@
+{
+  "id": "13q2xay_mpajzk2c",
+  "name": "Pylok Republic, The Reconfigurable",
+  "short": "Pylok",
+  "epithet": "The Reconfigurable",
+  "description": "Amorphous-based lifeforms. The Reconfigurable.",
+  "biology": "Amorphous",
+  "race": "Amorphous",
+  "seed": 2401987354,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Amorphous alien species. viscous translucent slime, shifting protoplasmic mass, lack of symmetry, gelatinous undulating surface, multiple small erratic nuclei. HEAD: Fin-Tipped structure with unique silhouette. EYES: 6 Vertical-pupils eyes that look completely non-human. SURFACE: Symmetrical Stripes texture with a #ffff00 primary hue. GARB: Wearing Scrap-Metal Armor. UNIQUE: Features Extra sensory bristles. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Fin-Tipped",
+  "eyeStyle": "Vertical-pupils",
+  "eyeCount": 6,
+  "clothing": "Scrap-Metal Armor",
+  "markingPattern": "Symmetrical Stripes",
+  "morphology": "Extra sensory bristles",
+  "color": "#ffff00",
+  "glyph": "⊕",
+  "primaryBiome": "Sub-Surface Ocean Sphere",
+  "secondaryBiome": "Water-World",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Sub-Surface Ocean Sphere",
+    "secondary": "Water-World",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 6,
+    "devotion": 5,
+    "expansionism": 9,
+    "isolationism": 10,
+    "mercantilism": 9
+  },
+  "aggression": 6,
+  "devotion": 5,
+  "expansionism": 9,
+  "isolationism": 10,
+  "mercantilism": 9,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Democracy",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20amorphous%20face%20portrait%2C%20symmetrical%20stripes%2C%20fin-tipped%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2401987354",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_13q2xay_mpajzk2c.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_13q2xay_mpajzk2c.jpg",
+  "generatedAt": "2026-05-18T01:58:00.193Z",
+  "botVersion": "1.0"
+}
