@@ -1,0 +1,49 @@
+{
+  "id": "5ybt3o_mpahym3z",
+  "name": "Xyl-an Directorate, Venom-Tongue",
+  "short": "Xyl-an",
+  "epithet": "Venom-Tongue",
+  "description": "Reptilian-based lifeforms. Venom-Tongue.",
+  "biology": "Reptilian",
+  "race": "Reptilian",
+  "seed": 359988756,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Reptilian alien species. thick crocodilian scales, leathery skin, heavy brow ridges, cold-blooded predatory gaze, dinosaur-like textures. HEAD: Hooded structure with unique silhouette. EYES: 2 Vertical-pupils eyes that look completely non-human. SURFACE: Bioluminescent Veins texture with a #00ff88 primary hue. GARB: Wearing Bio-Organic Wrap. UNIQUE: Features Multi-layered Crest. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Hooded",
+  "eyeStyle": "Vertical-pupils",
+  "eyeCount": 2,
+  "clothing": "Bio-Organic Wrap",
+  "markingPattern": "Bioluminescent Veins",
+  "morphology": "Multi-layered Crest",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Arid Desert",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Arid Desert",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 4,
+    "devotion": 1,
+    "expansionism": 7,
+    "isolationism": 7,
+    "mercantilism": 6
+  },
+  "aggression": 4,
+  "devotion": 1,
+  "expansionism": 7,
+  "isolationism": 7,
+  "mercantilism": 6,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Hive-mind",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20reptilian%20face%20portrait%2C%20bioluminescent%20veins%2C%20hooded%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=359988756",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_5ybt3o_mpahym3z.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_5ybt3o_mpahym3z.jpg",
+  "generatedAt": "2026-05-18T01:01:00.236Z",
+  "botVersion": "1.0"
+}
