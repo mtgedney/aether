@@ -1,0 +1,49 @@
+{
+  "id": "1pff0q9_mpahn1fq",
+  "name": "Zulvox Alliance, The Plumaged",
+  "short": "Zulvox",
+  "epithet": "The Plumaged",
+  "description": "Avian-based lifeforms. The Plumaged.",
+  "biology": "Avian",
+  "race": "Avian",
+  "seed": 3714331761,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Avian alien species. covered in thick plumage or downy feathers, a hard keratin beak, hollow bone structure visible in neck, bird-like anatomy, predatory raptor features. HEAD: Elephantine structure with unique silhouette. EYES: 3 Slit eyes that look completely non-human. SURFACE: Mossy patches texture with a #00ff88 primary hue. GARB: Wearing Ornate Silk Robes. UNIQUE: Features Multi-layered Crest. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Elephantine",
+  "eyeStyle": "Slit",
+  "eyeCount": 3,
+  "clothing": "Ornate Silk Robes",
+  "markingPattern": "Mossy patches",
+  "morphology": "Multi-layered Crest",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Lush Forest",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Lush Forest",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 3,
+    "devotion": 2,
+    "expansionism": 7,
+    "isolationism": 7,
+    "mercantilism": 6
+  },
+  "aggression": 3,
+  "devotion": 2,
+  "expansionism": 7,
+  "isolationism": 7,
+  "mercantilism": 6,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Hive-mind",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20avian%20face%20portrait%2C%20mossy%20patches%2C%20elephantine%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3714331761",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1pff0q9_mpahn1fq.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1pff0q9_mpahn1fq.jpg",
+  "generatedAt": "2026-05-18T00:52:00.044Z",
+  "botVersion": "1.0"
+}
