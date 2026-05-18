@@ -1,0 +1,49 @@
+{
+  "id": "eg8ueb_mpam8vlb",
+  "name": "Vaxia, The Current-Walker",
+  "short": "Vaxia",
+  "epithet": "The Current-Walker",
+  "description": "Hydrodynamic lifeforms with pressure-resistant plating and sonar-based neural communication.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 873812963,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Aquatic alien species. thick rubbery skin like a whale or shark, translucent fins, wet glistening texture, deep-sea monstrous scales, absolutely NO human features. HEAD: Elongated structure with unique silhouette. EYES: 5 Holographic eyes that look completely non-human. SURFACE: Corroded Etchings texture with a #ff0055 primary hue. GARB: Wearing Minimalist Tunic. UNIQUE: Features Prehensile trunks. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Elongated",
+  "eyeStyle": "Holographic",
+  "eyeCount": 5,
+  "clothing": "Minimalist Tunic",
+  "markingPattern": "Corroded Etchings",
+  "morphology": "Prehensile trunks",
+  "color": "#ff0055",
+  "glyph": "△",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 6,
+    "devotion": 9,
+    "expansionism": 2,
+    "isolationism": 8,
+    "mercantilism": 6
+  },
+  "aggression": 6,
+  "devotion": 9,
+  "expansionism": 2,
+  "isolationism": 8,
+  "mercantilism": 6,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Democracy",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20corroded%20etchings%2C%20elongated%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=873812963",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_eg8ueb_mpam8vlb.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_eg8ueb_mpam8vlb.jpg",
+  "generatedAt": "2026-05-18T03:01:13.768Z",
+  "botVersion": "1.0"
+}
