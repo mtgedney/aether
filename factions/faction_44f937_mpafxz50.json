@@ -1,0 +1,49 @@
+{
+  "id": "44f937_mpafxz50",
+  "name": "Fenius Covenant, Desert-Ghost",
+  "short": "Fenius",
+  "epithet": "Desert-Ghost",
+  "description": "Reptilian-based lifeforms. Desert-Ghost.",
+  "biology": "Reptilian",
+  "race": "Reptilian",
+  "seed": 249294787,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Reptilian alien species. thick crocodilian scales, leathery skin, heavy brow ridges, cold-blooded predatory gaze, dinosaur-like textures. HEAD: Faceted structure with unique silhouette. EYES: 3 Telescopic eyes that look completely non-human. SURFACE: Mossy patches texture with a #ff0055 primary hue. GARB: Wearing Ancient monk robes. UNIQUE: Features Extra sensory bristles. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Faceted",
+  "eyeStyle": "Telescopic",
+  "eyeCount": 3,
+  "clothing": "Ancient monk robes",
+  "markingPattern": "Mossy patches",
+  "morphology": "Extra sensory bristles",
+  "color": "#ff0055",
+  "glyph": "△",
+  "primaryBiome": "Arid Desert",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Arid Desert",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 4,
+    "devotion": 1,
+    "expansionism": 4,
+    "isolationism": 4,
+    "mercantilism": 8
+  },
+  "aggression": 4,
+  "devotion": 1,
+  "expansionism": 4,
+  "isolationism": 4,
+  "mercantilism": 8,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Theocracy",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20reptilian%20face%20portrait%2C%20mossy%20patches%2C%20faceted%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=249294787",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_44f937_mpafxz50.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_44f937_mpafxz50.jpg",
+  "generatedAt": "2026-05-18T00:04:00.126Z",
+  "botVersion": "1.0"
+}
