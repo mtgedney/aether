@@ -1,0 +1,49 @@
+{
+  "id": "m7lyq2_mpalz951",
+  "name": "Zyr-an Jyltor, The Overclocked",
+  "short": "Zyr-an",
+  "epithet": "The Overclocked",
+  "description": "Automated synthetics driven by crystalline logic cores and advanced energy cells.",
+  "biology": "Mechanical",
+  "race": "Mechanical",
+  "seed": 1343037962,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Mechanical alien species. exposed wiring and hydraulic pistons, weathered industrial metal casing, worn plating, antique robotics, oil-stained machinery. HEAD: Flat structure with unique silhouette. EYES: 6 Compound eyes that look completely non-human. SURFACE: Thick Warts texture with a #9d00ff primary hue. GARB: Wearing Holographic Shroud. UNIQUE: Features Metallic Spikes. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Flat",
+  "eyeStyle": "Compound",
+  "eyeCount": 6,
+  "clothing": "Holographic Shroud",
+  "markingPattern": "Thick Warts",
+  "morphology": "Metallic Spikes",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Barren",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Barren",
+    "secondary": "Volcanic",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 3,
+    "devotion": 2,
+    "expansionism": 5,
+    "isolationism": 5,
+    "mercantilism": 10
+  },
+  "aggression": 3,
+  "devotion": 2,
+  "expansionism": 5,
+  "isolationism": 5,
+  "mercantilism": 10,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Hive-mind",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20mechanical%20face%20portrait%2C%20thick%20warts%2C%20flat%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1343037962",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_m7lyq2_mpalz951.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_m7lyq2_mpalz951.jpg",
+  "generatedAt": "2026-05-18T02:53:43.710Z",
+  "botVersion": "1.0"
+}
