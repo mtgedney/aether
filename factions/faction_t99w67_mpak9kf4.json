@@ -1,0 +1,49 @@
+{
+  "id": "t99w67_mpak9kf4",
+  "name": "Gryius, Binary-Saint",
+  "short": "Gryius",
+  "epithet": "Binary-Saint",
+  "description": "Mechanical-based lifeforms. Binary-Saint.",
+  "biology": "Mechanical",
+  "race": "Mechanical",
+  "seed": 1769097247,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Mechanical alien species. exposed wiring and hydraulic pistons, weathered industrial metal casing, worn plating, antique robotics, oil-stained machinery. HEAD: Featureless structure with unique silhouette. EYES: 2 Glowing-dots eyes that look completely non-human. SURFACE: Leopard-like spots texture with a #ff8800 primary hue. GARB: Wearing Tribal leather wraps. UNIQUE: Features Exposed brain lobes. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Featureless",
+  "eyeStyle": "Glowing-dots",
+  "eyeCount": 2,
+  "clothing": "Tribal leather wraps",
+  "markingPattern": "Leopard-like spots",
+  "morphology": "Exposed brain lobes",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Barren",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Barren",
+    "secondary": "Volcanic",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 4,
+    "devotion": 4,
+    "expansionism": 4,
+    "isolationism": 8,
+    "mercantilism": 2
+  },
+  "aggression": 4,
+  "devotion": 4,
+  "expansionism": 4,
+  "isolationism": 8,
+  "mercantilism": 2,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Warlord Council",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20mechanical%20face%20portrait%2C%20leopard-like%20spots%2C%20featureless%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1769097247",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_t99w67_mpak9kf4.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_t99w67_mpak9kf4.jpg",
+  "generatedAt": "2026-05-18T02:05:30.473Z",
+  "botVersion": "1.0"
+}
