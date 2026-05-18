@@ -1,0 +1,49 @@
+{
+  "id": "77pdmh_mpak7t5b",
+  "name": "Fenen, Tide-Caller",
+  "short": "Fenen",
+  "epithet": "Tide-Caller",
+  "description": "Aquatic-based lifeforms. Tide-Caller.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 436204601,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Aquatic alien species. thick rubbery skin like a whale or shark, translucent fins, wet glistening texture, deep-sea monstrous scales, absolutely NO human features. HEAD: Faceted structure with unique silhouette. EYES: 6 Vertical-pupils eyes that look completely non-human. SURFACE: Geometric Tattoos texture with a #00ff88 primary hue. GARB: Wearing Pilot's flight jacket. UNIQUE: Features Extra sensory bristles. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Faceted",
+  "eyeStyle": "Vertical-pupils",
+  "eyeCount": 6,
+  "clothing": "Pilot's flight jacket",
+  "markingPattern": "Geometric Tattoos",
+  "morphology": "Extra sensory bristles",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 6,
+    "devotion": 2,
+    "expansionism": 10,
+    "isolationism": 6,
+    "mercantilism": 6
+  },
+  "aggression": 6,
+  "devotion": 2,
+  "expansionism": 10,
+  "isolationism": 6,
+  "mercantilism": 6,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Merchant Guild",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20geometric%20tattoos%2C%20faceted%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=436204601",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_77pdmh_mpak7t5b.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_77pdmh_mpak7t5b.jpg",
+  "generatedAt": "2026-05-18T02:04:00.219Z",
+  "botVersion": "1.0"
+}
