@@ -1,0 +1,49 @@
+{
+  "id": "1f6z5vp_mpan4fen",
+  "name": "Bochtor, Void-Skitterer",
+  "short": "Bochtor",
+  "epithet": "Void-Skitterer",
+  "description": "Xenooids are chitinous organisms with complex social structures and highly efficient communal processing.",
+  "biology": "Insectoid",
+  "race": "Insectoid",
+  "seed": 3095493253,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Insectoid alien species. hard chitinous exoskeleton, segmented thorax, chitin plating, bristly hairs, compound predatory insect features, no human nose or mouth. HEAD: Elongated structure with unique silhouette. EYES: 6 Diamond eyes that look completely non-human. SURFACE: Iridescent Scales texture with a #ffff00 primary hue. GARB: Wearing Holographic Shroud. UNIQUE: Features Metallic Spikes. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Elongated",
+  "eyeStyle": "Diamond",
+  "eyeCount": 6,
+  "clothing": "Holographic Shroud",
+  "markingPattern": "Iridescent Scales",
+  "morphology": "Metallic Spikes",
+  "color": "#ffff00",
+  "glyph": "⊕",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 9,
+    "devotion": 1,
+    "expansionism": 9,
+    "isolationism": 7,
+    "mercantilism": 3
+  },
+  "aggression": 9,
+  "devotion": 1,
+  "expansionism": 9,
+  "isolationism": 7,
+  "mercantilism": 3,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Warlord Council",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20insectoid%20face%20portrait%2C%20iridescent%20scales%2C%20elongated%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3095493253",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1f6z5vp_mpan4fen.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1f6z5vp_mpan4fen.jpg",
+  "generatedAt": "2026-05-18T03:25:14.086Z",
+  "botVersion": "1.0"
+}
