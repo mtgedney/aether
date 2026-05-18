@@ -1,0 +1,49 @@
+{
+  "id": "g0skef_mpagmjee",
+  "name": "Terus, Fluid-Mind",
+  "short": "Terus",
+  "epithet": "Fluid-Mind",
+  "description": "Amorphous-based lifeforms. Fluid-Mind.",
+  "biology": "Amorphous",
+  "race": "Amorphous",
+  "seed": 968791623,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Amorphous alien species. viscous translucent slime, shifting protoplasmic mass, lack of symmetry, gelatinous undulating surface, multiple small erratic nuclei. HEAD: Elephantine structure with unique silhouette. EYES: 2 Telescopic eyes that look completely non-human. SURFACE: Bioluminescent Veins texture with a #9d00ff primary hue. GARB: Wearing Ceremonial Plate. UNIQUE: Features Large Curved Horns. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Elephantine",
+  "eyeStyle": "Telescopic",
+  "eyeCount": 2,
+  "clothing": "Ceremonial Plate",
+  "markingPattern": "Bioluminescent Veins",
+  "morphology": "Large Curved Horns",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Sub-Surface Ocean Sphere",
+  "secondaryBiome": "Water-World",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Sub-Surface Ocean Sphere",
+    "secondary": "Water-World",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 4,
+    "devotion": 2,
+    "expansionism": 8,
+    "isolationism": 5,
+    "mercantilism": 4
+  },
+  "aggression": 4,
+  "devotion": 2,
+  "expansionism": 8,
+  "isolationism": 5,
+  "mercantilism": 4,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Theocracy",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20amorphous%20face%20portrait%2C%20bioluminescent%20veins%2C%20elephantine%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=968791623",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_g0skef_mpagmjee.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_g0skef_mpagmjee.jpg",
+  "generatedAt": "2026-05-18T00:23:29.920Z",
+  "botVersion": "1.0"
+}
