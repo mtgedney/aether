@@ -1,0 +1,49 @@
+{
+  "id": "l2cone_mpag6z7l",
+  "name": "Pylius, The Ancient",
+  "short": "Pylius",
+  "epithet": "The Ancient",
+  "description": "Reptilian-based lifeforms. The Ancient.",
+  "biology": "Reptilian",
+  "race": "Reptilian",
+  "seed": 1273740746,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Reptilian alien species. thick crocodilian scales, leathery skin, heavy brow ridges, cold-blooded predatory gaze, dinosaur-like textures. HEAD: Hooded structure with unique silhouette. EYES: 2 Slit eyes that look completely non-human. SURFACE: Geometric Tattoos texture with a #00f2ff primary hue. GARB: Wearing Tribal leather wraps. UNIQUE: Features Retractable Gills. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Hooded",
+  "eyeStyle": "Slit",
+  "eyeCount": 2,
+  "clothing": "Tribal leather wraps",
+  "markingPattern": "Geometric Tattoos",
+  "morphology": "Retractable Gills",
+  "color": "#00f2ff",
+  "glyph": "✦",
+  "primaryBiome": "Arid Desert",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Arid Desert",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 1,
+    "devotion": 1,
+    "expansionism": 4,
+    "isolationism": 8,
+    "mercantilism": 7
+  },
+  "aggression": 1,
+  "devotion": 1,
+  "expansionism": 4,
+  "isolationism": 8,
+  "mercantilism": 7,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Warlord Council",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20reptilian%20face%20portrait%2C%20geometric%20tattoos%2C%20hooded%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1273740746",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_l2cone_mpag6z7l.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_l2cone_mpag6z7l.jpg",
+  "generatedAt": "2026-05-18T00:11:30.025Z",
+  "botVersion": "1.0"
+}
