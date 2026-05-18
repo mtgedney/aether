@@ -1,0 +1,49 @@
+{
+  "id": "1wht2a7_mpajw1it",
+  "name": "Jyl-an Hegemony, Fluid-Mind",
+  "short": "Jyl-an",
+  "epithet": "Fluid-Mind",
+  "description": "Amorphous-based lifeforms. Fluid-Mind.",
+  "biology": "Amorphous",
+  "race": "Amorphous",
+  "seed": 4141609423,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Amorphous alien species. viscous translucent slime, shifting protoplasmic mass, lack of symmetry, gelatinous undulating surface, multiple small erratic nuclei. HEAD: Hammerhead structure with unique silhouette. EYES: 6 Glowing-dots eyes that look completely non-human. SURFACE: Geodic Growths texture with a #00ff88 primary hue. GARB: Wearing Pressure Suit. UNIQUE: Features Massive tusks. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Hammerhead",
+  "eyeStyle": "Glowing-dots",
+  "eyeCount": 6,
+  "clothing": "Pressure Suit",
+  "markingPattern": "Geodic Growths",
+  "morphology": "Massive tusks",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Sub-Surface Ocean Sphere",
+  "secondaryBiome": "Water-World",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Sub-Surface Ocean Sphere",
+    "secondary": "Water-World",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 5,
+    "devotion": 6,
+    "expansionism": 2,
+    "isolationism": 9,
+    "mercantilism": 7
+  },
+  "aggression": 5,
+  "devotion": 6,
+  "expansionism": 2,
+  "isolationism": 9,
+  "mercantilism": 7,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Democracy",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20amorphous%20face%20portrait%2C%20geodic%20growths%2C%20hammerhead%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=4141609423",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1wht2a7_mpajw1it.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1wht2a7_mpajw1it.jpg",
+  "generatedAt": "2026-05-18T01:55:00.233Z",
+  "botVersion": "1.0"
+}
