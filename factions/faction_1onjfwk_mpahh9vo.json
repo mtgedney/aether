@@ -1,0 +1,49 @@
+{
+  "id": "1onjfwk_mpahh9vo",
+  "name": "Vaxok, The Artisan",
+  "short": "Vaxok",
+  "epithet": "The Artisan",
+  "description": "Humanoid-based lifeforms. The Artisan.",
+  "biology": "Humanoid",
+  "race": "Humanoid",
+  "seed": 3667508804,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Humanoid alien species. diverse non-human facial features, unusual proportions, exotic skin textures, unique ridge structures, avoid stereotypical grey alien look. HEAD: Beaked structure with unique silhouette. EYES: 4 Stalk-eyes eyes that look completely non-human. SURFACE: Leopard-like spots texture with a #00f2ff primary hue. GARB: Wearing Bio-Organic Wrap. UNIQUE: Features Multi-layered Crest. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Beaked",
+  "eyeStyle": "Stalk-eyes",
+  "eyeCount": 4,
+  "clothing": "Bio-Organic Wrap",
+  "markingPattern": "Leopard-like spots",
+  "morphology": "Multi-layered Crest",
+  "color": "#00f2ff",
+  "glyph": "✦",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 3,
+    "devotion": 3,
+    "expansionism": 5,
+    "isolationism": 9,
+    "mercantilism": 7
+  },
+  "aggression": 3,
+  "devotion": 3,
+  "expansionism": 5,
+  "isolationism": 9,
+  "mercantilism": 7,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Democracy",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20humanoid%20face%20portrait%2C%20leopard-like%20spots%2C%20beaked%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3667508804",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1onjfwk_mpahh9vo.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1onjfwk_mpahh9vo.jpg",
+  "generatedAt": "2026-05-18T00:47:30.007Z",
+  "botVersion": "1.0"
+}
