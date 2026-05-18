@@ -1,0 +1,49 @@
+{
+  "id": "12wlktg_mpamusyn",
+  "name": "Vaxeth, Prism-Guard",
+  "short": "Vaxeth",
+  "epithet": "Prism-Guard",
+  "description": "Silicon-based lifeforms that process information through photonic resonance.",
+  "biology": "Crystalline",
+  "race": "Crystalline",
+  "seed": 2352469156,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Crystalline alien species. jagged translucent quartz body, internal light refraction, sharp geometric planes, mineral-based life, reflecting light like a diamond. HEAD: Hooded structure with unique silhouette. EYES: 5 Milky-White eyes that look completely non-human. SURFACE: Runic Carvings texture with a #00f2ff primary hue. GARB: Wearing Heavy Industrial Gear. UNIQUE: Features Multi-layered Crest. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Hooded",
+  "eyeStyle": "Milky-White",
+  "eyeCount": 5,
+  "clothing": "Heavy Industrial Gear",
+  "markingPattern": "Runic Carvings",
+  "morphology": "Multi-layered Crest",
+  "color": "#00f2ff",
+  "glyph": "✦",
+  "primaryBiome": "Barren",
+  "secondaryBiome": "Arctic Tundra",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Barren",
+    "secondary": "Arctic Tundra",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 7,
+    "devotion": 7,
+    "expansionism": 6,
+    "isolationism": 3,
+    "mercantilism": 4
+  },
+  "aggression": 7,
+  "devotion": 7,
+  "expansionism": 6,
+  "isolationism": 3,
+  "mercantilism": 4,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Warlord Council",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20crystalline%20face%20portrait%2C%20runic%20carvings%2C%20hooded%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2352469156",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_12wlktg_mpamusyn.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_12wlktg_mpamusyn.jpg",
+  "generatedAt": "2026-05-18T03:17:43.895Z",
+  "botVersion": "1.0"
+}
