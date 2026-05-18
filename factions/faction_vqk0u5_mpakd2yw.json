@@ -1,0 +1,49 @@
+{
+  "id": "vqk0u5_mpakd2yw",
+  "name": "Vakon Covenant, The Resonator",
+  "short": "Vakon",
+  "epithet": "The Resonator",
+  "description": "Crystalline-based lifeforms. The Resonator.",
+  "biology": "Crystalline",
+  "race": "Crystalline",
+  "seed": 1919055677,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Crystalline alien species. jagged translucent quartz body, internal light refraction, sharp geometric planes, mineral-based life, reflecting light like a diamond. HEAD: Fin-Tipped structure with unique silhouette. EYES: 6 Stalk-eyes eyes that look completely non-human. SURFACE: Leopard-like spots texture with a #00f2ff primary hue. GARB: Wearing Pilot's flight jacket. UNIQUE: Features Large Curved Horns. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Fin-Tipped",
+  "eyeStyle": "Stalk-eyes",
+  "eyeCount": 6,
+  "clothing": "Pilot's flight jacket",
+  "markingPattern": "Leopard-like spots",
+  "morphology": "Large Curved Horns",
+  "color": "#00f2ff",
+  "glyph": "✦",
+  "primaryBiome": "Barren",
+  "secondaryBiome": "Arctic Tundra",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Barren",
+    "secondary": "Arctic Tundra",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 3,
+    "devotion": 1,
+    "expansionism": 2,
+    "isolationism": 6,
+    "mercantilism": 10
+  },
+  "aggression": 3,
+  "devotion": 1,
+  "expansionism": 2,
+  "isolationism": 6,
+  "mercantilism": 10,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Warlord Council",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20crystalline%20face%20portrait%2C%20leopard-like%20spots%2C%20fin-tipped%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1919055677",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_vqk0u5_mpakd2yw.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_vqk0u5_mpakd2yw.jpg",
+  "generatedAt": "2026-05-18T02:08:30.392Z",
+  "botVersion": "1.0"
+}
