@@ -1,0 +1,49 @@
+{
+  "id": "jgqyyt_mpaiu58l",
+  "name": "Xylius, Stone-Singer",
+  "short": "Xylius",
+  "epithet": "Stone-Singer",
+  "description": "Lithoid-based lifeforms. Stone-Singer.",
+  "biology": "Lithoid",
+  "race": "Lithoid",
+  "seed": 1176989573,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Lithoid alien species. composed of jagged rock and tectonic plates, crystalline geodic inclusions for eyes, mossy stony texture, mountain-like ruggedness, zero soft tissue. HEAD: Beaked structure with unique silhouette. EYES: 1 Stalk-eyes eyes that look completely non-human. SURFACE: Mossy patches texture with a #ff0055 primary hue. GARB: Wearing Pragmatic Tech-Suit. UNIQUE: Features Exposed brain lobes. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Beaked",
+  "eyeStyle": "Stalk-eyes",
+  "eyeCount": 1,
+  "clothing": "Pragmatic Tech-Suit",
+  "markingPattern": "Mossy patches",
+  "morphology": "Exposed brain lobes",
+  "color": "#ff0055",
+  "glyph": "△",
+  "primaryBiome": "Volcanic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Volcanic",
+    "secondary": "Barren",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 3,
+    "devotion": 1,
+    "expansionism": 10,
+    "isolationism": 6,
+    "mercantilism": 1
+  },
+  "aggression": 3,
+  "devotion": 1,
+  "expansionism": 10,
+  "isolationism": 6,
+  "mercantilism": 1,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Democracy",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20lithoid%20face%20portrait%2C%20mossy%20patches%2C%20beaked%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1176989573",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_jgqyyt_mpaiu58l.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_jgqyyt_mpaiu58l.jpg",
+  "generatedAt": "2026-05-18T01:25:00.252Z",
+  "botVersion": "1.0"
+}
