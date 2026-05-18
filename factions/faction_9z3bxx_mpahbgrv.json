@@ -1,0 +1,49 @@
+{
+  "id": "9z3bxx_mpahbgrv",
+  "name": "Pylia, Star-Pulse",
+  "short": "Pylia",
+  "epithet": "Star-Pulse",
+  "description": "Ethereal-based lifeforms. Star-Pulse.",
+  "biology": "Ethereal",
+  "race": "Ethereal",
+  "seed": 603137589,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Ethereal alien species. body made of shifting nebulous gas and electrical arcs, held together by a magnetic harness, glowing semi-transparent forms, no solid skin. HEAD: Spherical structure with unique silhouette. EYES: 2 Single-Large eyes that look completely non-human. SURFACE: Bioluminescent Veins texture with a #00ff88 primary hue. GARB: Wearing Ceremonial Plate. UNIQUE: Features Floating Shards. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Spherical",
+  "eyeStyle": "Single-Large",
+  "eyeCount": 2,
+  "clothing": "Ceremonial Plate",
+  "markingPattern": "Bioluminescent Veins",
+  "morphology": "Floating Shards",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Lush Forest",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Barren",
+    "hostile": "Lush Forest"
+  },
+  "disposition": {
+    "aggression": 2,
+    "devotion": 8,
+    "expansionism": 1,
+    "isolationism": 9,
+    "mercantilism": 7
+  },
+  "aggression": 2,
+  "devotion": 8,
+  "expansionism": 1,
+  "isolationism": 9,
+  "mercantilism": 7,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Hive-mind",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20ethereal%20face%20portrait%2C%20bioluminescent%20veins%2C%20spherical%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=603137589",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_9z3bxx_mpahbgrv.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_9z3bxx_mpahbgrv.jpg",
+  "generatedAt": "2026-05-18T00:43:00.210Z",
+  "botVersion": "1.0"
+}
