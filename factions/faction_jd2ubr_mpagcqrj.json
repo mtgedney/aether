@@ -1,0 +1,49 @@
+{
+  "id": "jd2ubr_mpagcqrj",
+  "name": "Fendar League, The Reconfigurable",
+  "short": "Fendar",
+  "epithet": "The Reconfigurable",
+  "description": "Amorphous-based lifeforms. The Reconfigurable.",
+  "biology": "Amorphous",
+  "race": "Amorphous",
+  "seed": 1170824967,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Amorphous alien species. viscous translucent slime, shifting protoplasmic mass, lack of symmetry, gelatinous undulating surface, multiple small erratic nuclei. HEAD: Crested structure with unique silhouette. EYES: 6 Glow-Visor eyes that look completely non-human. SURFACE: Tiger-like banding texture with a #00ff88 primary hue. GARB: Wearing Ceremonial Plate. UNIQUE: Features Multi-layered Crest. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Crested",
+  "eyeStyle": "Glow-Visor",
+  "eyeCount": 6,
+  "clothing": "Ceremonial Plate",
+  "markingPattern": "Tiger-like banding",
+  "morphology": "Multi-layered Crest",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Sub-Surface Ocean Sphere",
+  "secondaryBiome": "Water-World",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Sub-Surface Ocean Sphere",
+    "secondary": "Water-World",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 7,
+    "devotion": 10,
+    "expansionism": 4,
+    "isolationism": 6,
+    "mercantilism": 5
+  },
+  "aggression": 7,
+  "devotion": 10,
+  "expansionism": 4,
+  "isolationism": 6,
+  "mercantilism": 5,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Theocracy",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20amorphous%20face%20portrait%2C%20tiger-like%20banding%2C%20crested%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1170824967",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_jd2ubr_mpagcqrj.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_jd2ubr_mpagcqrj.jpg",
+  "generatedAt": "2026-05-18T00:15:59.914Z",
+  "botVersion": "1.0"
+}
