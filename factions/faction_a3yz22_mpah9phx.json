@@ -1,0 +1,49 @@
+{
+  "id": "a3yz22_mpah9phx",
+  "name": "Grydar, Prism-Guard",
+  "short": "Grydar",
+  "epithet": "Prism-Guard",
+  "description": "Crystalline-based lifeforms. Prism-Guard.",
+  "biology": "Crystalline",
+  "race": "Crystalline",
+  "seed": 611332346,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Crystalline alien species. jagged translucent quartz body, internal light refraction, sharp geometric planes, mineral-based life, reflecting light like a diamond. HEAD: Elephantine structure with unique silhouette. EYES: 1 Multiple-Small eyes that look completely non-human. SURFACE: Flowing Circuitry texture with a #9d00ff primary hue. GARB: Wearing Holographic Shroud. UNIQUE: Features Large Curved Horns. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Elephantine",
+  "eyeStyle": "Multiple-Small",
+  "eyeCount": 1,
+  "clothing": "Holographic Shroud",
+  "markingPattern": "Flowing Circuitry",
+  "morphology": "Large Curved Horns",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Barren",
+  "secondaryBiome": "Arctic Tundra",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Barren",
+    "secondary": "Arctic Tundra",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 6,
+    "devotion": 3,
+    "expansionism": 8,
+    "isolationism": 5,
+    "mercantilism": 4
+  },
+  "aggression": 6,
+  "devotion": 3,
+  "expansionism": 8,
+  "isolationism": 5,
+  "mercantilism": 4,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Democracy",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20crystalline%20face%20portrait%2C%20flowing%20circuitry%2C%20elephantine%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=611332346",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_a3yz22_mpah9phx.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_a3yz22_mpah9phx.jpg",
+  "generatedAt": "2026-05-18T00:41:30.057Z",
+  "botVersion": "1.0"
+}
