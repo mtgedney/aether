@@ -1,0 +1,49 @@
+{
+  "id": "1l26g2j_mpakfp3s",
+  "name": "Zyria, Desert-Ghost",
+  "short": "Zyria",
+  "epithet": "Desert-Ghost",
+  "description": "Reptilian-based lifeforms. Desert-Ghost.",
+  "biology": "Reptilian",
+  "race": "Reptilian",
+  "seed": 3450232027,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Reptilian alien species. thick crocodilian scales, leathery skin, heavy brow ridges, cold-blooded predatory gaze, dinosaur-like textures. HEAD: Elongated structure with unique silhouette. EYES: 2 Telescopic eyes that look completely non-human. SURFACE: Geodic Growths texture with a #ff0055 primary hue. GARB: Wearing Pragmatic Tech-Suit. UNIQUE: Features Secondary set of arms. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Elongated",
+  "eyeStyle": "Telescopic",
+  "eyeCount": 2,
+  "clothing": "Pragmatic Tech-Suit",
+  "markingPattern": "Geodic Growths",
+  "morphology": "Secondary set of arms",
+  "color": "#ff0055",
+  "glyph": "△",
+  "primaryBiome": "Arid Desert",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Arid Desert",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 2,
+    "devotion": 1,
+    "expansionism": 10,
+    "isolationism": 6,
+    "mercantilism": 1
+  },
+  "aggression": 2,
+  "devotion": 1,
+  "expansionism": 10,
+  "isolationism": 6,
+  "mercantilism": 1,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Hive-mind",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20reptilian%20face%20portrait%2C%20geodic%20growths%2C%20elongated%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3450232027",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1l26g2j_mpakfp3s.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1l26g2j_mpakfp3s.jpg",
+  "generatedAt": "2026-05-18T02:10:00.398Z",
+  "botVersion": "1.0"
+}
