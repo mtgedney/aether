@@ -1,0 +1,49 @@
+{
+  "id": "ylwdu0_mpagg9ba",
+  "name": "Zyrius, The Unmoving",
+  "short": "Zyrius",
+  "epithet": "The Unmoving",
+  "description": "Lithoid-based lifeforms. The Unmoving.",
+  "biology": "Lithoid",
+  "race": "Lithoid",
+  "seed": 2092632840,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Lithoid alien species. composed of jagged rock and tectonic plates, crystalline geodic inclusions for eyes, mossy stony texture, mountain-like ruggedness, zero soft tissue. HEAD: Crustacean-like structure with unique silhouette. EYES: 5 Glow-Visor eyes that look completely non-human. SURFACE: Symmetrical Stripes texture with a #ffff00 primary hue. GARB: Wearing Minimalist Tunic. UNIQUE: Features Feathery Antennae. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Crustacean-like",
+  "eyeStyle": "Glow-Visor",
+  "eyeCount": 5,
+  "clothing": "Minimalist Tunic",
+  "markingPattern": "Symmetrical Stripes",
+  "morphology": "Feathery Antennae",
+  "color": "#ffff00",
+  "glyph": "⊕",
+  "primaryBiome": "Volcanic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Volcanic",
+    "secondary": "Barren",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 2,
+    "devotion": 9,
+    "expansionism": 5,
+    "isolationism": 9,
+    "mercantilism": 4
+  },
+  "aggression": 2,
+  "devotion": 9,
+  "expansionism": 5,
+  "isolationism": 9,
+  "mercantilism": 4,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Merchant Guild",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20lithoid%20face%20portrait%2C%20symmetrical%20stripes%2C%20crustacean-like%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2092632840",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_ylwdu0_mpagg9ba.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_ylwdu0_mpagg9ba.jpg",
+  "generatedAt": "2026-05-18T00:18:59.733Z",
+  "botVersion": "1.0"
+}
