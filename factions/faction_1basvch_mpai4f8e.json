@@ -1,0 +1,49 @@
+{
+  "id": "1basvch_mpai4f8e",
+  "name": "Vakkis, The Current-Walker",
+  "short": "Vakkis",
+  "epithet": "The Current-Walker",
+  "description": "Aquatic-based lifeforms. The Current-Walker.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 2860053425,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Aquatic alien species. thick rubbery skin like a whale or shark, translucent fins, wet glistening texture, deep-sea monstrous scales, absolutely NO human features. HEAD: Hammerhead structure with unique silhouette. EYES: 6 Glowing-dots eyes that look completely non-human. SURFACE: Mossy patches texture with a #00f2ff primary hue. GARB: Wearing Phase-Shift Harness. UNIQUE: Features Large Curved Horns. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Hammerhead",
+  "eyeStyle": "Glowing-dots",
+  "eyeCount": 6,
+  "clothing": "Phase-Shift Harness",
+  "markingPattern": "Mossy patches",
+  "morphology": "Large Curved Horns",
+  "color": "#00f2ff",
+  "glyph": "✦",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 1,
+    "devotion": 1,
+    "expansionism": 10,
+    "isolationism": 7,
+    "mercantilism": 5
+  },
+  "aggression": 1,
+  "devotion": 1,
+  "expansionism": 10,
+  "isolationism": 7,
+  "mercantilism": 5,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Warlord Council",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20mossy%20patches%2C%20hammerhead%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2860053425",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1basvch_mpai4f8e.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1basvch_mpai4f8e.jpg",
+  "generatedAt": "2026-05-18T01:05:30.260Z",
+  "botVersion": "1.0"
+}
