@@ -1,0 +1,49 @@
+{
+  "id": "28myge_mpahd81o",
+  "name": "Gryius, The Obsidian",
+  "short": "Gryius",
+  "epithet": "The Obsidian",
+  "description": "Lithoid-based lifeforms. The Obsidian.",
+  "biology": "Lithoid",
+  "race": "Lithoid",
+  "seed": 135440366,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Lithoid alien species. composed of jagged rock and tectonic plates, crystalline geodic inclusions for eyes, mossy stony texture, mountain-like ruggedness, zero soft tissue. HEAD: Angular structure with unique silhouette. EYES: 3 Heat-vision-pits eyes that look completely non-human. SURFACE: Thick Warts texture with a #ff8800 primary hue. GARB: Wearing Tribal leather wraps. UNIQUE: Features Secondary set of arms. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Angular",
+  "eyeStyle": "Heat-vision-pits",
+  "eyeCount": 3,
+  "clothing": "Tribal leather wraps",
+  "markingPattern": "Thick Warts",
+  "morphology": "Secondary set of arms",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Volcanic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Volcanic",
+    "secondary": "Barren",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 5,
+    "devotion": 2,
+    "expansionism": 9,
+    "isolationism": 2,
+    "mercantilism": 8
+  },
+  "aggression": 5,
+  "devotion": 2,
+  "expansionism": 9,
+  "isolationism": 2,
+  "mercantilism": 8,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Hive-mind",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20lithoid%20face%20portrait%2C%20thick%20warts%2C%20angular%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=135440366",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_28myge_mpahd81o.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_28myge_mpahd81o.jpg",
+  "generatedAt": "2026-05-18T00:44:29.903Z",
+  "botVersion": "1.0"
+}
