@@ -1,0 +1,49 @@
+{
+  "id": "1kh61rb_mpaj0url",
+  "name": "Kraius, Tide-Caller",
+  "short": "Kraius",
+  "epithet": "Tide-Caller",
+  "description": "Aquatic-based lifeforms. Tide-Caller.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 3414941543,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Aquatic alien species. thick rubbery skin like a whale or shark, translucent fins, wet glistening texture, deep-sea monstrous scales, absolutely NO human features. HEAD: Faceted structure with unique silhouette. EYES: 2 Glow-Visor eyes that look completely non-human. SURFACE: Thick Warts texture with a #ffff00 primary hue. GARB: Wearing Ancient monk robes. UNIQUE: Features Pressure-Resistant Fins. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Faceted",
+  "eyeStyle": "Glow-Visor",
+  "eyeCount": 2,
+  "clothing": "Ancient monk robes",
+  "markingPattern": "Thick Warts",
+  "morphology": "Pressure-Resistant Fins",
+  "color": "#ffff00",
+  "glyph": "⊕",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 9,
+    "devotion": 2,
+    "expansionism": 4,
+    "isolationism": 7,
+    "mercantilism": 10
+  },
+  "aggression": 9,
+  "devotion": 2,
+  "expansionism": 4,
+  "isolationism": 7,
+  "mercantilism": 10,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Democracy",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20thick%20warts%2C%20faceted%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3414941543",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1kh61rb_mpaj0url.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1kh61rb_mpaj0url.jpg",
+  "generatedAt": "2026-05-18T01:31:00.159Z",
+  "botVersion": "1.0"
+}
