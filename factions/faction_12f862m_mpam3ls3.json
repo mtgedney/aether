@@ -1,0 +1,49 @@
+{
+  "id": "12f862m_mpam3ls3",
+  "name": "Vaxia Pylok, Static-Gazer",
+  "short": "Vaxia",
+  "epithet": "Static-Gazer",
+  "description": "Silicon-based lifeforms that process information through photonic resonance.",
+  "biology": "Crystalline",
+  "race": "Crystalline",
+  "seed": 2323290046,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Crystalline alien species. jagged translucent quartz body, internal light refraction, sharp geometric planes, mineral-based life, reflecting light like a diamond. HEAD: Spherical structure with unique silhouette. EYES: 4 Milky-White eyes that look completely non-human. SURFACE: Thick Warts texture with a #ff8800 primary hue. GARB: Wearing Minimalist Tunic. UNIQUE: Features Large Curved Horns. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Spherical",
+  "eyeStyle": "Milky-White",
+  "eyeCount": 4,
+  "clothing": "Minimalist Tunic",
+  "markingPattern": "Thick Warts",
+  "morphology": "Large Curved Horns",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Barren",
+  "secondaryBiome": "Arctic Tundra",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Barren",
+    "secondary": "Arctic Tundra",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 2,
+    "devotion": 6,
+    "expansionism": 3,
+    "isolationism": 4,
+    "mercantilism": 8
+  },
+  "aggression": 2,
+  "devotion": 6,
+  "expansionism": 3,
+  "isolationism": 4,
+  "mercantilism": 8,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Democracy",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20crystalline%20face%20portrait%2C%20thick%20warts%2C%20spherical%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2323290046",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_12f862m_mpam3ls3.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_12f862m_mpam3ls3.jpg",
+  "generatedAt": "2026-05-18T02:56:43.886Z",
+  "botVersion": "1.0"
+}
