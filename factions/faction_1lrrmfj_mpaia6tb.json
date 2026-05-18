@@ -1,0 +1,49 @@
+{
+  "id": "1lrrmfj_mpaia6tb",
+  "name": "Terus League, Binary-Saint",
+  "short": "Terus",
+  "epithet": "Binary-Saint",
+  "description": "Mechanical-based lifeforms. Binary-Saint.",
+  "biology": "Mechanical",
+  "race": "Mechanical",
+  "seed": 3493210447,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Mechanical alien species. exposed wiring and hydraulic pistons, weathered industrial metal casing, worn plating, antique robotics, oil-stained machinery. HEAD: Tapered structure with unique silhouette. EYES: 1 Vertical-pupils eyes that look completely non-human. SURFACE: Bioluminescent Veins texture with a #00ff88 primary hue. GARB: Wearing Tribal leather wraps. UNIQUE: Features Writhing Tentacles. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Tapered",
+  "eyeStyle": "Vertical-pupils",
+  "eyeCount": 1,
+  "clothing": "Tribal leather wraps",
+  "markingPattern": "Bioluminescent Veins",
+  "morphology": "Writhing Tentacles",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Barren",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Barren",
+    "secondary": "Volcanic",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 8,
+    "devotion": 9,
+    "expansionism": 1,
+    "isolationism": 5,
+    "mercantilism": 6
+  },
+  "aggression": 8,
+  "devotion": 9,
+  "expansionism": 1,
+  "isolationism": 5,
+  "mercantilism": 6,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Merchant Guild",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20mechanical%20face%20portrait%2C%20bioluminescent%20veins%2C%20tapered%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3493210447",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1lrrmfj_mpaia6tb.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1lrrmfj_mpaia6tb.jpg",
+  "generatedAt": "2026-05-18T01:10:00.220Z",
+  "botVersion": "1.0"
+}
