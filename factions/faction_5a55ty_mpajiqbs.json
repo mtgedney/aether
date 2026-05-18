@@ -1,0 +1,49 @@
+{
+  "id": "5a55ty_mpajiqbs",
+  "name": "Myneth, Desert-Ghost",
+  "short": "Myneth",
+  "epithet": "Desert-Ghost",
+  "description": "Reptilian-based lifeforms. Desert-Ghost.",
+  "biology": "Reptilian",
+  "race": "Reptilian",
+  "seed": 319367878,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Reptilian alien species. thick crocodilian scales, leathery skin, heavy brow ridges, cold-blooded predatory gaze, dinosaur-like textures. HEAD: Snouted structure with unique silhouette. EYES: 5 Glow-Visor eyes that look completely non-human. SURFACE: Geometric Tattoos texture with a #9d00ff primary hue. GARB: Wearing Phase-Shift Harness. UNIQUE: Features Floating Shards. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Snouted",
+  "eyeStyle": "Glow-Visor",
+  "eyeCount": 5,
+  "clothing": "Phase-Shift Harness",
+  "markingPattern": "Geometric Tattoos",
+  "morphology": "Floating Shards",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Arid Desert",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Arid Desert",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 6,
+    "devotion": 7,
+    "expansionism": 4,
+    "isolationism": 8,
+    "mercantilism": 10
+  },
+  "aggression": 6,
+  "devotion": 7,
+  "expansionism": 4,
+  "isolationism": 8,
+  "mercantilism": 10,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Democracy",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20reptilian%20face%20portrait%2C%20geometric%20tattoos%2C%20snouted%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=319367878",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_5a55ty_mpajiqbs.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_5a55ty_mpajiqbs.jpg",
+  "generatedAt": "2026-05-18T01:44:30.350Z",
+  "botVersion": "1.0"
+}
