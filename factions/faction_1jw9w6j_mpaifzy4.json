@@ -1,0 +1,49 @@
+{
+  "id": "1jw9w6j_mpaifzy4",
+  "name": "Oulius, Fluid-Mind",
+  "short": "Oulius",
+  "epithet": "Fluid-Mind",
+  "description": "Amorphous-based lifeforms. Fluid-Mind.",
+  "biology": "Amorphous",
+  "race": "Amorphous",
+  "seed": 3379849003,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Amorphous alien species. viscous translucent slime, shifting protoplasmic mass, lack of symmetry, gelatinous undulating surface, multiple small erratic nuclei. HEAD: Hammerhead structure with unique silhouette. EYES: 2 Glowing-dots eyes that look completely non-human. SURFACE: Mossy patches texture with a #00f2ff primary hue. GARB: Wearing Holographic Shroud. UNIQUE: Features Bioluminescent Halos. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Hammerhead",
+  "eyeStyle": "Glowing-dots",
+  "eyeCount": 2,
+  "clothing": "Holographic Shroud",
+  "markingPattern": "Mossy patches",
+  "morphology": "Bioluminescent Halos",
+  "color": "#00f2ff",
+  "glyph": "✦",
+  "primaryBiome": "Sub-Surface Ocean Sphere",
+  "secondaryBiome": "Water-World",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Sub-Surface Ocean Sphere",
+    "secondary": "Water-World",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 8,
+    "devotion": 10,
+    "expansionism": 2,
+    "isolationism": 1,
+    "mercantilism": 8
+  },
+  "aggression": 8,
+  "devotion": 10,
+  "expansionism": 2,
+  "isolationism": 1,
+  "mercantilism": 8,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Hive-mind",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20amorphous%20face%20portrait%2C%20mossy%20patches%2C%20hammerhead%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3379849003",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1jw9w6j_mpaifzy4.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1jw9w6j_mpaifzy4.jpg",
+  "generatedAt": "2026-05-18T01:14:30.260Z",
+  "botVersion": "1.0"
+}
