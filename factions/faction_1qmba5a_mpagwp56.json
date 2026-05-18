@@ -1,0 +1,49 @@
+{
+  "id": "1qmba5a_mpagwp56",
+  "name": "Fentor, Bio-Mass",
+  "short": "Fentor",
+  "epithet": "Bio-Mass",
+  "description": "Amorphous-based lifeforms. Bio-Mass.",
+  "biology": "Amorphous",
+  "race": "Amorphous",
+  "seed": 3786380830,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Amorphous alien species. viscous translucent slime, shifting protoplasmic mass, lack of symmetry, gelatinous undulating surface, multiple small erratic nuclei. HEAD: Featureless structure with unique silhouette. EYES: 5 Compound eyes that look completely non-human. SURFACE: Iridescent Scales texture with a #ff0055 primary hue. GARB: Wearing Pragmatic Tech-Suit. UNIQUE: Features Floating Shards. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Featureless",
+  "eyeStyle": "Compound",
+  "eyeCount": 5,
+  "clothing": "Pragmatic Tech-Suit",
+  "markingPattern": "Iridescent Scales",
+  "morphology": "Floating Shards",
+  "color": "#ff0055",
+  "glyph": "△",
+  "primaryBiome": "Sub-Surface Ocean Sphere",
+  "secondaryBiome": "Water-World",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Sub-Surface Ocean Sphere",
+    "secondary": "Water-World",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 4,
+    "devotion": 5,
+    "expansionism": 6,
+    "isolationism": 2,
+    "mercantilism": 3
+  },
+  "aggression": 4,
+  "devotion": 5,
+  "expansionism": 6,
+  "isolationism": 2,
+  "mercantilism": 3,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Warlord Council",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20amorphous%20face%20portrait%2C%20iridescent%20scales%2C%20featureless%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3786380830",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1qmba5a_mpagwp56.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1qmba5a_mpagwp56.jpg",
+  "generatedAt": "2026-05-18T00:30:59.859Z",
+  "botVersion": "1.0"
+}
