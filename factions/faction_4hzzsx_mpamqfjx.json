@@ -1,0 +1,49 @@
+{
+  "id": "4hzzsx_mpamqfjx",
+  "name": "Xyldar, Shift-Walker",
+  "short": "Xyldar",
+  "epithet": "Shift-Walker",
+  "description": "Vaporous energy-based beings that exist within magnetic containment fields.",
+  "biology": "Ethereal",
+  "race": "Ethereal",
+  "seed": 272097537,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Ethereal alien species. body made of shifting nebulous gas and electrical arcs, held together by a magnetic harness, glowing semi-transparent forms, no solid skin. HEAD: Faceted structure with unique silhouette. EYES: 8 Diamond eyes that look completely non-human. SURFACE: Bioluminescent Veins texture with a #ff8800 primary hue. GARB: Wearing Pragmatic Tech-Suit. UNIQUE: Features Webbed Extremities. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Faceted",
+  "eyeStyle": "Diamond",
+  "eyeCount": 8,
+  "clothing": "Pragmatic Tech-Suit",
+  "markingPattern": "Bioluminescent Veins",
+  "morphology": "Webbed Extremities",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Lush Forest",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Barren",
+    "hostile": "Lush Forest"
+  },
+  "disposition": {
+    "aggression": 7,
+    "devotion": 9,
+    "expansionism": 1,
+    "isolationism": 3,
+    "mercantilism": 8
+  },
+  "aggression": 7,
+  "devotion": 9,
+  "expansionism": 1,
+  "isolationism": 3,
+  "mercantilism": 8,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Merchant Guild",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20ethereal%20face%20portrait%2C%20bioluminescent%20veins%2C%20faceted%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=272097537",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_4hzzsx_mpamqfjx.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_4hzzsx_mpamqfjx.jpg",
+  "generatedAt": "2026-05-18T03:14:43.973Z",
+  "botVersion": "1.0"
+}
