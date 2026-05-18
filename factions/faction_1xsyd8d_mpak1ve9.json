@@ -1,0 +1,49 @@
+{
+  "id": "1xsyd8d_mpak1ve9",
+  "name": "Kraus, The Prime",
+  "short": "Kraus",
+  "epithet": "The Prime",
+  "description": "Mechanical-based lifeforms. The Prime.",
+  "biology": "Mechanical",
+  "race": "Mechanical",
+  "seed": 4220798845,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Mechanical alien species. exposed wiring and hydraulic pistons, weathered industrial metal casing, worn plating, antique robotics, oil-stained machinery. HEAD: Featureless structure with unique silhouette. EYES: 2 Compound eyes that look completely non-human. SURFACE: Bioluminescent Veins texture with a #00f2ff primary hue. GARB: Wearing Ornate Silk Robes. UNIQUE: Features Prehensile trunks. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Featureless",
+  "eyeStyle": "Compound",
+  "eyeCount": 2,
+  "clothing": "Ornate Silk Robes",
+  "markingPattern": "Bioluminescent Veins",
+  "morphology": "Prehensile trunks",
+  "color": "#00f2ff",
+  "glyph": "✦",
+  "primaryBiome": "Barren",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Barren",
+    "secondary": "Volcanic",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 10,
+    "devotion": 9,
+    "expansionism": 5,
+    "isolationism": 1,
+    "mercantilism": 7
+  },
+  "aggression": 10,
+  "devotion": 9,
+  "expansionism": 5,
+  "isolationism": 1,
+  "mercantilism": 7,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Theocracy",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20mechanical%20face%20portrait%2C%20bioluminescent%20veins%2C%20featureless%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=4220798845",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1xsyd8d_mpak1ve9.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1xsyd8d_mpak1ve9.jpg",
+  "generatedAt": "2026-05-18T01:59:30.258Z",
+  "botVersion": "1.0"
+}
