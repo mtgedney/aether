@@ -1,0 +1,49 @@
+{
+  "id": "1v85sw7_mpah3dvh",
+  "name": "Mynok Skywatchers, Crystal-Heart",
+  "short": "Mynok",
+  "epithet": "Crystal-Heart",
+  "description": "Lithoid-based lifeforms. Crystal-Heart.",
+  "biology": "Lithoid",
+  "race": "Lithoid",
+  "seed": 4064941447,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Lithoid alien species. composed of jagged rock and tectonic plates, crystalline geodic inclusions for eyes, mossy stony texture, mountain-like ruggedness, zero soft tissue. HEAD: Crested structure with unique silhouette. EYES: 4 Holographic eyes that look completely non-human. SURFACE: Runic Carvings texture with a #ffff00 primary hue. GARB: Wearing Phase-Shift Harness. UNIQUE: Features Multi-layered Crest. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Crested",
+  "eyeStyle": "Holographic",
+  "eyeCount": 4,
+  "clothing": "Phase-Shift Harness",
+  "markingPattern": "Runic Carvings",
+  "morphology": "Multi-layered Crest",
+  "color": "#ffff00",
+  "glyph": "⊕",
+  "primaryBiome": "Volcanic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Volcanic",
+    "secondary": "Barren",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 5,
+    "devotion": 7,
+    "expansionism": 2,
+    "isolationism": 1,
+    "mercantilism": 5
+  },
+  "aggression": 5,
+  "devotion": 7,
+  "expansionism": 2,
+  "isolationism": 1,
+  "mercantilism": 5,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Hive-mind",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20lithoid%20face%20portrait%2C%20runic%20carvings%2C%20crested%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=4064941447",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1v85sw7_mpah3dvh.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1v85sw7_mpah3dvh.jpg",
+  "generatedAt": "2026-05-18T00:36:59.963Z",
+  "botVersion": "1.0"
+}
