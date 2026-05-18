@@ -1,0 +1,49 @@
+{
+  "id": "1r3sqy0_mpaixc7t",
+  "name": "Gryus Republic, Tide-Caller",
+  "short": "Gryus",
+  "epithet": "Tide-Caller",
+  "description": "Aquatic-based lifeforms. Tide-Caller.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 3815749224,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Aquatic alien species. thick rubbery skin like a whale or shark, translucent fins, wet glistening texture, deep-sea monstrous scales, absolutely NO human features. HEAD: Elongated structure with unique silhouette. EYES: 1 Single-Large eyes that look completely non-human. SURFACE: Iridescent Scales texture with a #00ff88 primary hue. GARB: Wearing Holographic Shroud. UNIQUE: Features Secondary set of arms. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Elongated",
+  "eyeStyle": "Single-Large",
+  "eyeCount": 1,
+  "clothing": "Holographic Shroud",
+  "markingPattern": "Iridescent Scales",
+  "morphology": "Secondary set of arms",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 5,
+    "devotion": 6,
+    "expansionism": 6,
+    "isolationism": 2,
+    "mercantilism": 6
+  },
+  "aggression": 5,
+  "devotion": 6,
+  "expansionism": 6,
+  "isolationism": 2,
+  "mercantilism": 6,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Warlord Council",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20iridescent%20scales%2C%20elongated%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3815749224",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1r3sqy0_mpaixc7t.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1r3sqy0_mpaixc7t.jpg",
+  "generatedAt": "2026-05-18T01:28:00.086Z",
+  "botVersion": "1.0"
+}
