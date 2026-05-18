@@ -1,0 +1,49 @@
+{
+  "id": "zg7cyu_mpahospm",
+  "name": "Grytor, The Overclocked",
+  "short": "Grytor",
+  "epithet": "The Overclocked",
+  "description": "Mechanical-based lifeforms. The Overclocked.",
+  "biology": "Mechanical",
+  "race": "Mechanical",
+  "seed": 2143533414,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Mechanical alien species. exposed wiring and hydraulic pistons, weathered industrial metal casing, worn plating, antique robotics, oil-stained machinery. HEAD: Elongated structure with unique silhouette. EYES: 3 Stalk-eyes eyes that look completely non-human. SURFACE: Flowing Circuitry texture with a #ff8800 primary hue. GARB: Wearing Holographic Shroud. UNIQUE: Features Floating Shards. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Elongated",
+  "eyeStyle": "Stalk-eyes",
+  "eyeCount": 3,
+  "clothing": "Holographic Shroud",
+  "markingPattern": "Flowing Circuitry",
+  "morphology": "Floating Shards",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Barren",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Barren",
+    "secondary": "Volcanic",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 5,
+    "devotion": 9,
+    "expansionism": 9,
+    "isolationism": 6,
+    "mercantilism": 6
+  },
+  "aggression": 5,
+  "devotion": 9,
+  "expansionism": 9,
+  "isolationism": 6,
+  "mercantilism": 6,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Democracy",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20mechanical%20face%20portrait%2C%20flowing%20circuitry%2C%20elongated%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2143533414",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_zg7cyu_mpahospm.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_zg7cyu_mpahospm.jpg",
+  "generatedAt": "2026-05-18T00:53:30.048Z",
+  "botVersion": "1.0"
+}
