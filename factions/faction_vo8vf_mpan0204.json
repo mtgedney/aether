@@ -1,0 +1,49 @@
+{
+  "id": "vo8vf_mpan0204",
+  "name": "Pylen Collective, Slime-King",
+  "short": "Pylen",
+  "epithet": "Slime-King",
+  "description": "Highly adaptive protoplasmic entities capable of rapid cellular reconfiguration.",
+  "biology": "Amorphous",
+  "race": "Amorphous",
+  "seed": 53199339,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Amorphous alien species. viscous translucent slime, shifting protoplasmic mass, lack of symmetry, gelatinous undulating surface, multiple small erratic nuclei. HEAD: Flat structure with unique silhouette. EYES: 1 Diamond eyes that look completely non-human. SURFACE: Runic Carvings texture with a #00ff88 primary hue. GARB: Wearing Tribal leather wraps. UNIQUE: Features Exposed brain lobes. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Flat",
+  "eyeStyle": "Diamond",
+  "eyeCount": 1,
+  "clothing": "Tribal leather wraps",
+  "markingPattern": "Runic Carvings",
+  "morphology": "Exposed brain lobes",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Sub-Surface Ocean Sphere",
+  "secondaryBiome": "Water-World",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Sub-Surface Ocean Sphere",
+    "secondary": "Water-World",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 3,
+    "devotion": 7,
+    "expansionism": 7,
+    "isolationism": 3,
+    "mercantilism": 9
+  },
+  "aggression": 3,
+  "devotion": 7,
+  "expansionism": 7,
+  "isolationism": 3,
+  "mercantilism": 9,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Democracy",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20amorphous%20face%20portrait%2C%20runic%20carvings%2C%20flat%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=53199339",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_vo8vf_mpan0204.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_vo8vf_mpan0204.jpg",
+  "generatedAt": "2026-05-18T03:22:13.855Z",
+  "botVersion": "1.0"
+}
