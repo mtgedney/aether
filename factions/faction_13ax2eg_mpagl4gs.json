@@ -1,0 +1,49 @@
+{
+  "id": "13ax2eg_mpagl4gs",
+  "name": "Vakok League, Legacy-Bearer",
+  "short": "Vakok",
+  "epithet": "Legacy-Bearer",
+  "description": "Humanoid-based lifeforms. Legacy-Bearer.",
+  "biology": "Humanoid",
+  "race": "Humanoid",
+  "seed": 2376519784,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Humanoid alien species. diverse non-human facial features, unusual proportions, exotic skin textures, unique ridge structures, avoid stereotypical grey alien look. HEAD: Featureless structure with unique silhouette. EYES: 3 Glowing-dots eyes that look completely non-human. SURFACE: Mossy patches texture with a #ff0055 primary hue. GARB: Wearing Tribal leather wraps. UNIQUE: Features Crystalline Spines. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Featureless",
+  "eyeStyle": "Glowing-dots",
+  "eyeCount": 3,
+  "clothing": "Tribal leather wraps",
+  "markingPattern": "Mossy patches",
+  "morphology": "Crystalline Spines",
+  "color": "#ff0055",
+  "glyph": "△",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 10,
+    "devotion": 2,
+    "expansionism": 3,
+    "isolationism": 7,
+    "mercantilism": 2
+  },
+  "aggression": 10,
+  "devotion": 2,
+  "expansionism": 3,
+  "isolationism": 7,
+  "mercantilism": 2,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Merchant Guild",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20humanoid%20face%20portrait%2C%20mossy%20patches%2C%20featureless%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2376519784",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_13ax2eg_mpagl4gs.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_13ax2eg_mpagl4gs.jpg",
+  "generatedAt": "2026-05-18T00:21:59.826Z",
+  "botVersion": "1.0"
+}
