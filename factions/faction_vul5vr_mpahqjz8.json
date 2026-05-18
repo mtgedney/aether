@@ -1,0 +1,49 @@
+{
+  "id": "vul5vr_mpahqjz8",
+  "name": "Jyl-an Skywatchers, Binary-Saint",
+  "short": "Jyl-an",
+  "epithet": "Binary-Saint",
+  "description": "Mechanical-based lifeforms. Binary-Saint.",
+  "biology": "Mechanical",
+  "race": "Mechanical",
+  "seed": 1925827335,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Mechanical alien species. exposed wiring and hydraulic pistons, weathered industrial metal casing, worn plating, antique robotics, oil-stained machinery. HEAD: Crustacean-like structure with unique silhouette. EYES: 2 Glowing-dots eyes that look completely non-human. SURFACE: Flowing Circuitry texture with a #ffff00 primary hue. GARB: Wearing Holographic Shroud. UNIQUE: Features Webbed Extremities. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Crustacean-like",
+  "eyeStyle": "Glowing-dots",
+  "eyeCount": 2,
+  "clothing": "Holographic Shroud",
+  "markingPattern": "Flowing Circuitry",
+  "morphology": "Webbed Extremities",
+  "color": "#ffff00",
+  "glyph": "⊕",
+  "primaryBiome": "Barren",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Barren",
+    "secondary": "Volcanic",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 9,
+    "devotion": 10,
+    "expansionism": 3,
+    "isolationism": 7,
+    "mercantilism": 3
+  },
+  "aggression": 9,
+  "devotion": 10,
+  "expansionism": 3,
+  "isolationism": 7,
+  "mercantilism": 3,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Merchant Guild",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20mechanical%20face%20portrait%2C%20flowing%20circuitry%2C%20crustacean-like%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1925827335",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_vul5vr_mpahqjz8.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_vul5vr_mpahqjz8.jpg",
+  "generatedAt": "2026-05-18T00:55:00.186Z",
+  "botVersion": "1.0"
+}
