@@ -1,0 +1,49 @@
+{
+  "id": "1ttqs35_mpah1mm9",
+  "name": "Bochius, Desert-Ghost",
+  "short": "Bochius",
+  "epithet": "Desert-Ghost",
+  "description": "Reptilian-based lifeforms. Desert-Ghost.",
+  "biology": "Reptilian",
+  "race": "Reptilian",
+  "seed": 3980259761,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Reptilian alien species. thick crocodilian scales, leathery skin, heavy brow ridges, cold-blooded predatory gaze, dinosaur-like textures. HEAD: Flat structure with unique silhouette. EYES: 2 Heat-vision-pits eyes that look completely non-human. SURFACE: Symmetrical Stripes texture with a #ff8800 primary hue. GARB: Wearing Tribal leather wraps. UNIQUE: Features Exposed brain lobes. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Flat",
+  "eyeStyle": "Heat-vision-pits",
+  "eyeCount": 2,
+  "clothing": "Tribal leather wraps",
+  "markingPattern": "Symmetrical Stripes",
+  "morphology": "Exposed brain lobes",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Arid Desert",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Arid Desert",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 4,
+    "devotion": 10,
+    "expansionism": 10,
+    "isolationism": 9,
+    "mercantilism": 5
+  },
+  "aggression": 4,
+  "devotion": 10,
+  "expansionism": 10,
+  "isolationism": 9,
+  "mercantilism": 5,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Theocracy",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20reptilian%20face%20portrait%2C%20symmetrical%20stripes%2C%20flat%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3980259761",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1ttqs35_mpah1mm9.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1ttqs35_mpah1mm9.jpg",
+  "generatedAt": "2026-05-18T00:35:29.875Z",
+  "botVersion": "1.0"
+}
