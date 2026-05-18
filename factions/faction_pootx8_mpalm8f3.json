@@ -1,0 +1,49 @@
+{
+  "id": "pootx8_mpalm8f3",
+  "name": "Vaxia Gryvox, The Mandible",
+  "short": "Vaxia",
+  "epithet": "The Mandible",
+  "description": "Xenooids are chitinous organisms with complex social structures and highly efficient communal processing.",
+  "biology": "Insectoid",
+  "race": "Insectoid",
+  "seed": 1553123708,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Insectoid alien species. hard chitinous exoskeleton, segmented thorax, chitin plating, bristly hairs, compound predatory insect features, no human nose or mouth. HEAD: Elephantine structure with unique silhouette. EYES: 3 Diamond eyes that look completely non-human. SURFACE: Star-Map Freckles texture with a #ff0055 primary hue. GARB: Wearing Scrap-Metal Armor. UNIQUE: Features Hollow Wing-Spans. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Elephantine",
+  "eyeStyle": "Diamond",
+  "eyeCount": 3,
+  "clothing": "Scrap-Metal Armor",
+  "markingPattern": "Star-Map Freckles",
+  "morphology": "Hollow Wing-Spans",
+  "color": "#ff0055",
+  "glyph": "△",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 5,
+    "devotion": 4,
+    "expansionism": 4,
+    "isolationism": 3,
+    "mercantilism": 3
+  },
+  "aggression": 5,
+  "devotion": 4,
+  "expansionism": 4,
+  "isolationism": 3,
+  "mercantilism": 3,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Warlord Council",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20insectoid%20face%20portrait%2C%20star-map%20freckles%2C%20elephantine%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1553123708",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_pootx8_mpalm8f3.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_pootx8_mpalm8f3.jpg",
+  "generatedAt": "2026-05-18T02:43:13.876Z",
+  "botVersion": "1.0"
+}
