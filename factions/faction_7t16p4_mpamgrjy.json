@@ -1,0 +1,49 @@
+{
+  "id": "7t16p4_mpamgrjy",
+  "name": "Myn-an, Bio-Mass",
+  "short": "Myn-an",
+  "epithet": "Bio-Mass",
+  "description": "Highly adaptive protoplasmic entities capable of rapid cellular reconfiguration.",
+  "biology": "Amorphous",
+  "race": "Amorphous",
+  "seed": 472027432,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Amorphous alien species. viscous translucent slime, shifting protoplasmic mass, lack of symmetry, gelatinous undulating surface, multiple small erratic nuclei. HEAD: Crustacean-like structure with unique silhouette. EYES: 8 Holographic eyes that look completely non-human. SURFACE: Flowing Circuitry texture with a #ffff00 primary hue. GARB: Wearing Pilot's flight jacket. UNIQUE: Features Pressure-Resistant Fins. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Crustacean-like",
+  "eyeStyle": "Holographic",
+  "eyeCount": 8,
+  "clothing": "Pilot's flight jacket",
+  "markingPattern": "Flowing Circuitry",
+  "morphology": "Pressure-Resistant Fins",
+  "color": "#ffff00",
+  "glyph": "⊕",
+  "primaryBiome": "Sub-Surface Ocean Sphere",
+  "secondaryBiome": "Water-World",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Sub-Surface Ocean Sphere",
+    "secondary": "Water-World",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 10,
+    "devotion": 10,
+    "expansionism": 3,
+    "isolationism": 3,
+    "mercantilism": 7
+  },
+  "aggression": 10,
+  "devotion": 10,
+  "expansionism": 3,
+  "isolationism": 3,
+  "mercantilism": 7,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Merchant Guild",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20amorphous%20face%20portrait%2C%20flowing%20circuitry%2C%20crustacean-like%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=472027432",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_7t16p4_mpamgrjy.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_7t16p4_mpamgrjy.jpg",
+  "generatedAt": "2026-05-18T03:07:14.034Z",
+  "botVersion": "1.0"
+}
