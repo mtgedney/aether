@@ -1,0 +1,49 @@
+{
+  "id": "1k7ytq6_mpaft3z5",
+  "name": "Bochus, The Hydrophile",
+  "short": "Bochus",
+  "epithet": "The Hydrophile",
+  "description": "Aquatic-based lifeforms. The Hydrophile.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 3399487998,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Aquatic alien species. thick rubbery skin like a whale or shark, translucent fins, wet glistening texture, deep-sea monstrous scales, absolutely NO human features. HEAD: Featureless structure with unique silhouette. EYES: 4 Vertical-pupils eyes that look completely non-human. SURFACE: Geodic Growths texture with a #ffff00 primary hue. GARB: Wearing Pilot's flight jacket. UNIQUE: Features Large Curved Horns. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Featureless",
+  "eyeStyle": "Vertical-pupils",
+  "eyeCount": 4,
+  "clothing": "Pilot's flight jacket",
+  "markingPattern": "Geodic Growths",
+  "morphology": "Large Curved Horns",
+  "color": "#ffff00",
+  "glyph": "⊕",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 6,
+    "devotion": 3,
+    "expansionism": 3,
+    "isolationism": 6,
+    "mercantilism": 5
+  },
+  "aggression": 6,
+  "devotion": 3,
+  "expansionism": 3,
+  "isolationism": 6,
+  "mercantilism": 5,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Warlord Council",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20geodic%20growths%2C%20featureless%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3399487998",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1k7ytq6_mpaft3z5.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1k7ytq6_mpaft3z5.jpg",
+  "generatedAt": "2026-05-18T00:01:00.078Z",
+  "botVersion": "1.0"
+}
