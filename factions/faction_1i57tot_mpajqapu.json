@@ -1,0 +1,49 @@
+{
+  "id": "1i57tot_mpajqapu",
+  "name": "Fenius Collective, Stone-Singer",
+  "short": "Fenius",
+  "epithet": "Stone-Singer",
+  "description": "Lithoid-based lifeforms. Stone-Singer.",
+  "biology": "Lithoid",
+  "race": "Lithoid",
+  "seed": 3273936653,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Lithoid alien species. composed of jagged rock and tectonic plates, crystalline geodic inclusions for eyes, mossy stony texture, mountain-like ruggedness, zero soft tissue. HEAD: Fin-Tipped structure with unique silhouette. EYES: 2 Cybernetic-monocle eyes that look completely non-human. SURFACE: Geodic Growths texture with a #00f2ff primary hue. GARB: Wearing Tattered Nomad Cloak. UNIQUE: Features Massive tusks. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Fin-Tipped",
+  "eyeStyle": "Cybernetic-monocle",
+  "eyeCount": 2,
+  "clothing": "Tattered Nomad Cloak",
+  "markingPattern": "Geodic Growths",
+  "morphology": "Massive tusks",
+  "color": "#00f2ff",
+  "glyph": "✦",
+  "primaryBiome": "Volcanic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Volcanic",
+    "secondary": "Barren",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 1,
+    "devotion": 4,
+    "expansionism": 10,
+    "isolationism": 3,
+    "mercantilism": 1
+  },
+  "aggression": 1,
+  "devotion": 4,
+  "expansionism": 10,
+  "isolationism": 3,
+  "mercantilism": 1,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Warlord Council",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20lithoid%20face%20portrait%2C%20geodic%20growths%2C%20fin-tipped%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3273936653",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1i57tot_mpajqapu.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1i57tot_mpajqapu.jpg",
+  "generatedAt": "2026-05-18T01:50:30.222Z",
+  "botVersion": "1.0"
+}
