@@ -1,0 +1,49 @@
+{
+  "id": "1ihknov_mpamd907",
+  "name": "Zyrtor, Static-Gazer",
+  "short": "Zyrtor",
+  "epithet": "Static-Gazer",
+  "description": "Silicon-based lifeforms that process information through photonic resonance.",
+  "biology": "Crystalline",
+  "race": "Crystalline",
+  "seed": 3294690799,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Crystalline alien species. jagged translucent quartz body, internal light refraction, sharp geometric planes, mineral-based life, reflecting light like a diamond. HEAD: Tubular structure with unique silhouette. EYES: 1 Cybernetic-monocle eyes that look completely non-human. SURFACE: Tiger-like banding texture with a #00ff88 primary hue. GARB: Wearing Scrap-Metal Armor. UNIQUE: Features Prehensile trunks. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Tubular",
+  "eyeStyle": "Cybernetic-monocle",
+  "eyeCount": 1,
+  "clothing": "Scrap-Metal Armor",
+  "markingPattern": "Tiger-like banding",
+  "morphology": "Prehensile trunks",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Barren",
+  "secondaryBiome": "Arctic Tundra",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Barren",
+    "secondary": "Arctic Tundra",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 2,
+    "devotion": 7,
+    "expansionism": 3,
+    "isolationism": 9,
+    "mercantilism": 3
+  },
+  "aggression": 2,
+  "devotion": 7,
+  "expansionism": 3,
+  "isolationism": 9,
+  "mercantilism": 3,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Warlord Council",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20crystalline%20face%20portrait%2C%20tiger-like%20banding%2C%20tubular%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3294690799",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1ihknov_mpamd907.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1ihknov_mpamd907.jpg",
+  "generatedAt": "2026-05-18T03:04:14.018Z",
+  "botVersion": "1.0"
+}
