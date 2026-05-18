@@ -1,0 +1,49 @@
+{
+  "id": "18hymae_mpan1t9o",
+  "name": "Fenus Fentor, The Ancient",
+  "short": "Fenus",
+  "epithet": "The Ancient",
+  "description": "Cold-blooded saurians with reinforced dermal plating and acute predatory instincts.",
+  "biology": "Reptilian",
+  "race": "Reptilian",
+  "seed": 2690680406,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Reptilian alien species. thick crocodilian scales, leathery skin, heavy brow ridges, cold-blooded predatory gaze, dinosaur-like textures. HEAD: Snouted structure with unique silhouette. EYES: 4 Milky-White eyes that look completely non-human. SURFACE: Corroded Etchings texture with a #ff8800 primary hue. GARB: Wearing Tattered Nomad Cloak. UNIQUE: Features Multi-layered Crest. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Snouted",
+  "eyeStyle": "Milky-White",
+  "eyeCount": 4,
+  "clothing": "Tattered Nomad Cloak",
+  "markingPattern": "Corroded Etchings",
+  "morphology": "Multi-layered Crest",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Arid Desert",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Arid Desert",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 7,
+    "devotion": 6,
+    "expansionism": 2,
+    "isolationism": 9,
+    "mercantilism": 5
+  },
+  "aggression": 7,
+  "devotion": 6,
+  "expansionism": 2,
+  "isolationism": 9,
+  "mercantilism": 5,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Theocracy",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20reptilian%20face%20portrait%2C%20corroded%20etchings%2C%20snouted%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2690680406",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_18hymae_mpan1t9o.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_18hymae_mpan1t9o.jpg",
+  "generatedAt": "2026-05-18T03:23:43.895Z",
+  "botVersion": "1.0"
+}
