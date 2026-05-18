@@ -1,0 +1,49 @@
+{
+  "id": "zp7m2m_mpajkhlt",
+  "name": "Oulus Consortium, Sky-Watcher",
+  "short": "Oulus",
+  "epithet": "Sky-Watcher",
+  "description": "Avian-based lifeforms. Sky-Watcher.",
+  "biology": "Avian",
+  "race": "Avian",
+  "seed": 2158661758,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Avian alien species. covered in thick plumage or downy feathers, a hard keratin beak, hollow bone structure visible in neck, bird-like anatomy, predatory raptor features. HEAD: Tapered structure with unique silhouette. EYES: 2 Single-Large eyes that look completely non-human. SURFACE: Leopard-like spots texture with a #00ff88 primary hue. GARB: Wearing Phase-Shift Harness. UNIQUE: Features Prehensile trunks. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Tapered",
+  "eyeStyle": "Single-Large",
+  "eyeCount": 2,
+  "clothing": "Phase-Shift Harness",
+  "markingPattern": "Leopard-like spots",
+  "morphology": "Prehensile trunks",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Lush Forest",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Lush Forest",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 2,
+    "devotion": 7,
+    "expansionism": 6,
+    "isolationism": 6,
+    "mercantilism": 1
+  },
+  "aggression": 2,
+  "devotion": 7,
+  "expansionism": 6,
+  "isolationism": 6,
+  "mercantilism": 1,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Theocracy",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20avian%20face%20portrait%2C%20leopard-like%20spots%2C%20tapered%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2158661758",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_zp7m2m_mpajkhlt.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_zp7m2m_mpajkhlt.jpg",
+  "generatedAt": "2026-05-18T01:46:00.145Z",
+  "botVersion": "1.0"
+}
