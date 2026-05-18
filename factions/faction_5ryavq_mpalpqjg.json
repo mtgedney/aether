@@ -1,0 +1,49 @@
+{
+  "id": "5ryavq_mpalpqjg",
+  "name": "Gorar, Sky-Watcher",
+  "short": "Gorar",
+  "epithet": "Sky-Watcher",
+  "description": "Lightweight bipeds with hollow bone structures adapted for thin atmospheres.",
+  "biology": "Avian",
+  "race": "Avian",
+  "seed": 349280918,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Avian alien species. covered in thick plumage or downy feathers, a hard keratin beak, hollow bone structure visible in neck, bird-like anatomy, predatory raptor features. HEAD: Crested structure with unique silhouette. EYES: 1 Clouded eyes that look completely non-human. SURFACE: Corroded Etchings texture with a #00ff88 primary hue. GARB: Wearing Tattered Nomad Cloak. UNIQUE: Features Extra sensory bristles. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Crested",
+  "eyeStyle": "Clouded",
+  "eyeCount": 1,
+  "clothing": "Tattered Nomad Cloak",
+  "markingPattern": "Corroded Etchings",
+  "morphology": "Extra sensory bristles",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Lush Forest",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Lush Forest",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 1,
+    "devotion": 4,
+    "expansionism": 7,
+    "isolationism": 2,
+    "mercantilism": 10
+  },
+  "aggression": 1,
+  "devotion": 4,
+  "expansionism": 7,
+  "isolationism": 2,
+  "mercantilism": 10,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Hive-mind",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20avian%20face%20portrait%2C%20corroded%20etchings%2C%20crested%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=349280918",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_5ryavq_mpalpqjg.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_5ryavq_mpalpqjg.jpg",
+  "generatedAt": "2026-05-18T02:46:14.361Z",
+  "botVersion": "1.0"
+}
