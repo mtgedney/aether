@@ -1,0 +1,49 @@
+{
+  "id": "1e6yfzf_mpallf5t",
+  "name": "Oulok Zuleth, Abyssal-Ghost",
+  "short": "Oulok",
+  "epithet": "Abyssal-Ghost",
+  "description": "Hydrodynamic lifeforms with pressure-resistant plating and sonar-based neural communication.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 3034993515,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Aquatic alien species. thick rubbery skin like a whale or shark, translucent fins, wet glistening texture, deep-sea monstrous scales, absolutely NO human features. HEAD: Fin-Tipped structure with unique silhouette. EYES: 7 Milky-White eyes that look completely non-human. SURFACE: Mossy patches texture with a #00f2ff primary hue. GARB: Wearing Pragmatic Tech-Suit. UNIQUE: Features Writhing Tentacles. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Fin-Tipped",
+  "eyeStyle": "Milky-White",
+  "eyeCount": 7,
+  "clothing": "Pragmatic Tech-Suit",
+  "markingPattern": "Mossy patches",
+  "morphology": "Writhing Tentacles",
+  "color": "#00f2ff",
+  "glyph": "✦",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 10,
+    "devotion": 4,
+    "expansionism": 7,
+    "isolationism": 3,
+    "mercantilism": 3
+  },
+  "aggression": 10,
+  "devotion": 4,
+  "expansionism": 7,
+  "isolationism": 3,
+  "mercantilism": 3,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Democracy",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20mossy%20patches%2C%20fin-tipped%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3034993515",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1e6yfzf_mpallf5t.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1e6yfzf_mpallf5t.jpg",
+  "generatedAt": "2026-05-18T02:41:43.759Z",
+  "botVersion": "1.0"
+}
