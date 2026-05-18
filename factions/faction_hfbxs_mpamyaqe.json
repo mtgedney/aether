@@ -1,0 +1,49 @@
+{
+  "id": "hfbxs_mpamyaqe",
+  "name": "Kravox Mynok, Tide-Caller",
+  "short": "Kravox",
+  "epithet": "Tide-Caller",
+  "description": "Hydrodynamic lifeforms with pressure-resistant plating and sonar-based neural communication.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 29268784,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Aquatic alien species. thick rubbery skin like a whale or shark, translucent fins, wet glistening texture, deep-sea monstrous scales, absolutely NO human features. HEAD: Fin-Tipped structure with unique silhouette. EYES: 1 Heat-vision-pits eyes that look completely non-human. SURFACE: Corroded Etchings texture with a #9d00ff primary hue. GARB: Wearing Holographic Shroud. UNIQUE: Features Metallic Spikes. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Fin-Tipped",
+  "eyeStyle": "Heat-vision-pits",
+  "eyeCount": 1,
+  "clothing": "Holographic Shroud",
+  "markingPattern": "Corroded Etchings",
+  "morphology": "Metallic Spikes",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 5,
+    "devotion": 6,
+    "expansionism": 6,
+    "isolationism": 1,
+    "mercantilism": 10
+  },
+  "aggression": 5,
+  "devotion": 6,
+  "expansionism": 6,
+  "isolationism": 1,
+  "mercantilism": 10,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Democracy",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20corroded%20etchings%2C%20fin-tipped%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=29268784",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_hfbxs_mpamyaqe.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_hfbxs_mpamyaqe.jpg",
+  "generatedAt": "2026-05-18T03:20:43.930Z",
+  "botVersion": "1.0"
+}
