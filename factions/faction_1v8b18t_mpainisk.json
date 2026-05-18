@@ -1,0 +1,49 @@
+{
+  "id": "1v8b18t_mpainisk",
+  "name": "Feneth Accord, The Prime",
+  "short": "Feneth",
+  "epithet": "The Prime",
+  "description": "Mechanical-based lifeforms. The Prime.",
+  "biology": "Mechanical",
+  "race": "Mechanical",
+  "seed": 4065185549,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Mechanical alien species. exposed wiring and hydraulic pistons, weathered industrial metal casing, worn plating, antique robotics, oil-stained machinery. HEAD: Elongated structure with unique silhouette. EYES: 3 Heat-vision-pits eyes that look completely non-human. SURFACE: Star-Map Freckles texture with a #ff8800 primary hue. GARB: Wearing Bio-Organic Wrap. UNIQUE: Features Retractable Gills. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Elongated",
+  "eyeStyle": "Heat-vision-pits",
+  "eyeCount": 3,
+  "clothing": "Bio-Organic Wrap",
+  "markingPattern": "Star-Map Freckles",
+  "morphology": "Retractable Gills",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Barren",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Barren",
+    "secondary": "Volcanic",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 4,
+    "devotion": 6,
+    "expansionism": 2,
+    "isolationism": 10,
+    "mercantilism": 4
+  },
+  "aggression": 4,
+  "devotion": 6,
+  "expansionism": 2,
+  "isolationism": 10,
+  "mercantilism": 4,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Democracy",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20mechanical%20face%20portrait%2C%20star-map%20freckles%2C%20elongated%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=4065185549",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1v8b18t_mpainisk.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1v8b18t_mpainisk.jpg",
+  "generatedAt": "2026-05-18T01:20:30.104Z",
+  "botVersion": "1.0"
+}
