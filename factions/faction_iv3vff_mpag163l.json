@@ -1,0 +1,49 @@
+{
+  "id": "iv3vff_mpag163l",
+  "name": "Bochar, Mycelium-Mind",
+  "short": "Bochar",
+  "epithet": "Mycelium-Mind",
+  "description": "Fungoid-based lifeforms. Mycelium-Mind.",
+  "biology": "Fungoid",
+  "race": "Fungoid",
+  "seed": 1140639963,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Fungoid alien species. thick mycelial stalks, mushroom-cap head structures, spore-emitting pits, damp moldy textures, organic fungal growth patterns. HEAD: Fin-Tipped structure with unique silhouette. EYES: 4 Glow-Visor eyes that look completely non-human. SURFACE: Thick Warts texture with a #00ff88 primary hue. GARB: Wearing Pressure Suit. UNIQUE: Features Exposed brain lobes. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Fin-Tipped",
+  "eyeStyle": "Glow-Visor",
+  "eyeCount": 4,
+  "clothing": "Pressure Suit",
+  "markingPattern": "Thick Warts",
+  "morphology": "Exposed brain lobes",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 6,
+    "devotion": 4,
+    "expansionism": 5,
+    "isolationism": 1,
+    "mercantilism": 10
+  },
+  "aggression": 6,
+  "devotion": 4,
+  "expansionism": 5,
+  "isolationism": 1,
+  "mercantilism": 10,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Theocracy",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20fungoid%20face%20portrait%2C%20thick%20warts%2C%20fin-tipped%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1140639963",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_iv3vff_mpag163l.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_iv3vff_mpag163l.jpg",
+  "generatedAt": "2026-05-18T00:07:00.032Z",
+  "botVersion": "1.0"
+}
