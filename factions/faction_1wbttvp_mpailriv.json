@@ -1,0 +1,49 @@
+{
+  "id": "1wbttvp_mpailriv",
+  "name": "Oulok, The Hive-Speaker",
+  "short": "Oulok",
+  "epithet": "The Hive-Speaker",
+  "description": "Insectoid-based lifeforms. The Hive-Speaker.",
+  "biology": "Insectoid",
+  "race": "Insectoid",
+  "seed": 4131567493,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Insectoid alien species. hard chitinous exoskeleton, segmented thorax, chitin plating, bristly hairs, compound predatory insect features, no human nose or mouth. HEAD: Fin-Tipped structure with unique silhouette. EYES: 1 Stalk-eyes eyes that look completely non-human. SURFACE: Runic Carvings texture with a #00ff88 primary hue. GARB: Wearing Minimalist Tunic. UNIQUE: Features Secondary set of arms. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Fin-Tipped",
+  "eyeStyle": "Stalk-eyes",
+  "eyeCount": 1,
+  "clothing": "Minimalist Tunic",
+  "markingPattern": "Runic Carvings",
+  "morphology": "Secondary set of arms",
+  "color": "#00ff88",
+  "glyph": "⬡",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 8,
+    "devotion": 9,
+    "expansionism": 3,
+    "isolationism": 9,
+    "mercantilism": 5
+  },
+  "aggression": 8,
+  "devotion": 9,
+  "expansionism": 3,
+  "isolationism": 9,
+  "mercantilism": 5,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Theocracy",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20insectoid%20face%20portrait%2C%20runic%20carvings%2C%20fin-tipped%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=4131567493",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1wbttvp_mpailriv.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1wbttvp_mpailriv.jpg",
+  "generatedAt": "2026-05-18T01:19:00.180Z",
+  "botVersion": "1.0"
+}
