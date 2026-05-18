@@ -1,0 +1,49 @@
+{
+  "id": "10v3l34_mpan9p88",
+  "name": "Gryia, Slime-King",
+  "short": "Gryia",
+  "epithet": "Slime-King",
+  "description": "Highly adaptive protoplasmic entities capable of rapid cellular reconfiguration.",
+  "biology": "Amorphous",
+  "race": "Amorphous",
+  "seed": 2229017728,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Amorphous alien species. viscous translucent slime, shifting protoplasmic mass, lack of symmetry, gelatinous undulating surface, multiple small erratic nuclei. HEAD: Dome structure with unique silhouette. EYES: 8 Vertical-pupils eyes that look completely non-human. SURFACE: Corroded Etchings texture with a #9d00ff primary hue. GARB: Wearing Minimalist Tunic. UNIQUE: Features Retractable Gills. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Dome",
+  "eyeStyle": "Vertical-pupils",
+  "eyeCount": 8,
+  "clothing": "Minimalist Tunic",
+  "markingPattern": "Corroded Etchings",
+  "morphology": "Retractable Gills",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Sub-Surface Ocean Sphere",
+  "secondaryBiome": "Water-World",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Sub-Surface Ocean Sphere",
+    "secondary": "Water-World",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 8,
+    "devotion": 5,
+    "expansionism": 6,
+    "isolationism": 4,
+    "mercantilism": 9
+  },
+  "aggression": 8,
+  "devotion": 5,
+  "expansionism": 6,
+  "isolationism": 4,
+  "mercantilism": 9,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Merchant Guild",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20amorphous%20face%20portrait%2C%20corroded%20etchings%2C%20dome%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2229017728",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_10v3l34_mpan9p88.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_10v3l34_mpan9p88.jpg",
+  "generatedAt": "2026-05-18T03:29:43.925Z",
+  "botVersion": "1.0"
+}
