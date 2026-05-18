@@ -1,0 +1,49 @@
+{
+  "id": "evjhrv_mpalnz9r",
+  "name": "Bochon Xyl-an, The Hive-Speaker",
+  "short": "Bochon",
+  "epithet": "The Hive-Speaker",
+  "description": "Xenooids are chitinous organisms with complex social structures and highly efficient communal processing.",
+  "biology": "Insectoid",
+  "race": "Insectoid",
+  "seed": 899504059,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Insectoid alien species. hard chitinous exoskeleton, segmented thorax, chitin plating, bristly hairs, compound predatory insect features, no human nose or mouth. HEAD: Dome structure with unique silhouette. EYES: 3 Cybernetic-monocle eyes that look completely non-human. SURFACE: Leopard-like spots texture with a #9d00ff primary hue. GARB: Wearing Ceremonial Plate. UNIQUE: Features Ossified plates. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Dome",
+  "eyeStyle": "Cybernetic-monocle",
+  "eyeCount": 3,
+  "clothing": "Ceremonial Plate",
+  "markingPattern": "Leopard-like spots",
+  "morphology": "Ossified plates",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 8,
+    "devotion": 8,
+    "expansionism": 8,
+    "isolationism": 4,
+    "mercantilism": 10
+  },
+  "aggression": 8,
+  "devotion": 8,
+  "expansionism": 8,
+  "isolationism": 4,
+  "mercantilism": 10,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Theocracy",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20insectoid%20face%20portrait%2C%20leopard-like%20spots%2C%20dome%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=899504059",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_evjhrv_mpalnz9r.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_evjhrv_mpalnz9r.jpg",
+  "generatedAt": "2026-05-18T02:44:44.046Z",
+  "botVersion": "1.0"
+}
