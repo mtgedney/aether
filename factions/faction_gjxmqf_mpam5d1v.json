@@ -1,0 +1,49 @@
+{
+  "id": "gjxmqf_mpam5d1v",
+  "name": "Bocheth Vaken, Talon-Lord",
+  "short": "Bocheth",
+  "epithet": "Talon-Lord",
+  "description": "Lightweight bipeds with hollow bone structures adapted for thin atmospheres.",
+  "biology": "Avian",
+  "race": "Avian",
+  "seed": 1000940631,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Avian alien species. covered in thick plumage or downy feathers, a hard keratin beak, hollow bone structure visible in neck, bird-like anatomy, predatory raptor features. HEAD: Dome structure with unique silhouette. EYES: 2 Pupil-less eyes that look completely non-human. SURFACE: Geometric Tattoos texture with a #ffff00 primary hue. GARB: Wearing Tribal leather wraps. UNIQUE: Features Bioluminescent Halos. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Dome",
+  "eyeStyle": "Pupil-less",
+  "eyeCount": 2,
+  "clothing": "Tribal leather wraps",
+  "markingPattern": "Geometric Tattoos",
+  "morphology": "Bioluminescent Halos",
+  "color": "#ffff00",
+  "glyph": "⊕",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Lush Forest",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Lush Forest",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 9,
+    "devotion": 5,
+    "expansionism": 3,
+    "isolationism": 9,
+    "mercantilism": 10
+  },
+  "aggression": 9,
+  "devotion": 5,
+  "expansionism": 3,
+  "isolationism": 9,
+  "mercantilism": 10,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Hive-mind",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20avian%20face%20portrait%2C%20geometric%20tattoos%2C%20dome%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1000940631",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_gjxmqf_mpam5d1v.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_gjxmqf_mpam5d1v.jpg",
+  "generatedAt": "2026-05-18T02:58:14.107Z",
+  "botVersion": "1.0"
+}
