@@ -1,0 +1,49 @@
+{
+  "id": "dlghok_mpaik08v",
+  "name": "Vakon Covenant, The Current-Walker",
+  "short": "Vakon",
+  "epithet": "The Current-Walker",
+  "description": "Aquatic-based lifeforms. The Current-Walker.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 822101636,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Aquatic alien species. thick rubbery skin like a whale or shark, translucent fins, wet glistening texture, deep-sea monstrous scales, absolutely NO human features. HEAD: Tusked structure with unique silhouette. EYES: 2 Pupil-less eyes that look completely non-human. SURFACE: Asymmetrical Splatter texture with a #9d00ff primary hue. GARB: Wearing Ceremonial Plate. UNIQUE: Features Floating Shards. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Tusked",
+  "eyeStyle": "Pupil-less",
+  "eyeCount": 2,
+  "clothing": "Ceremonial Plate",
+  "markingPattern": "Asymmetrical Splatter",
+  "morphology": "Floating Shards",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 8,
+    "devotion": 2,
+    "expansionism": 10,
+    "isolationism": 8,
+    "mercantilism": 10
+  },
+  "aggression": 8,
+  "devotion": 2,
+  "expansionism": 10,
+  "isolationism": 8,
+  "mercantilism": 10,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Hive-mind",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20asymmetrical%20splatter%2C%20tusked%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=822101636",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_dlghok_mpaik08v.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_dlghok_mpaik08v.jpg",
+  "generatedAt": "2026-05-18T01:17:30.032Z",
+  "botVersion": "1.0"
+}
