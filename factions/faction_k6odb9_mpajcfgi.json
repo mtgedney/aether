@@ -1,0 +1,49 @@
+{
+  "id": "k6odb9_mpajcfgi",
+  "name": "Zultor, Cloud-Surfer",
+  "short": "Zultor",
+  "epithet": "Cloud-Surfer",
+  "description": "Avian-based lifeforms. Cloud-Surfer.",
+  "biology": "Avian",
+  "race": "Avian",
+  "seed": 1220538213,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Avian alien species. covered in thick plumage or downy feathers, a hard keratin beak, hollow bone structure visible in neck, bird-like anatomy, predatory raptor features. HEAD: Elongated structure with unique silhouette. EYES: 5 Heat-vision-pits eyes that look completely non-human. SURFACE: Geometric Tattoos texture with a #ffff00 primary hue. GARB: Wearing Ceremonial Plate. UNIQUE: Features Webbed Extremities. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Elongated",
+  "eyeStyle": "Heat-vision-pits",
+  "eyeCount": 5,
+  "clothing": "Ceremonial Plate",
+  "markingPattern": "Geometric Tattoos",
+  "morphology": "Webbed Extremities",
+  "color": "#ffff00",
+  "glyph": "⊕",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Lush Forest",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Lush Forest",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 6,
+    "devotion": 6,
+    "expansionism": 4,
+    "isolationism": 6,
+    "mercantilism": 1
+  },
+  "aggression": 6,
+  "devotion": 6,
+  "expansionism": 4,
+  "isolationism": 6,
+  "mercantilism": 1,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Hive-mind",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20avian%20face%20portrait%2C%20geometric%20tattoos%2C%20elongated%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1220538213",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_k6odb9_mpajcfgi.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_k6odb9_mpajcfgi.jpg",
+  "generatedAt": "2026-05-18T01:40:00.296Z",
+  "botVersion": "1.0"
+}
