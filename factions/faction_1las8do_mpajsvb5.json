@@ -1,0 +1,49 @@
+{
+  "id": "1las8do_mpajsvb5",
+  "name": "Vaxdar Foundation, Tide-Caller",
+  "short": "Vaxdar",
+  "epithet": "Tide-Caller",
+  "description": "Aquatic-based lifeforms. Tide-Caller.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 3464685420,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Aquatic alien species. thick rubbery skin like a whale or shark, translucent fins, wet glistening texture, deep-sea monstrous scales, absolutely NO human features. HEAD: Tubular structure with unique silhouette. EYES: 4 Holographic eyes that look completely non-human. SURFACE: Star-Map Freckles texture with a #ff0055 primary hue. GARB: Wearing Bio-Organic Wrap. UNIQUE: Features Crystalline Spines. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Tubular",
+  "eyeStyle": "Holographic",
+  "eyeCount": 4,
+  "clothing": "Bio-Organic Wrap",
+  "markingPattern": "Star-Map Freckles",
+  "morphology": "Crystalline Spines",
+  "color": "#ff0055",
+  "glyph": "△",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 10,
+    "devotion": 9,
+    "expansionism": 9,
+    "isolationism": 2,
+    "mercantilism": 5
+  },
+  "aggression": 10,
+  "devotion": 9,
+  "expansionism": 9,
+  "isolationism": 2,
+  "mercantilism": 5,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Theocracy",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20star-map%20freckles%2C%20tubular%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3464685420",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1las8do_mpajsvb5.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1las8do_mpajsvb5.jpg",
+  "generatedAt": "2026-05-18T01:52:00.071Z",
+  "botVersion": "1.0"
+}
