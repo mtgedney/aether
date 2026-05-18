@@ -1,0 +1,49 @@
+{
+  "id": "17koirv_mpahsuju",
+  "name": "Fendar Hegemony, Tide-Caller",
+  "short": "Fendar",
+  "epithet": "Tide-Caller",
+  "description": "Aquatic-based lifeforms. Tide-Caller.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 2634781963,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Aquatic alien species. thick rubbery skin like a whale or shark, translucent fins, wet glistening texture, deep-sea monstrous scales, absolutely NO human features. HEAD: Spherical structure with unique silhouette. EYES: 6 Slit eyes that look completely non-human. SURFACE: Geometric Tattoos texture with a #00f2ff primary hue. GARB: Wearing Tattered Nomad Cloak. UNIQUE: Features Feathery Antennae. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Spherical",
+  "eyeStyle": "Slit",
+  "eyeCount": 6,
+  "clothing": "Tattered Nomad Cloak",
+  "markingPattern": "Geometric Tattoos",
+  "morphology": "Feathery Antennae",
+  "color": "#00f2ff",
+  "glyph": "✦",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 5,
+    "devotion": 5,
+    "expansionism": 5,
+    "isolationism": 6,
+    "mercantilism": 4
+  },
+  "aggression": 5,
+  "devotion": 5,
+  "expansionism": 5,
+  "isolationism": 6,
+  "mercantilism": 4,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Democracy",
+    "culture": "Survival"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20geometric%20tattoos%2C%20spherical%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2634781963",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_17koirv_mpahsuju.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_17koirv_mpahsuju.jpg",
+  "generatedAt": "2026-05-18T00:56:30.025Z",
+  "botVersion": "1.0"
+}
