@@ -1,0 +1,49 @@
+{
+  "id": "1ta096d_mpajo057",
+  "name": "Vaxtor, Crystal-Heart",
+  "short": "Vaxtor",
+  "epithet": "Crystal-Heart",
+  "description": "Lithoid-based lifeforms. Crystal-Heart.",
+  "biology": "Lithoid",
+  "race": "Lithoid",
+  "seed": 3947109493,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Lithoid alien species. composed of jagged rock and tectonic plates, crystalline geodic inclusions for eyes, mossy stony texture, mountain-like ruggedness, zero soft tissue. HEAD: Hammerhead structure with unique silhouette. EYES: 2 Glow-Visor eyes that look completely non-human. SURFACE: Tiger-like banding texture with a #ffff00 primary hue. GARB: Wearing Holographic Shroud. UNIQUE: Features Prehensile trunks. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Hammerhead",
+  "eyeStyle": "Glow-Visor",
+  "eyeCount": 2,
+  "clothing": "Holographic Shroud",
+  "markingPattern": "Tiger-like banding",
+  "morphology": "Prehensile trunks",
+  "color": "#ffff00",
+  "glyph": "⊕",
+  "primaryBiome": "Volcanic",
+  "secondaryBiome": "Barren",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Volcanic",
+    "secondary": "Barren",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 10,
+    "devotion": 5,
+    "expansionism": 9,
+    "isolationism": 9,
+    "mercantilism": 4
+  },
+  "aggression": 10,
+  "devotion": 5,
+  "expansionism": 9,
+  "isolationism": 9,
+  "mercantilism": 4,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Democracy",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20lithoid%20face%20portrait%2C%20tiger-like%20banding%2C%20hammerhead%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3947109493",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1ta096d_mpajo057.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1ta096d_mpajo057.jpg",
+  "generatedAt": "2026-05-18T01:49:00.129Z",
+  "botVersion": "1.0"
+}
