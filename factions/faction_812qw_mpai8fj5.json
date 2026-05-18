@@ -1,0 +1,49 @@
+{
+  "id": "812qw_mpai8fj5",
+  "name": "Xylvox Accord, Talon-Lord",
+  "short": "Xylvox",
+  "epithet": "Talon-Lord",
+  "description": "Avian-based lifeforms. Talon-Lord.",
+  "biology": "Avian",
+  "race": "Avian",
+  "seed": 13487144,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Avian alien species. covered in thick plumage or downy feathers, a hard keratin beak, hollow bone structure visible in neck, bird-like anatomy, predatory raptor features. HEAD: Crustacean-like structure with unique silhouette. EYES: 2 Cybernetic-monocle eyes that look completely non-human. SURFACE: Flowing Circuitry texture with a #9d00ff primary hue. GARB: Wearing Tribal leather wraps. UNIQUE: Features Webbed Extremities. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Crustacean-like",
+  "eyeStyle": "Cybernetic-monocle",
+  "eyeCount": 2,
+  "clothing": "Tribal leather wraps",
+  "markingPattern": "Flowing Circuitry",
+  "morphology": "Webbed Extremities",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Lush Forest",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Lush Forest",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 3,
+    "devotion": 6,
+    "expansionism": 2,
+    "isolationism": 2,
+    "mercantilism": 8
+  },
+  "aggression": 3,
+  "devotion": 6,
+  "expansionism": 2,
+  "isolationism": 2,
+  "mercantilism": 8,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Hive-mind",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20avian%20face%20portrait%2C%20flowing%20circuitry%2C%20crustacean-like%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=13487144",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_812qw_mpai8fj5.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_812qw_mpai8fj5.jpg",
+  "generatedAt": "2026-05-18T01:08:30.332Z",
+  "botVersion": "1.0"
+}
