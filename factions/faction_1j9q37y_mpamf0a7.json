@@ -1,0 +1,49 @@
+{
+  "id": "1j9q37y_mpamf0a7",
+  "name": "Vaxix, The Hydrophile",
+  "short": "Vaxix",
+  "epithet": "The Hydrophile",
+  "description": "Hydrodynamic lifeforms with pressure-resistant plating and sonar-based neural communication.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 3341973454,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Aquatic alien species. thick rubbery skin like a whale or shark, translucent fins, wet glistening texture, deep-sea monstrous scales, absolutely NO human features. HEAD: Spherical structure with unique silhouette. EYES: 1 Slit eyes that look completely non-human. SURFACE: Iridescent Scales texture with a #ff8800 primary hue. GARB: Wearing Ancient monk robes. UNIQUE: Features Metallic Spikes. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Spherical",
+  "eyeStyle": "Slit",
+  "eyeCount": 1,
+  "clothing": "Ancient monk robes",
+  "markingPattern": "Iridescent Scales",
+  "morphology": "Metallic Spikes",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 9,
+    "devotion": 2,
+    "expansionism": 2,
+    "isolationism": 3,
+    "mercantilism": 4
+  },
+  "aggression": 9,
+  "devotion": 2,
+  "expansionism": 2,
+  "isolationism": 3,
+  "mercantilism": 4,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Theocracy",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20iridescent%20scales%2C%20spherical%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=3341973454",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1j9q37y_mpamf0a7.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1j9q37y_mpamf0a7.jpg",
+  "generatedAt": "2026-05-18T03:05:44.193Z",
+  "botVersion": "1.0"
+}
