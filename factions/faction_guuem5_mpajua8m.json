@@ -1,0 +1,49 @@
+{
+  "id": "guuem5_mpajua8m",
+  "name": "Oulon, The Hive-Speaker",
+  "short": "Oulon",
+  "epithet": "The Hive-Speaker",
+  "description": "Insectoid-based lifeforms. The Hive-Speaker.",
+  "biology": "Insectoid",
+  "race": "Insectoid",
+  "seed": 1019265917,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Insectoid alien species. hard chitinous exoskeleton, segmented thorax, chitin plating, bristly hairs, compound predatory insect features, no human nose or mouth. HEAD: Rectangular structure with unique silhouette. EYES: 1 Holographic eyes that look completely non-human. SURFACE: Geodic Growths texture with a #9d00ff primary hue. GARB: Wearing Pilot's flight jacket. UNIQUE: Features Extra sensory bristles. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Rectangular",
+  "eyeStyle": "Holographic",
+  "eyeCount": 1,
+  "clothing": "Pilot's flight jacket",
+  "markingPattern": "Geodic Growths",
+  "morphology": "Extra sensory bristles",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Arctic Tundra",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Volcanic",
+    "hostile": "Arctic Tundra"
+  },
+  "disposition": {
+    "aggression": 6,
+    "devotion": 6,
+    "expansionism": 8,
+    "isolationism": 9,
+    "mercantilism": 9
+  },
+  "aggression": 6,
+  "devotion": 6,
+  "expansionism": 8,
+  "isolationism": 9,
+  "mercantilism": 9,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Warlord Council",
+    "culture": "Freedom"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20insectoid%20face%20portrait%2C%20geodic%20growths%2C%20rectangular%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1019265917",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_guuem5_mpajua8m.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_guuem5_mpajua8m.jpg",
+  "generatedAt": "2026-05-18T01:53:30.238Z",
+  "botVersion": "1.0"
+}
