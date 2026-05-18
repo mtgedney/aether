@@ -1,0 +1,49 @@
+{
+  "id": "2a9jyf_mpamwjgp",
+  "name": "Terok Ascendancy, Gear-Warden",
+  "short": "Terok",
+  "epithet": "Gear-Warden",
+  "description": "Automated synthetics driven by crystalline logic cores and advanced energy cells.",
+  "biology": "Mechanical",
+  "race": "Mechanical",
+  "seed": 138174279,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Mechanical alien species. exposed wiring and hydraulic pistons, weathered industrial metal casing, worn plating, antique robotics, oil-stained machinery. HEAD: Flat structure with unique silhouette. EYES: 3 Single-Large eyes that look completely non-human. SURFACE: Iridescent Scales texture with a #ff0055 primary hue. GARB: Wearing Pragmatic Tech-Suit. UNIQUE: Features Multiple chins. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Flat",
+  "eyeStyle": "Single-Large",
+  "eyeCount": 3,
+  "clothing": "Pragmatic Tech-Suit",
+  "markingPattern": "Iridescent Scales",
+  "morphology": "Multiple chins",
+  "color": "#ff0055",
+  "glyph": "△",
+  "primaryBiome": "Barren",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Barren",
+    "secondary": "Volcanic",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 2,
+    "devotion": 10,
+    "expansionism": 7,
+    "isolationism": 5,
+    "mercantilism": 9
+  },
+  "aggression": 2,
+  "devotion": 10,
+  "expansionism": 7,
+  "isolationism": 5,
+  "mercantilism": 9,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Theocracy",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20mechanical%20face%20portrait%2C%20iridescent%20scales%2C%20flat%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=138174279",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_2a9jyf_mpamwjgp.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_2a9jyf_mpamwjgp.jpg",
+  "generatedAt": "2026-05-18T03:19:14.032Z",
+  "botVersion": "1.0"
+}
