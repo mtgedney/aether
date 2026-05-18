@@ -1,0 +1,49 @@
+{
+  "id": "1coj97g_mpaj75n1",
+  "name": "Zulus, Coral-Guard",
+  "short": "Zulus",
+  "epithet": "Coral-Guard",
+  "description": "Aquatic-based lifeforms. Coral-Guard.",
+  "biology": "Aquatic",
+  "race": "Aquatic",
+  "seed": 2943585628,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Aquatic alien species. thick rubbery skin like a whale or shark, translucent fins, wet glistening texture, deep-sea monstrous scales, absolutely NO human features. HEAD: Flat structure with unique silhouette. EYES: 1 Diamond eyes that look completely non-human. SURFACE: Tiger-like banding texture with a #9d00ff primary hue. GARB: Wearing Ancient monk robes. UNIQUE: Features Secondary set of arms. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Flat",
+  "eyeStyle": "Diamond",
+  "eyeCount": 1,
+  "clothing": "Ancient monk robes",
+  "markingPattern": "Tiger-like banding",
+  "morphology": "Secondary set of arms",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Water-World",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Arid Desert",
+  "habitability": {
+    "primary": "Water-World",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Arid Desert"
+  },
+  "disposition": {
+    "aggression": 9,
+    "devotion": 6,
+    "expansionism": 10,
+    "isolationism": 4,
+    "mercantilism": 3
+  },
+  "aggression": 9,
+  "devotion": 6,
+  "expansionism": 10,
+  "isolationism": 4,
+  "mercantilism": 3,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Merchant Guild",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20aquatic%20face%20portrait%2C%20tiger-like%20banding%2C%20flat%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2943585628",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1coj97g_mpaj75n1.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1coj97g_mpaj75n1.jpg",
+  "generatedAt": "2026-05-18T01:35:30.273Z",
+  "botVersion": "1.0"
+}
