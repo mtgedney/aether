@@ -1,0 +1,49 @@
+{
+  "id": "kg0vam_mpaivky9",
+  "name": "Grytor League, Slime-King",
+  "short": "Grytor",
+  "epithet": "Slime-King",
+  "description": "Amorphous-based lifeforms. Slime-King.",
+  "biology": "Amorphous",
+  "race": "Amorphous",
+  "seed": 1236237934,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Amorphous alien species. viscous translucent slime, shifting protoplasmic mass, lack of symmetry, gelatinous undulating surface, multiple small erratic nuclei. HEAD: Hooded structure with unique silhouette. EYES: 3 Multiple-Small eyes that look completely non-human. SURFACE: Runic Carvings texture with a #9d00ff primary hue. GARB: Wearing Minimalist Tunic. UNIQUE: Features Multi-layered Crest. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Hooded",
+  "eyeStyle": "Multiple-Small",
+  "eyeCount": 3,
+  "clothing": "Minimalist Tunic",
+  "markingPattern": "Runic Carvings",
+  "morphology": "Multi-layered Crest",
+  "color": "#9d00ff",
+  "glyph": "◈",
+  "primaryBiome": "Sub-Surface Ocean Sphere",
+  "secondaryBiome": "Water-World",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Sub-Surface Ocean Sphere",
+    "secondary": "Water-World",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 6,
+    "devotion": 2,
+    "expansionism": 9,
+    "isolationism": 9,
+    "mercantilism": 8
+  },
+  "aggression": 6,
+  "devotion": 2,
+  "expansionism": 9,
+  "isolationism": 9,
+  "mercantilism": 8,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Warlord Council",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20amorphous%20face%20portrait%2C%20runic%20carvings%2C%20hooded%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=1236237934",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_kg0vam_mpaivky9.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_kg0vam_mpaivky9.jpg",
+  "generatedAt": "2026-05-18T01:26:30.198Z",
+  "botVersion": "1.0"
+}
