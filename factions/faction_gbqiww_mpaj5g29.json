@@ -1,0 +1,49 @@
+{
+  "id": "gbqiww_mpaj5g29",
+  "name": "Mynia Consortium, Wind-Seeker",
+  "short": "Mynia",
+  "epithet": "Wind-Seeker",
+  "description": "Avian-based lifeforms. Wind-Seeker.",
+  "biology": "Avian",
+  "race": "Avian",
+  "seed": 987172160,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Avian alien species. covered in thick plumage or downy feathers, a hard keratin beak, hollow bone structure visible in neck, bird-like anatomy, predatory raptor features. HEAD: Spherical structure with unique silhouette. EYES: 5 Stalk-eyes eyes that look completely non-human. SURFACE: Leopard-like spots texture with a #ff0055 primary hue. GARB: Wearing Tribal leather wraps. UNIQUE: Features Prehensile trunks. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Spherical",
+  "eyeStyle": "Stalk-eyes",
+  "eyeCount": 5,
+  "clothing": "Tribal leather wraps",
+  "markingPattern": "Leopard-like spots",
+  "morphology": "Prehensile trunks",
+  "color": "#ff0055",
+  "glyph": "△",
+  "primaryBiome": "Exotic",
+  "secondaryBiome": "Lush Forest",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Exotic",
+    "secondary": "Lush Forest",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 7,
+    "devotion": 3,
+    "expansionism": 4,
+    "isolationism": 4,
+    "mercantilism": 2
+  },
+  "aggression": 7,
+  "devotion": 3,
+  "expansionism": 4,
+  "isolationism": 4,
+  "mercantilism": 2,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Theocracy",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20avian%20face%20portrait%2C%20leopard-like%20spots%2C%20spherical%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=987172160",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_gbqiww_mpaj5g29.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_gbqiww_mpaj5g29.jpg",
+  "generatedAt": "2026-05-18T01:34:00.000Z",
+  "botVersion": "1.0"
+}
