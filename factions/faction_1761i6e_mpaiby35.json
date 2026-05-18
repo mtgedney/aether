@@ -1,0 +1,49 @@
+{
+  "id": "1761i6e_mpaiby35",
+  "name": "Gryvox League, Prism-Guard",
+  "short": "Gryvox",
+  "epithet": "Prism-Guard",
+  "description": "Crystalline-based lifeforms. Prism-Guard.",
+  "biology": "Crystalline",
+  "race": "Crystalline",
+  "seed": 2610193478,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Crystalline alien species. jagged translucent quartz body, internal light refraction, sharp geometric planes, mineral-based life, reflecting light like a diamond. HEAD: Beaked structure with unique silhouette. EYES: 5 Stalk-eyes eyes that look completely non-human. SURFACE: Bioluminescent Veins texture with a #ff8800 primary hue. GARB: Wearing Tribal leather wraps. UNIQUE: Features Extra sensory bristles. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Beaked",
+  "eyeStyle": "Stalk-eyes",
+  "eyeCount": 5,
+  "clothing": "Tribal leather wraps",
+  "markingPattern": "Bioluminescent Veins",
+  "morphology": "Extra sensory bristles",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Barren",
+  "secondaryBiome": "Arctic Tundra",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Barren",
+    "secondary": "Arctic Tundra",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 1,
+    "devotion": 2,
+    "expansionism": 1,
+    "isolationism": 4,
+    "mercantilism": 6
+  },
+  "aggression": 1,
+  "devotion": 2,
+  "expansionism": 1,
+  "isolationism": 4,
+  "mercantilism": 6,
+  "civilisation": {
+    "techBias": "Mechanical",
+    "governmentType": "Hive-mind",
+    "culture": "Faith"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20crystalline%20face%20portrait%2C%20bioluminescent%20veins%2C%20beaked%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2610193478",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1761i6e_mpaiby35.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_1761i6e_mpaiby35.jpg",
+  "generatedAt": "2026-05-18T01:11:30.106Z",
+  "botVersion": "1.0"
+}
