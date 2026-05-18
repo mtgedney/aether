@@ -1,0 +1,49 @@
+{
+  "id": "18uv6qr_mpajm8vk",
+  "name": "Xylix, The Explorer",
+  "short": "Xylix",
+  "epithet": "The Explorer",
+  "description": "Humanoid-based lifeforms. The Explorer.",
+  "biology": "Humanoid",
+  "race": "Humanoid",
+  "seed": 2712355299,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Humanoid alien species. diverse non-human facial features, unusual proportions, exotic skin textures, unique ridge structures, avoid stereotypical grey alien look. HEAD: Hooded structure with unique silhouette. EYES: 6 Telescopic eyes that look completely non-human. SURFACE: Symmetrical Stripes texture with a #ff8800 primary hue. GARB: Wearing Phase-Shift Harness. UNIQUE: Features Crystalline Spines. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Hooded",
+  "eyeStyle": "Telescopic",
+  "eyeCount": 6,
+  "clothing": "Phase-Shift Harness",
+  "markingPattern": "Symmetrical Stripes",
+  "morphology": "Crystalline Spines",
+  "color": "#ff8800",
+  "glyph": "✴",
+  "primaryBiome": "Lush Forest",
+  "secondaryBiome": "Sub-Surface Ocean Sphere",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Lush Forest",
+    "secondary": "Sub-Surface Ocean Sphere",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 5,
+    "devotion": 7,
+    "expansionism": 4,
+    "isolationism": 2,
+    "mercantilism": 2
+  },
+  "aggression": 5,
+  "devotion": 7,
+  "expansionism": 4,
+  "isolationism": 2,
+  "mercantilism": 2,
+  "civilisation": {
+    "techBias": "Biological",
+    "governmentType": "Merchant Guild",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20humanoid%20face%20portrait%2C%20symmetrical%20stripes%2C%20hooded%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2712355299",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_18uv6qr_mpajm8vk.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_18uv6qr_mpajm8vk.jpg",
+  "generatedAt": "2026-05-18T01:47:30.094Z",
+  "botVersion": "1.0"
+}
