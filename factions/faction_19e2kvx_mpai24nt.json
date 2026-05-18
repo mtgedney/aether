@@ -1,0 +1,49 @@
+{
+  "id": "19e2kvx_mpai24nt",
+  "name": "Myneth, The Overclocked",
+  "short": "Myneth",
+  "epithet": "The Overclocked",
+  "description": "Mechanical-based lifeforms. The Overclocked.",
+  "biology": "Mechanical",
+  "race": "Mechanical",
+  "seed": 2744612925,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Mechanical alien species. exposed wiring and hydraulic pistons, weathered industrial metal casing, worn plating, antique robotics, oil-stained machinery. HEAD: Multi-lobed structure with unique silhouette. EYES: 6 Single-Large eyes that look completely non-human. SURFACE: Geodic Growths texture with a #ffff00 primary hue. GARB: Wearing Bio-Organic Wrap. UNIQUE: Features Webbed Extremities. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Multi-lobed",
+  "eyeStyle": "Single-Large",
+  "eyeCount": 6,
+  "clothing": "Bio-Organic Wrap",
+  "markingPattern": "Geodic Growths",
+  "morphology": "Webbed Extremities",
+  "color": "#ffff00",
+  "glyph": "⊕",
+  "primaryBiome": "Barren",
+  "secondaryBiome": "Volcanic",
+  "hostileBiome": "Water-World",
+  "habitability": {
+    "primary": "Barren",
+    "secondary": "Volcanic",
+    "hostile": "Water-World"
+  },
+  "disposition": {
+    "aggression": 10,
+    "devotion": 5,
+    "expansionism": 10,
+    "isolationism": 8,
+    "mercantilism": 6
+  },
+  "aggression": 10,
+  "devotion": 5,
+  "expansionism": 10,
+  "isolationism": 8,
+  "mercantilism": 6,
+  "civilisation": {
+    "techBias": "Nomadic",
+    "governmentType": "Theocracy",
+    "culture": "Dominance"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20mechanical%20face%20portrait%2C%20geodic%20growths%2C%20multi-lobed%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=2744612925",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_19e2kvx_mpai24nt.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_19e2kvx_mpai24nt.jpg",
+  "generatedAt": "2026-05-18T01:04:00.298Z",
+  "botVersion": "1.0"
+}
