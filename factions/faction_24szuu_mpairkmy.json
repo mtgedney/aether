@@ -1,0 +1,49 @@
+{
+  "id": "24szuu_mpairkmy",
+  "name": "Pylok, The Shifter",
+  "short": "Pylok",
+  "epithet": "The Shifter",
+  "description": "Amorphous-based lifeforms. The Shifter.",
+  "biology": "Amorphous",
+  "race": "Amorphous",
+  "seed": 129003654,
+  "visualPrompt": "A stunning cinema-grade macro portrait of a bizarre Amorphous alien species. viscous translucent slime, shifting protoplasmic mass, lack of symmetry, gelatinous undulating surface, multiple small erratic nuclei. HEAD: Crustacean-like structure with unique silhouette. EYES: 1 Glowing-dots eyes that look completely non-human. SURFACE: Geodic Growths texture with a #00f2ff primary hue. GARB: Wearing Ancient monk robes. UNIQUE: Features Massive tusks. STYLE: High-detail cinematic Sci-Fi, Greg Rutkowski style, photorealistic textures, dramatic rim lighting, depth of field, 4k, intricately detailed surface anatomy, BREAK THE HUMAN SILHOUETTE, Star Wars creature design.",
+  "headShape": "Crustacean-like",
+  "eyeStyle": "Glowing-dots",
+  "eyeCount": 1,
+  "clothing": "Ancient monk robes",
+  "markingPattern": "Geodic Growths",
+  "morphology": "Massive tusks",
+  "color": "#00f2ff",
+  "glyph": "✦",
+  "primaryBiome": "Sub-Surface Ocean Sphere",
+  "secondaryBiome": "Water-World",
+  "hostileBiome": "Barren",
+  "habitability": {
+    "primary": "Sub-Surface Ocean Sphere",
+    "secondary": "Water-World",
+    "hostile": "Barren"
+  },
+  "disposition": {
+    "aggression": 9,
+    "devotion": 1,
+    "expansionism": 2,
+    "isolationism": 1,
+    "mercantilism": 3
+  },
+  "aggression": 9,
+  "devotion": 1,
+  "expansionism": 2,
+  "isolationism": 1,
+  "mercantilism": 3,
+  "civilisation": {
+    "techBias": "Spiritual",
+    "governmentType": "Theocracy",
+    "culture": "Knowledge"
+  },
+  "portraitUrl": "https://image.pollinations.ai/prompt/alien%20amorphous%20face%20portrait%2C%20geodic%20growths%2C%20crustacean-like%20head%2C%20sci-fi%20cinematic%20lighting%2C%20dark%20background%2C%20detailed?width=512&height=512&nologo=true&seed=129003654",
+  "portraitGitHubUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_24szuu_mpairkmy.jpg",
+  "portraitDriveUrl": "https://raw.githubusercontent.com/mtgedney/aether/main/portraits/portrait_24szuu_mpairkmy.jpg",
+  "generatedAt": "2026-05-18T01:23:30.599Z",
+  "botVersion": "1.0"
+}
